@@ -1,19 +1,13 @@
 ---
 title: Ẩm thực Hàn quốc - Phần 1
+cover: /images/kcuisine.png
+date: 2018/01/03
 category: Cuisine
 tags:
-- amthuchanquoc
-- monngonhanquoc
-- angikhidulichdenhanquoc
-- aquabubu
-cover: /images/kcuisine.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - han-quoc
+  - am-thuc
+  - mon-ngon
+  - an-gi
 ---
 
 Khi đi du lịch đến Hàn Quốc, các bạn sẽ không chỉ nhìn thấy những cảnh quan tuyệt vời mà còn được thưởng thức một nền ẩm thực đa dạng độc đáo của xứ sở Kimchi. Bạn nào xem phim Hàn thì sẽ thấy có rất nhiều cảnh ăn uống và những món ăn hấp dẫn xuất hiện rất kích thích vị giác. Trong bài viết này, mình sẽ giới thiệu về các món ăn ở Hàn quốc mà bạn nên thử khi đến đây.

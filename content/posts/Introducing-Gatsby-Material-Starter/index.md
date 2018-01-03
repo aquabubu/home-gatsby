@@ -1,7 +1,7 @@
 ---
-title: "Introducing Gatsby Material Starter"
-cover: "/logos/logo-1024.png"
-date: "2018/01/02"
+title: Introducing Gatsby Material Starter
+cover: /logos/logo-1024.png
+date: 2018/01/02
 category: sample-post
 tags:
   - sample

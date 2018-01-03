@@ -1,21 +1,15 @@
 ---
 title: A trip to Bangkok - Part 2
+cover: /images/bg-2.png
+date: 2014/09/10
 category: Travel
 tags:
-- bangkoktravel
-- aquabubu
-- thailandtravel
-- watphobangkok
-- 방콕태국여행
-- dulichbangkok
-cover: /images/bg-2.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - travel
+  - bangkok
+  - thailand
+  - watpho
+  - 방콕태국여행
+  - du-lich
 ---
 
 Let's continue to see the places in Bangkok. So, in the <a href="http://aquabubu.com/blog/travel/A-trip-to-Bangkok-Part-1/" target="_blank">last post </a>, I talked about some places and stopped at the Wat Arun and from there, I went to Wat Pho and Grand Palace.

@@ -1,20 +1,15 @@
 ---
 title: A trip to Bangkok - Part 1
+cover: /images/bg-1.png
+date: 2014/09/10
 category: Travel
 tags:
-- aquabubu
-- bangkoktravel
-- thailandtravel
-- 방콕
-- 태국
-cover: /images/bg-1.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - travel
+  - bangkok
+  - thailand
+  - 방콕
+  - 태국
+  - du-lich
 ---
 
 I'm gonna share some information about my trip to **Bangkok** - Thailand. Hope it will be helpful for those who plan to travel there.

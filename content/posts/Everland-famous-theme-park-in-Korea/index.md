@@ -1,22 +1,14 @@
 ---
 title: Everland - famous theme park in Korea
+cover: /images/evlbg.png
+date: 2018/01/03
 category: Travel
 tags:
-- everland
-- themepark
-- korea
-- travel
-- aquabubu
-- dulichhanquoc
-- 여행
-cover: /images/evlbg.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - everland
+  - themepark
+  - korea
+  - dulichhanquoc
+  - 여행
 ---
 
 If you want to go to South Korea and find a place to entertain – a bustling, funny and big enough for a whole day playing, why don’t you take a chance on Everland. It is a <span style="color:PaleVioletRed">**Korea's largest theme park** </span>, operated by SAMSUNG cooperation and located at the Everland Resort in Yongin City. Along with its main attractions, **Everland** includes a **zoo** and **water park** known as **Caribbean Bay**, but I’m not confidence wearing bikini so I just skip the Bay . I’ll show you in details about Everland theme park which has **5 different zones**: Global Fair, American Adventure, Magic Land, European Adventure, and Zootopia.

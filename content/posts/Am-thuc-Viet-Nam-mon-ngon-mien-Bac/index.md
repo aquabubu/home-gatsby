@@ -1,20 +1,15 @@
 ---
 title: Ẩm thực Việt Nam - món ngon miền Bắc
+cover: /images/northcuisine.png
+date: 2018/01/03
 category: Cuisine
 tags:
-- amthucmienbac
-- monngonmienbac
-- angiohanoi
-- monngonhathanh
-- aquabubu
-cover: /images/northcuisine.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - am-thuc
+  - mien-bac
+  - an-gi
+  - ha-noi
+  - mon-ngon
+  - ha-thanh
 ---
 
 Trong bài viết này, mình xin giới thiệu các món ăn ngon và phổ biến nhất ở miền Bắc Việt Nam. Món ăn miền Bắc có đặc điểm là vị mặn, không cay, béo hoặc ngọt như các vùng khác, chủ yếu sử dụng nước mắm pha loãng. Mặc dù đây là những món ăn đặc trưng ở miền Bắc nhưng ở vùng khác cũng được bán khá rộng rãi nhé, đặc biệt là ở Tp. Hồ Chí Minh.
