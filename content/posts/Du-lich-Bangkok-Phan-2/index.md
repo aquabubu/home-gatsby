@@ -24,7 +24,7 @@ Ngọn đền này có mái rất cao, cao gấp 3 lần so với chiều cao tr
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bangkok2-1.png" alt="">
+  <img src="./bangkok2-1.png" alt="">
   <figcaption style="font-size: 17px" align="center"> <span style="color:red"> Wat Pho với bức tượng Phật vàng </span> </figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ Từ Wat Pho đến Grand Palace thì cũng gần, nếu đi bằng thuyê�
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bangkok2-2.png" alt="">
+  <img src="./bangkok2-2.png" alt="">
   <figcaption> </figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ Chatuchak là chợ lớn nhất ở Thái Lan và là **một trong những k
 {: style="text-align: justify;"}
 
 <figure style="width: 550px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bangkok2-3.png" alt="">
+  <img src="./bangkok2-3.png" alt="">
   <figcaption> </figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ Rời Siam Discovery đến Siam Center, có **Ocean Park** ở tầng hầm. C�
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bangkok2-4.png" alt="">
+  <img src="./bangkok2-4.png" alt="">
   <figcaption> </figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ Có một nơi nhỏ cho du khách **chạm vào con sao biển** đấy, cá
 {: style="text-align: justify;"}
 
 <figure style="width: 350px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bangkok2-5.png" alt="">
+  <img src="./bangkok2-5.png" alt="">
   <figcaption> </figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ Có một nơi nhỏ cho du khách **chạm vào con sao biển** đấy, cá
 {: style="text-align: justify;"}
 
 <figure style="width: 550px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bangkok2-6.png" alt="">
+  <img src="./bangkok2-6.png" alt="">
   <figcaption> </figcaption>
 </figure>
 

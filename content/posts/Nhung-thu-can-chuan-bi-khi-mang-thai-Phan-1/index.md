@@ -1,6 +1,6 @@
 ---
 title: Những thứ cần chuẩn bị khi mang thai - Phần 1
-cover: /images/ava.png
+cover: /images/chuanbimangthai1.png
 date: 2017/12/17
 category: Baby
 tags:
@@ -18,11 +18,11 @@ Ngay từ tháng mang thai thứ hai thì mình đã đóng gói hết các th�
 
 ### <span style="color:green"> Áo lót chuyên dụng + Miếng lót ngực </span>
 
-<img align="left" style="width: 100px; padding: 10px" src="/images/feedingbra.png"> Những tháng đầu sau khi sinh thì sữa về rất nhiều, các mẹ sẽ thường xuyên ở trong tình trạng ngực căng tức và sữa bị chảy ra ướt áo (nhất là khi cho bé bú).
+<img align="left" style="width: 100px; padding: 10px" src="./feedingbra.png"> Những tháng đầu sau khi sinh thì sữa về rất nhiều, các mẹ sẽ thường xuyên ở trong tình trạng ngực căng tức và sữa bị chảy ra ướt áo (nhất là khi cho bé bú).
 {: style="text-align: justify;"}
 
 <figure style="width: 200px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/aa.png" alt="">
+  <img src="./aa.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ Cái này quan trọng lắm đấy các mẹ ạ! Sau khi sinh xong, sản
 
 ### <span style="color:dodgerblue"> Máy hâm sữa </span>
 
-<img align="left" style="width: 200px; padding: 10px"  src="/images/avent.png"> Máy này để hâm sữa lại cho nóng khi cho bé uống. Do mình không có thời gian ở nhà nhiều nên mình thường pha sẵn sữa cho con, để tủ lạnh và khi nào con uống thì hâm nóng lại nên mình đã chuẩn bị máy này. Mình dùng máy hâm sữa của Philips Avent, ngoài chế độ hâm sữa thì còn có chế độ hâm nóng đồ ăn cho bé nên khá là thuận tiện. Nhưng nếu mẹ nào không bận việc thì máy này không cần thiết nhé.
+<img align="left" style="width: 200px; padding: 10px"  src="./avent.png"> Máy này để hâm sữa lại cho nóng khi cho bé uống. Do mình không có thời gian ở nhà nhiều nên mình thường pha sẵn sữa cho con, để tủ lạnh và khi nào con uống thì hâm nóng lại nên mình đã chuẩn bị máy này. Mình dùng máy hâm sữa của Philips Avent, ngoài chế độ hâm sữa thì còn có chế độ hâm nóng đồ ăn cho bé nên khá là thuận tiện. Nhưng nếu mẹ nào không bận việc thì máy này không cần thiết nhé.
 {: style="text-align: justify;"}
 
 ### <span style="color:indigo"> Máy hút sữa </span>
@@ -46,7 +46,7 @@ Như đã nói ở trên là mình không có thời gian, nên mình cũng sử
 {: style="text-align: justify;"}
 
 <figure style="width: 300px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/medela.png" alt="">
+  <img src="./medela.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ Nên mua loại dùng điện (hoặc pin) và máy hút hai bên, như vậy s�
 ### <span style="color:seagreen">  Máy tiệt trùng bình sữa </span>
 
 <figure style="width: 300px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/avent1.png" alt="">
+  <img src="./avent1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -65,20 +65,20 @@ Ngày xưa ông bà thường đun nước sôi và trụng qua để tiệt tr�
 
 ### <span style="color:crimson"> Bình sữa và núm vú </span>
 
-<img align="left" style="width: 200px; padding: 10px"  src="/images/bottle.png"> Hiện nay có rất nhiều hãng chuyên về baby như: Avent, Upis, Double Heart, Spectra… Mỗi hãng khác nhau thì kích thước bình và kiểu núm vú cũng khác nhau. Mình dùng set bình sữa + núm của Double Heart, và thấy khá là ổn. Có 2 size bình: 160ml và 240ml với các size núm SS (bé sơ sinh), S (1-3 tháng), M (3-6 tháng) và L (6 tháng trở lên). 
+<img align="left" style="width: 200px; padding: 10px"  src="./bottle.png"> Hiện nay có rất nhiều hãng chuyên về baby như: Avent, Upis, Double Heart, Spectra… Mỗi hãng khác nhau thì kích thước bình và kiểu núm vú cũng khác nhau. Mình dùng set bình sữa + núm của Double Heart, và thấy khá là ổn. Có 2 size bình: 160ml và 240ml với các size núm SS (bé sơ sinh), S (1-3 tháng), M (3-6 tháng) và L (6 tháng trở lên). 
 {: style="text-align: justify;"}
 
-<img align="right" style="width: 200px; padding: 10px"  src="/images/numvu.png"> Núm vú của Double Heart thì mềm, thích hợp cho cả bé mới sinh. Sau này mình có đổi qua núm của Spectra mà con không thích nên lại phải đổi lại. Đến bây giờ mình vẫn dùng Double Heart. Khi bé còn nhỏ thì dùng bình 160ml chủ yếu (mình mua 2 bình). Những tháng sau lượng sữa bé bú tăng lên, nên mình mua bình 240ml (4 bình, nhưng mua trước 2 bình thôi).
+<img align="right" style="width: 200px; padding: 10px"  src="./numvu.png"> Núm vú của Double Heart thì mềm, thích hợp cho cả bé mới sinh. Sau này mình có đổi qua núm của Spectra mà con không thích nên lại phải đổi lại. Đến bây giờ mình vẫn dùng Double Heart. Khi bé còn nhỏ thì dùng bình 160ml chủ yếu (mình mua 2 bình). Những tháng sau lượng sữa bé bú tăng lên, nên mình mua bình 240ml (4 bình, nhưng mua trước 2 bình thôi).
 {: style="text-align: justify;"}
 
 ### <span style="color:teal"> Nước rửa bình </span>
 
-<img align="left" style="width: 90px; padding: 10px"  src="/images/a1.png"> Mình được giới thiệu hai hãng  BnB và Double Heart, do đã dùng bình DH rồi nên mình cũng mua set nước rửa bình + cây rửa bình của hãng này luôn. Nhưng mình nghĩ chỉ là nước rửa bình thôi thì các mẹ mua của bất kì hãng baby nào cũng được.
+<img align="left" style="width: 90px; padding: 10px"  src="./a1.png"> Mình được giới thiệu hai hãng  BnB và Double Heart, do đã dùng bình DH rồi nên mình cũng mua set nước rửa bình + cây rửa bình của hãng này luôn. Nhưng mình nghĩ chỉ là nước rửa bình thôi thì các mẹ mua của bất kì hãng baby nào cũng được.
 {: style="text-align: justify;"}
 
 ### <span style="color:navy"> Túi trữ sữa </span>
 <figure style="width: 200px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/milkbag.png" alt="">
+  <img src="./milkbag.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ Mẹ nào hút sữa ra thì nên mua túi trữ sữa chuyên dụng đ�
 {: style="text-align: justify;"}
 
 <figure style="width: 300px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/a8.png" alt="">
+  <img src="./a8.png" alt="">
   <figcaption></figcaption>
 </figure>
 

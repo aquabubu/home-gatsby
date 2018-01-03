@@ -14,7 +14,7 @@ Recently I did some online shopping and found one **Japanese toner – Hatomugi 
 {: style="text-align: justify;"}
 
 <figure style="width: 400px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hato-1.png" alt="">
+  <img src="./hato-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ There are many ways to use this skin lotion:
 {: style="text-align: justify;"}
 
 <figure style="width: 400px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hato-2.png" alt="">
+  <img src="./hato-2.png" alt="">
   <figcaption></figcaption>
 </figure>
 

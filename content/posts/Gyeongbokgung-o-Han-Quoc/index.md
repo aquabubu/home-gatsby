@@ -15,7 +15,7 @@ Nếu bạn muốn đi du lịch ở Hàn Quốc (đặc biệt là đi chơi qu
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/gung-1.png" alt="">
+  <img src="./gung-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -28,24 +28,24 @@ May mắn là mình đã đến đó vào mùa xuân nên có hoa anh đào nở
 
 <div style="text-align: center">
   <div style="display: inline-block; padding:5px">
-    <img src="/images/gung-2.png" width="250px">
+    <img src="./gung-2.png" width="250px">
 		<figcaption style="font-size: 15px" align="center"> <span style="color:olive"> Bức tượng vua Sejong </span> </figcaption>
 	 </div>
 	
 	<div style="display: inline-block; padding:5px">
-    <img src="/images/gung-3.png" width="350px">
+    <img src="./gung-3.png" width="350px">
 		<figcaption style="font-size: 15px" align="center"> <span style="color:deepskyblue"> Cổng Gwanghwamun </span> </figcaption>
 	  </div>
 </div>
 
 <div style="text-align: center">
   <div style="display: inline-block; padding:5px">
-    <img src="/images/gung-7.png" width="300px">
+    <img src="./gung-7.png" width="300px">
 		<figcaption style="font-size: 15px" align="center"> <span style="color:green"> Cổng vào thứ hai </span> </figcaption>
 	 </div>
 	
 	<div style="display: inline-block; padding:5px">
-    <img src="/images/gung-13.png" width="300px">
+    <img src="./gung-13.png" width="300px">
 		<figcaption style="font-size: 15px" align="center"> <span style="color:red"> Bên trong điện Geunjeongjeon </span> </figcaption>
 	  </div>
 </div>
@@ -57,12 +57,12 @@ May mắn là mình đã đến đó vào mùa xuân nên có hoa anh đào nở
 {: style="text-align: justify;"}
 <div style="text-align: center">
   <div style="display: inline-block; padding:1px">
-    <img src="/images/gung-4.png" width="300px">
+    <img src="./gung-4.png" width="300px">
 		<figcaption style="font-size: 15px" align="center"> <span style="color:deepskyblue"> Gyeonghoeru  </span> </figcaption>
 	 </div>
 	
 	<div style="display: inline-block; padding:5px">
-    <img src="/images/gung-5.png" width="300px">
+    <img src="./gung-5.png" width="300px">
 		<figcaption style="font-size: 15px" align="center"> <span style="color:hotpink"> Hyangwonjeong </span> </figcaption>
 	  </div>
 </div>
@@ -74,7 +74,7 @@ Khi tham quan Gyeongbokgung, bạn cũng có thể ghé qua **Bảo tàng Cung �
 {: style="text-align: justify;"}
 
 <figure style="width: 550px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/gung-9.png" alt="">
+  <img src="./gung-9.png" alt="">
   <figcaption> </figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ Vào một số dịp nếu may mắn, người ta sẽ cho thử đồ của vu
 {: style="text-align: justify;"}
 
 <figure style="width: 450px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/gung-8.png" alt="">
+  <img src="./gung-8.png" alt="">
   <figcaption> </figcaption>
 </figure>
 
@@ -117,17 +117,17 @@ Ví dụ, mình ở gần ga Suwon (Suwon station) vì vậy mình đi line 1 m�
 
 <div style="align-center">
   <div style="display: inline-block; padding:5px">
-    <img src="/images/gung-11.png" width="190px">
+    <img src="./gung-11.png" width="190px">
 		<figcaption> </figcaption>
 	 </div>
 	
 	  <div style="display: inline-block; padding:5px">
-    <img src="/images/gung-10.png" width="190px">
+    <img src="./gung-10.png" width="190px">
 		<figcaption> </figcaption>
 	 </div>
 	 
 	<div style="display: inline-block; padding:15px">
-    <img src="/images/gung-12.png" width="190px">
+    <img src="./gung-12.png" width="190px">
 		<figcaption> </figcaption>
 	  </div>
 </div>

@@ -24,7 +24,7 @@ Có rất nhiều hang baby mà các mẹ có thể mua sữa tắm gội cho b�
 {: style="text-align: justify;"}
 
 <figure style="width: 300px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/a10.png" alt="">
+  <img src="./a10.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -33,18 +33,18 @@ Như mình thì mình được một người bạn tư vấn nên mua của hã
 
 ### <span style="color:orange"> Kem chống hăm </span>
 
-<img align="right" style="width:150px; padding: 10px" src="/images/a6.png"> Vì bé nhà mình mặc tã 24/7 nên mỗi khi bé đi vệ sinh xong, mình bôi kem này vào những vùng dễ bị hăm như khe mông, bẹn… Mình đang dùng Sudocrem của Mĩ, hiệu quả lắm, bé đóng tã cả ngày mà không hề bị hăm chút nào. Hôm nào không bôi mà da bé đỏ lên thì bôi 1-2 lần là cũng hết sạch. Một hũ kem như vầy mình xài được gần một năm rồi mà vẫn chưa hết. Mình nghĩ kem chống hăm là thứ cần mua nhé các mẹ.
+<img align="right" style="width:150px; padding: 10px" src="./a6.png"> Vì bé nhà mình mặc tã 24/7 nên mỗi khi bé đi vệ sinh xong, mình bôi kem này vào những vùng dễ bị hăm như khe mông, bẹn… Mình đang dùng Sudocrem của Mĩ, hiệu quả lắm, bé đóng tã cả ngày mà không hề bị hăm chút nào. Hôm nào không bôi mà da bé đỏ lên thì bôi 1-2 lần là cũng hết sạch. Một hũ kem như vầy mình xài được gần một năm rồi mà vẫn chưa hết. Mình nghĩ kem chống hăm là thứ cần mua nhé các mẹ.
 {: style="text-align: justify;"}
 
 ### <span style="color:dodgerblue"> Vệ sinh cuống rốn </span>
 
-<img align="left" style="width:120px; padding: 10px" src="/images/a5.png"> Cái này sinh bé xong thì bác sĩ sẽ gợi ý mua để về nhà vệ sinh cho bé thôi. Mình xài loại này, mua ở nhà thuốc bên Hàn.
+<img align="left" style="width:120px; padding: 10px" src="./a5.png"> Cái này sinh bé xong thì bác sĩ sẽ gợi ý mua để về nhà vệ sinh cho bé thôi. Mình xài loại này, mua ở nhà thuốc bên Hàn.
 {: style="text-align: justify;"}
 
 ### <span style="color:indigo"> Miếng tưa lưỡi </span>
 
 <figure style="width: 200px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/a4.png" alt="">
+  <img src="./a4.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ Chọn loại tã nào cho bé xài cũng là một vấn đề khiến các m�
 {: style="text-align: justify;"}
 
 <figure style="width: 550px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/diaper.png" alt="">
+  <img src="./diaper.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ Sau mỗi lần bé đi vệ sinh thì mình dùng khăn ướt lau người bé
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/wettissue.png" alt="">
+  <img src="./wettissue.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Lúc đầu mình mua khăn ướt Pampers, xài tốt nhưng khá mắc nên sa
 ### <span style="color:peru"> Chậu tắm </span>
 
 <figure style="width: 200px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bathtub.png" alt="">
+  <img src="./bathtub.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Lúc bé còn nhỏ thì mình tắm bằng cái chậu nhỏ, sau lớn thì m�
 ### <span style="color:peru"> Bộ cắt móng tay cho bé </span>
 
 <figure style="width: 350px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/babynail.png" alt="">
+  <img src="./babynail.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ Móng tay và móng chân của bé mọc nhanh lắm, vì vậy các me
 
 ### <span style="color:crimson"> Phao bơi </span>
 
-<img align="left" style="width:200px; padding: 10px" src="/images/phao.png"> Sau khi bé được 3 tháng là mình xả nước bồn tắm và mặc phao cổ cho bé bơi rồi vì mình đọc thấy bơi sớm giúp bé tăng khả năng giữ thăng bằng, kích hoạt 2 phản xạ bơi lội bẩm sinh  quan trọng là nín thở và quẫy đạp. Những lần đầu mình ôm bé tắm chung để bé không sợ, khi bé quen thì mình để bé bơi một mình, đứng bên cạnh nhìn bé. Mẹ nào cho con bơi thì chú ý luôn ở gần và quan sát bé thật kĩ nhé, không được lơ là đâu. Khi bé còn nhỏ thì cho bé bơi 5-7 phút là được rồi, tránh bơi lâu bé sẽ bị lạnh, và nhớ xả nước ấm cho bé nhé.
+<img align="left" style="width:200px; padding: 10px" src="./phao.png"> Sau khi bé được 3 tháng là mình xả nước bồn tắm và mặc phao cổ cho bé bơi rồi vì mình đọc thấy bơi sớm giúp bé tăng khả năng giữ thăng bằng, kích hoạt 2 phản xạ bơi lội bẩm sinh  quan trọng là nín thở và quẫy đạp. Những lần đầu mình ôm bé tắm chung để bé không sợ, khi bé quen thì mình để bé bơi một mình, đứng bên cạnh nhìn bé. Mẹ nào cho con bơi thì chú ý luôn ở gần và quan sát bé thật kĩ nhé, không được lơ là đâu. Khi bé còn nhỏ thì cho bé bơi 5-7 phút là được rồi, tránh bơi lâu bé sẽ bị lạnh, và nhớ xả nước ấm cho bé nhé.
 {: style="text-align: justify;"}
 
 Nguồn: Tiến sĩ Phạm Anh Tuấn - Giám đốc Trung tâm E-Bơi (Hà Nội)
@@ -105,7 +105,7 @@ Nguồn: Tiến sĩ Phạm Anh Tuấn - Giám đốc Trung tâm E-Bơi (Hà Nộ
 ### <span style="color:teal"> Đồ chơi trong phòng tắm </span>
 
 <figure style="width: 300px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bathtoy.png" alt="">
+  <img src="./bathtoy.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -115,7 +115,7 @@ Mua vài thứ đồ chơi để thả vô chậu tắm hoăc bồn tắm thì b
 ### <span style="color:blue"> Nôi cho bé + bộ mobile </span>
 
 <figure style="width: 300px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/babybed.png" alt="">
+  <img src="./babybed.png" alt="">
   <figcaption style="font: arial" align="center"> Giường cho bé </figcaption>
 </figure>
 
@@ -123,18 +123,18 @@ Mình cho bé nằm ở giường riêng trong tháng đầu tiên, trên thành
 {: style="text-align: justify;"}
 
 <figure style="width: 300px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/mobile.png" alt="">
+  <img src="./mobile.png" alt="">
   <figcaption style="font: arial" align="center"> Bộ mobile </figcaption>
 </figure>
 
 ### <span style="color:chocolate"> Xe đẩy </span> 
 
-<img align="left" style="width:200px; padding: 10px" src="/images/babystroller.png"> Ngay sau khi bé được tròn một tháng tuổi là nhà mình đưa bé đi công viên chơi rồi, và sau đó cứ mỗi cuối tuần là cho bé ra ngoài chơi. Mẹ nào mua xe đẩy thì chú ý mua loại nào có thể xoay ra để bé nằm hay ngồi đều được ấy, vì khi bé nhỏ chưa ngồi được thì mình cho bé nằm.
+<img align="left" style="width:200px; padding: 10px" src="./babystroller.png"> Ngay sau khi bé được tròn một tháng tuổi là nhà mình đưa bé đi công viên chơi rồi, và sau đó cứ mỗi cuối tuần là cho bé ra ngoài chơi. Mẹ nào mua xe đẩy thì chú ý mua loại nào có thể xoay ra để bé nằm hay ngồi đều được ấy, vì khi bé nhỏ chưa ngồi được thì mình cho bé nằm.
 {: style="text-align: justify;"}
 
 ### <span style="color:forestgreen"> Địu </span>
 
-<img align="right" style="width:170px; padding: 10px" src="/images/hipseat.png"> Mình mua cả địu để xài luôn, khi địu bé sẽ được gần mẹ, cảm nhận được cơ thể và nhịp vận động của mẹ, bé sẽ thấy gần gũi và an toàn. Cho nên hôm nào đi gần thì mình địu bé chứ không dùng xe đẩy. Nhưng mình chỉ địu khi bé đã ngồi được, vì trước đó xương sống bé còn yếu, địu có thể làm cho bé  gặp những chấn thương không mong muốn.
+<img align="right" style="width:170px; padding: 10px" src="./hipseat.png"> Mình mua cả địu để xài luôn, khi địu bé sẽ được gần mẹ, cảm nhận được cơ thể và nhịp vận động của mẹ, bé sẽ thấy gần gũi và an toàn. Cho nên hôm nào đi gần thì mình địu bé chứ không dùng xe đẩy. Nhưng mình chỉ địu khi bé đã ngồi được, vì trước đó xương sống bé còn yếu, địu có thể làm cho bé  gặp những chấn thương không mong muốn.
 {: style="text-align: justify;"}
 
 ## Quần áo cho bé
@@ -142,7 +142,7 @@ Mình cho bé nằm ở giường riêng trong tháng đầu tiên, trên thành
 ### <span style="color:brown"> Quần áo sơ sinh </span>
 
 <figure style="width: 550px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/quanaososinh.png" alt="">
+  <img src="./quanaososinh.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -158,7 +158,7 @@ Vớ tay + vớ chân thì mỗi thứ mua 5-6 đôi là được rồi, các m�
 {: style="text-align: justify;"}
 
 <figure style="width: 300px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/sockforinfant.png" alt="">
+  <img src="./sockforinfant.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -168,7 +168,7 @@ Hai tháng đầu mình cho bé đội để che thóp nên mua 2-3 cái nón th
 ### <span style="color:steelblue"> Khăn các kiểu </span>
 
 <figure style="width: 350px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/khan.png" alt="">
+  <img src="./khan.png" alt="">
   <figcaption></figcaption>
 </figure>
 Cái này thì nên mua nhiều, khăn xô nhỏ để lau mặt thì mình mua tầm 20 cái, khăn xô bự để lau người sau khi bé tắm thì 3-4 cái, khăn quấn em bé 3-4 cái.
@@ -176,12 +176,12 @@ Cái này thì nên mua nhiều, khăn xô nhỏ để lau mặt thì mình mua 
 
 ### <span style="color:gold"> Miếng lót chống thấm </span>
 
-<img align="left" style="width:170px; padding: 10px" src="/images/mienglot.png"> Lúc trong tháng bé nhà mình thường hay tè ướt quần nên mình lót miếng này ở dưới để không bị ướt ra giường, miếng lót có một mặt là cotton, một mặt là nylon. Mình mua cả hơn 20 miếng. Xài được maximum đến lúc bé được 4 tháng tuổi thôi.
+<img align="left" style="width:170px; padding: 10px" src="./mienglot.png"> Lúc trong tháng bé nhà mình thường hay tè ướt quần nên mình lót miếng này ở dưới để không bị ướt ra giường, miếng lót có một mặt là cotton, một mặt là nylon. Mình mua cả hơn 20 miếng. Xài được maximum đến lúc bé được 4 tháng tuổi thôi.
 {: style="text-align: justify;"}
 
 ### <span style="color:darkmagenta"> Gối </span>
 
-<img align="right" style="width:150px; padding: 10px" src="/images/goilom.png"> Mình dùng loại gối lõm, mua 2-3 cái để bé không bị bẹp đầu, tuy nhiên khi bé còn nhỏ các mẹ nên bế nhiều trên tay khi bé ngủ để đầu bé được tròn.
+<img align="right" style="width:150px; padding: 10px" src="./goilom.png"> Mình dùng loại gối lõm, mua 2-3 cái để bé không bị bẹp đầu, tuy nhiên khi bé còn nhỏ các mẹ nên bế nhiều trên tay khi bé ngủ để đầu bé được tròn.
 {: style="text-align: justify;"}
 
 ### <span style="color:slategray"> Yếm </span>
@@ -190,6 +190,6 @@ Cái này cứ từ từ đến lúc ăn dặm mua cũng được, có loại y�
 {: style="text-align: justify;"}
 
 <figure style="width: 350px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/yem.png" alt="">
+  <img src="./yem.png" alt="">
   <figcaption></figcaption>
 </figure>

@@ -1,7 +1,7 @@
 ---
 title: Du lịch Hong Kong
 cover: /images/hk1.png
-date: 2014/05/17
+date: 2015/05/17
 category: Travel
 tags:
   - du-lich
@@ -17,7 +17,7 @@ Sau khi máy bay hạ cánh và hoàn thành các thủ tục, mình đã đi lo
 {: style="text-align: justify;"}
 
 <figure style="width: 550px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-1.png" alt="">
+  <img src="./hongkong-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ Mình mua 2 thẻ Otopus có nhãn Train Express Ticket ở quầy thông tin tr
 ## <font color="#ED031D">D</font><font color="#8606B3">I</font><font color="#05A3D9">S</font><font color="#A6FC9C">N</font><font color="#DD103A">E</font><font color="#86136A">Y</font><font color="#3FBCC6">L</font><font color="#3818EC">A</font><font color="#7EE374">N</font><font color="#CE9CF8">D</font>
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-2.png" alt="">
+  <img src="./hongkong-2.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ Nan Lian Garden là khu vườn công cộng cũng được xây dựng theo pho
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-3.png" alt="">
+  <img src="./hongkong-3.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -246,7 +246,7 @@ Mua vé rẻ tại <a href="https://www.klook.com/activity/23-ocean-park-hong-k
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-12.png" alt="">
+  <img src="./hongkong-12.png" alt="">
   <figcaption></figcaption>
 </figure>
 

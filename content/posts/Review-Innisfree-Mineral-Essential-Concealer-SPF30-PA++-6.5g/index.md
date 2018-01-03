@@ -19,7 +19,7 @@ OMG, I hate those scars and I want to get rid of them. Since they make me so unc
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/concealer-1.png" alt="">
+  <img src="./concealer-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ It’s sold at 6,000krw (~$6) but I got this concealer at Innisfree store with t
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/concealer-2.png" alt="">
+  <img src="./concealer-2.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -52,13 +52,13 @@ I usually apply it after the cushion and use my hand or the puff to spread it. B
 
 **Skincare -> Sunblock -> Cushion -> Concealer**
 <figure style="width: 400px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/concealer-3.png" alt="">
+  <img src="./concealer-3.png" alt="">
   <figcaption></figcaption>
 </figure>
 
 **How it works for me**
 <figure style="width: 700px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/concealer-4.png" alt="">
+  <img src="./concealer-4.png" alt="">
   <figcaption></figcaption>
 </figure>
 

@@ -1,7 +1,7 @@
 ---
 title: Review - The Skin House Wrinkle Snail System Cream
 cover: /images/snail.png
-date: 2017/09/17
+date: 2017/07/04
 category: Beauty
 tags:
   - wrinkle-snail-system-cream
@@ -24,7 +24,7 @@ The cream comes in a plastic dark brown jar with a golden lid that's as clear as
 {: style="text-align: justify;"}
 
 <figure style="width: 550px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/snail-1.png" alt="">
+  <img src="./snail-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ The white cream is so thick and sticky, which makes it very difficult to take ou
 {: style="text-align: justify;"}
 
 <figure style="width: 550px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/snail-2.png" alt="">
+  <img src="./snail-2.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ This cream is used as the last step in my skincare routine. Just use a little am
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/snail-3.png" alt="">
+  <img src="./snail-3.png" alt="">
   <figcaption></figcaption>
 </figure>
 

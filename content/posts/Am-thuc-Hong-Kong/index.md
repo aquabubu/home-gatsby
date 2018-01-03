@@ -17,7 +17,7 @@ Với mình, những món ăn đa dạng là một trong những điều đ�
 ## <font color="#CE9CF8"> Sing Heung Yuen (2 Mei Lun Street, Central) </font>
 
 <figure style="width: 450px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-1.png" alt="">
+  <img src="./hkfood-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ Từ ga tàu điện ngầm Sheung Wan, đi bộ 6 phút từ lối ra A2 sẽ 
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-2.png" alt="">
+  <img src="./hkfood-2.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ Giờ mở cửa: 12h30-22h30. Quán này đối diện với Sing Heung Yu
 {: style="text-align: justify;"}
 
 <figure style="width: 450px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-3.png" alt="">
+  <img src="./hkfood-3.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ Giờ mở cửa: 12h30-22h30. Quán này đối diện với Sing Heung Yu
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-4.png" alt="">
+  <img src="./hkfood-4.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ Từ trạm tàu điện ngầm Tin Hau, chỉ mất 1 phút đi bộ từ cư�
 {: style="text-align: justify;"}
 
 <figure style="width: 450px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-5.png" alt="">
+  <img src="./hkfood-5.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ Mình gọi phần mì Sister Wah, nước dùng với thịt bò mềm ng
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-6.png" alt="">
+  <img src="./hkfood-6.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ Bánh Polo (Bánh dứa) là bánh dứa với  bơ mật ong - một trong nh�
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-7.png" alt="">
+  <img src="./hkfood-7.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ Từ Trạm MTR của Jordan, đi bộ thêm 2 phút từ lối ra C2. Mình c
 {: style="text-align: justify;"}
 
 <figure style="width: 450px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-8.png" alt="">
+  <img src="./hkfood-8.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ Mình đã gọi trứng bác với bánh mì nướng, spaghetti, và một 
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-9.png" alt="">
+  <img src="./hkfood-9.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ Bên cạnh Australia Dairy Company là Hui Lau San. Các món tráng miệng �
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-10.png" alt="">
+  <img src="./hkfood-10.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -124,14 +124,14 @@ No lắm rồi đấy nhưng mà vẫn muốn ăn thêm nên mình mua **
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-11.png" alt="">
+  <img src="./hkfood-11.png" alt="">
   <figcaption></figcaption>
 </figure>
 
 ## <font color="hotpink"> Seam Eett Taiwan Noodles </font>
 
 <figure style="width: 450px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-12.png" alt="">
+  <img src="./hkfood-12.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -139,7 +139,7 @@ Nằm ở giữa Ladies Market và được vây quanh bởi các gian hàng tro
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-13.png" alt="">
+  <img src="./hkfood-13.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -149,14 +149,14 @@ Từ ga Sham Shui Po, mất có 1 phút đi bộ từ lối ra B2. Quán này
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-14.png" alt="">
+  <img src="./hkfood-14.png" alt="">
   <figcaption></figcaption>
 </figure>
 
 ## <font color="Navy"> Kung Wo Dou Bun Chong (G/F, 118 Pei Ho Street, Sham Shui Po) </font>
 
 <figure style="width: 450px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-15.png" alt="">
+  <img src="./hkfood-15.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -164,7 +164,7 @@ Bạn chắc chắn không thể không ăn thử món **Taufu Fa** độc đ�
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-16.png" alt="">
+  <img src="./hkfood-16.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -174,7 +174,7 @@ Cuối cùng, là quán dim sum ngon nhất ở Hong Kong. Bạn cần phải 
 {: style="text-align: justify;"}
 
 <figure style="width: 450px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-17.png" alt="">
+  <img src="./hkfood-17.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -182,7 +182,7 @@ Cuối cùng, là quán dim sum ngon nhất ở Hong Kong. Bạn cần phải 
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-18.png" alt="">
+  <img src="./hkfood-18.png" alt="">
   <figcaption></figcaption>
 </figure>
 

@@ -1,7 +1,7 @@
 ---
 title: Review - Kem dưỡng da ốc sên The Skin House Wrinkle Snail System Cream
 cover: /images/snail.png
-date: 2017/04/19
+date: 2017/07/04
 category: Beauty
 tags:
   - kemocsen
@@ -21,7 +21,7 @@ Kem đựng trong một hũ nhựa màu nâu sẫm với nắp vàng. Không có
 {: style="text-align: justify;"}
 
 <figure style="width: 550px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/snail-1.png" alt="">
+  <img src="./snail-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ Chất kem màu trắng khá dày và rất dính tay, rất khó để lấy l�
 {: style="text-align: justify;"}
 
 <figure style="width: 550px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/snail-2.png" alt="">
+  <img src="./snail-2.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ Các bạn xem thành phần ở trang <a href="http://www.cosdna.com/eng/cosmet
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/snail-3.png" alt="">
+  <img src="./snail-3.png" alt="">
   <figcaption></figcaption>
 </figure>
 

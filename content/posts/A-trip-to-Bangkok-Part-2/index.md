@@ -22,7 +22,7 @@ The ceiling of this temple is very high, around three times higher than human he
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bangkok2-1.png" alt="">
+  <img src="./bangkok2-1.png" alt="">
   <figcaption style="font-size: 17px" align="center"> <span style="color:red"> Wat Pho with the golden Buddha statues </span> </figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ It is quite close from Wat Pho to the Grand Palace, costing 500 baht (~$15) by b
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bangkok2-2.png" alt="">
+  <img src="./bangkok2-2.png" alt="">
   <figcaption> </figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ Chatuchak is the largest market in Thailand and **one of the world’s largest w
 {: style="text-align: justify;"}
 
 <figure style="width: 550px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bangkok2-3.png" alt="">
+  <img src="./bangkok2-3.png" alt="">
   <figcaption> </figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ Leaving Siam Discovery to Siam Center, there is an **Ocean Park** in the basemen
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bangkok2-4.png" alt="">
+  <img src="./bangkok2-4.png" alt="">
   <figcaption> </figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ There is a small place to **touch the starfish**. Employees will guide and help 
 {: style="text-align: justify;"}
 
 <figure style="width: 350px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bangkok2-5.png" alt="">
+  <img src="./bangkok2-5.png" alt="">
   <figcaption> </figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ It is an 88-story, skyscraper hotel, which is the **tallest hotel in Southeast
 {: style="text-align: justify;"}
 
 <figure style="width: 550px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bangkok2-6.png" alt="">
+  <img src="./bangkok2-6.png" alt="">
   <figcaption> </figcaption>
 </figure>
 

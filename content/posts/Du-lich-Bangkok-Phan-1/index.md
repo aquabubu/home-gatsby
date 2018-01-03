@@ -28,7 +28,7 @@ Bến Central Pier cung cấp một loại phương tiện giao thông trên s�
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bangkok-1.png" alt="">
+  <img src="./bangkok-1.png" alt="">
   <figcaption style="font-size: 17px" align="center"> <span style="color:deepskyblue"> Cảnh quan hai bên bờ nhìn từ Chao Phraya Express Boat </span> </figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ Chợ Taling Chan không quá lớn và có rất nhiều người Thái nên 
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bangkok-2.png" alt="">
+  <img src="./bangkok-2.png" alt="">
   <figcaption> </figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Bánh xèo Thái giòn giòn khá giống như bánh xèo Việt Nam nhưng 
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bangkok-3.png" alt="">
+  <img src="./bangkok-3.png" alt="">
   <figcaption> </figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ Nếu bạn mặc quần hay váy ngắn thì bạn phải thuê một miếng
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bangkok-4.png" alt="">
+  <img src="./bangkok-4.png" alt="">
   <figcaption> </figcaption>
 </figure>
 

@@ -16,7 +16,7 @@ Gần đây, khi tìm mua loại nước cân bằng da mới (toner), mình đ�
 {: style="text-align: justify;"}
 
 <figure style="width: 400px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hato-1.png" alt="">
+  <img src="./hato-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Có rất nhiều cách để sử dụng skin lotion này:
 {: style="text-align: justify;"}
 
 <figure style="width: 400px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hato-2.png" alt="">
+  <img src="./hato-2.png" alt="">
   <figcaption></figcaption>
 </figure>
 

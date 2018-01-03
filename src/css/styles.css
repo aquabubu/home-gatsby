@@ -9,6 +9,7 @@ html {
 body {
   margin: 0;
   padding: 20px;
+  text-align: justify;
 }
 
 .hidden.menu {

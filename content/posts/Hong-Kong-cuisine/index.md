@@ -17,7 +17,7 @@ The diversity of food is one of the most memorable things in Hong Kong due to 
 ## <font color="#CE9CF8"> Sing Heung Yuen (2 Mei Lun Street, Central) </font>
 
 <figure style="width: 450px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-1.png" alt="">
+  <img src="./hkfood-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ From Sheung Wan MTR Station, it takes 6 min walk from Exit A2 and the restauran
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-2.png" alt="">
+  <img src="./hkfood-2.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ Open hour: 12h30-22h30. This restaurant is opposite to the Sing Heung Yuen above
 {: style="text-align: justify;"}
 
 <figure style="width: 450px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-3.png" alt="">
+  <img src="./hkfood-3.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ In Hong Kong, the taste of the food is different from restaurants. The Curry bee
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-4.png" alt="">
+  <img src="./hkfood-4.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ From Tin Hau MTR Station, it takes 1 min walk from Exit A2 to a family restauran
 {: style="text-align: justify;"}
 
 <figure style="width: 450px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-5.png" alt="">
+  <img src="./hkfood-5.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ I had a Sister Wah with delicious broth and soft tendon beef. In Hong Kong, they
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-6.png" alt="">
+  <img src="./hkfood-6.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ The Polo Bun (Pineapple Bun) is a pineapple pancake with honey butter - the mos
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-7.png" alt="">
+  <img src="./hkfood-7.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ From Jordan MTR Station, it took a 2 min walk from Exit C2. I've never eaten s
 {: style="text-align: justify;"}
 
 <figure style="width: 450px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-8.png" alt="">
+  <img src="./hkfood-8.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ I had Scrambled egg with toasted bread, Spaghetti with ham and a cup of milk te
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-9.png" alt="">
+  <img src="./hkfood-9.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ Next to Australia Dairy Company is Hui Lau San. The dessert here was good but 
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-10.png" alt="">
+  <img src="./hkfood-10.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -127,14 +127,14 @@ Though I was already full, I still wanted to eat more so I chose the **Durian ca
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-11.png" alt="">
+  <img src="./hkfood-11.png" alt="">
   <figcaption></figcaption>
 </figure>
 
 ## <font color="hotpink"> Seam Eett Taiwan Noodles </font>
 
 <figure style="width: 450px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-12.png" alt="">
+  <img src="./hkfood-12.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -142,7 +142,7 @@ Located in the middle of Ladies Market and slightly covered by stalls in the mar
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-13.png" alt="">
+  <img src="./hkfood-13.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -152,14 +152,14 @@ From Sham Shui Po station, it took 1 min walk from Exit B2. This place open at 6
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-14.png" alt="">
+  <img src="./hkfood-14.png" alt="">
   <figcaption></figcaption>
 </figure>
 
 ## <font color="Navy"> Kung Wo Dou Bun Chong (G/F, 118 Pei Ho Street, Sham Shui Po) </font>
 
 <figure style="width: 450px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-15.png" alt="">
+  <img src="./hkfood-15.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -167,7 +167,7 @@ You definitely can't miss the unique **Taufu Fa** of this place. Tau Fu Fa was 
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-16.png" alt="">
+  <img src="./hkfood-16.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -177,14 +177,14 @@ Finally, the best restaurant of the most delicious dim sum in Hong Kong. You ne
 {: style="text-align: justify;"}
 
 <figure style="width: 450px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-17.png" alt="">
+  <img src="./hkfood-17.png" alt="">
   <figcaption></figcaption>
 </figure>
 
 As for the dim sum, here is the famous dim sum restaurant so the dim sum dishes are ALL delicious. Do not be afraid when choosing what to eat. I :blue_heart: this place!
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hkfood-18.png" alt="">
+  <img src="./hkfood-18.png" alt="">
   <figcaption></figcaption>
 </figure>
 

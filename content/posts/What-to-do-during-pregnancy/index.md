@@ -50,7 +50,7 @@ If you are trying to conceive, then take folic acid before about 3 months. You s
 {: style="text-align: justify;"}
 
 <figure style="width: 450px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/baby4.png" alt="">
+  <img src="./baby4.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ It requires 2500 kcal/day, the ratio of protein: sugar: fat is 2: 5: 3. But I at
 
 ### Sleeping position
 <figure style="width: 450px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/baby3.png" alt="">
+  <img src="./baby3.png" alt="">
   <figcaption></figcaption>
 </figure>
 The best position is “SOS” (sleep on side). Left side or right side are both fine. People say that it’s even better to sleep on your left side because it will increase the amount of blood and nutrients that reach the placenta and your baby. Keep your legs and knees bent, and put a pillow between your legs will make you feel more comfortable.
@@ -89,7 +89,7 @@ Check with your doctor to see if you are able to go traveling (traveling by plan
 If you go traveling, don't forget to wear the seat belt to avoid injury. The lap belt should be placed below your belly, touching your thighs, low and snug on your hip bones (like the picture). Avoid sitting motionless for too long, sit and stretch your legs for blood circulation.
 {: style="text-align: justify;"}
 <figure style="width: 450px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/baby1.png" alt="">
+  <img src="./baby1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -109,7 +109,7 @@ When choosing a place to go, be careful of Zika virus. In pregnant women, it may
 
 ## <span style="color:mediumvioletred"> Third trimester </span>
  <figure style="width: 450px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/baby2.gif" alt="">
+  <img src="./baby2.gif" alt="">
   <figcaption></figcaption>
 </figure>
   * At this time, you will feel tired, uncomfortable and heavier because the fetus size gets bigger. The mother will also feel the baby hiccup inside her abdomen, 3-4 times a day, but it's normal.
