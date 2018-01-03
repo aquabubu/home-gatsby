@@ -1,8 +1,8 @@
 {
   "name": "aquabubu",
-  "description": "AquaBuBu website",
+  "description": "AquaBuBu Website",
   "version": "0.1.0",
-  "author": "aquabubu <aquabubu@gmail.com>",
+  "author": "aquabubu <aquabubu1731@gmail.com>",
   "dependencies": {
     "babel-plugin-lodash": "^3.3.2",
     "font-awesome": "^4.7.0",

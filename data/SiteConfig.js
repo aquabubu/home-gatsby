@@ -27,12 +27,12 @@ module.exports = {
     },
     {
       label: "Twitter",
-      url: "https://twitter.com/aquabubu",
+      url: "https://twitter.com/aquabubu1731",
       iconClassName: "fa fa-twitter"
     },
     {
       label: "Email",
-      url: "mailto:aquabubu@gmail.com",
+      url: "mailto:aquabubu1731@gmail.com",
       iconClassName: "fa fa-envelope"
     }
   ],
