@@ -87,7 +87,7 @@ class PostTemplate extends Component {
           <Disqus postNode={postNode} expanded={expanded} />
         </div>
 
-        <PostSuggestions postNode={postNode} />
+        {/* <PostSuggestions postNode={postNode} /> */}
       </div>
     );
   }
