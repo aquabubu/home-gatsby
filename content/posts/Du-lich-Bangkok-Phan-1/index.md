@@ -1,6 +1,6 @@
 ---
 title: Du lịch Bangkok - Phần 1
-categories: Travel
+category: Travel
 tags:
 - dulichbangkok
 - chonoitailingchan

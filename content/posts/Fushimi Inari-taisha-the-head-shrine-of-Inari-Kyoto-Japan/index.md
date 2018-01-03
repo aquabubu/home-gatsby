@@ -1,6 +1,6 @@
 ---
 title: Fushimi Inari-taisha (伏見稲荷大社) - the head shrine of Inari, Kyoto, Japan
-categories: Travel
+category: Travel
 tags:
 - japantravel
 - fushimiInaritaisha

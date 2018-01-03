@@ -1,6 +1,6 @@
 ---
 title: Những thứ cần chuẩn bị khi mang thai - Phần 1
-categories: Baby
+category: Baby
 tags:
 - nhungthucanchuanbikhimangthai
 - dochomebau

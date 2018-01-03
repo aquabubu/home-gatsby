@@ -1,6 +1,6 @@
 ---
 title: Du lịch Nhật Bản - Công viên Nara
-categories: Travel
+category: Travel
 tags:
 - dulichnhatban
 - congviennaranhatban

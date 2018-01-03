@@ -1,6 +1,6 @@
 ---
 title: Ẩm thực Hong Kong
-categories: Cuisine
+category: Cuisine
 tags:
 - angiohongkong
 - monngonhongkong

@@ -1,6 +1,6 @@
 ---
 title: Review - Innisfree Mineral Essential Concealer SPF30 PA++ 6.5g
-categories: Beauty
+category: Beauty
 tags:
 - concealer
 - innisfree

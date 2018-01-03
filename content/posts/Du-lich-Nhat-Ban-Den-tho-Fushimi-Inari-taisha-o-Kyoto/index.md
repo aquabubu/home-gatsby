@@ -1,6 +1,6 @@
 ---
 title: Du lịch Nhật Bản - Đền thờ Fushimi Inari-taisha (伏見稲荷大社) ở Kyoto
-categories: Travel
+category: Travel
 tags:
 - dulichnhatban
 - dulichkyoto

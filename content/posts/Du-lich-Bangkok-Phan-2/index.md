@@ -1,6 +1,6 @@
 ---
 title: Du lịch Bangkok - Phần 2
-categories: Travel
+category: Travel
 tags:
 - dulichbangkok
 - watpho

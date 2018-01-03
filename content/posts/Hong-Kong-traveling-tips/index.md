@@ -1,6 +1,6 @@
 ---
 title: Hong Kong traveling tips
-categories: Travel
+category: Travel
 tags:
 - hongkongtravelingtips
 - hongkongtravel

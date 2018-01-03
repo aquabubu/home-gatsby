@@ -1,6 +1,6 @@
 ---
 title: Review - The Skin House Wrinkle Snail System Cream
-categories: Beauty
+category: Beauty
 tags:
 - theskinhousewrinklesnailsystemcream
 - koreansnailcream

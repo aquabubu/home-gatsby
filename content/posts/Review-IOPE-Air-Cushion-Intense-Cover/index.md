@@ -1,6 +1,6 @@
 ---
 title: Review - IOPE Air Cushion Intense Cover
-categories: Beauty
+category: Beauty
 tags:
 - IOPEAirCushionIntenseCover
 - Koreancosmetic

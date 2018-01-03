@@ -1,6 +1,6 @@
 ---
 title: Review - Nước cân bằng da Hatomugi Skin Lotion
-categories: Beauty
+category: Beauty
 tags:
 - tonerhatomugi
 - hatomugiskinlotion

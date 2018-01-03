@@ -1,6 +1,6 @@
 ---
 title: Review - Tẩy tế bào chết IOPE Moisture Skin Soft Peeling Gel
-categories: Beauty
+category: Beauty
 tags:
 - TaytebaochetIOPEMoistureSkinSoftPeelingGel
 - myphamhan

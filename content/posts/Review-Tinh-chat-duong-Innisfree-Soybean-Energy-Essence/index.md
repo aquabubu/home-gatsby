@@ -1,6 +1,6 @@
 ---
 title: Review - Tinh chất dưỡng Innisfree Soybean Energy Essence
-categories: Beauty
+category: Beauty
 tags:
 - tinhchatduongdaunanhinnisfree
 - InnisfreeSoybeanEnergyEssence

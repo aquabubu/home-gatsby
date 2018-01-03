@@ -1,6 +1,6 @@
 ---
 title: Review - Innisfree Soybean Energy Essence
-categories: Beauty
+category: Beauty
 tags:
 - innisfreesoybeanenergyessence
 - koreancosmetic

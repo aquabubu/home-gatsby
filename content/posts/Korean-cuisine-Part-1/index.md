@@ -1,6 +1,6 @@
 ---
 title: Korean cuisine - Part 1
-categories: Cuisine
+category: Cuisine
 tags:
 - koreancuisine
 - koreanfood

@@ -1,6 +1,6 @@
 ---
 title: Review - IOPE Moisture Skin Soft Peeling Gel
-categories: Beauty
+category: Beauty
 tags:
 - skincare
 - aquabubu

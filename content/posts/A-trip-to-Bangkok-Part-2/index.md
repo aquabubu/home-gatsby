@@ -1,6 +1,6 @@
 ---
 title: A trip to Bangkok - Part 2
-categories: Travel
+category: Travel
 tags:
 - bangkoktravel
 - aquabubu

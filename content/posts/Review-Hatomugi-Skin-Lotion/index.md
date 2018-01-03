@@ -1,6 +1,6 @@
 ---
 title: Review - Hatomugi Skin Lotion
-categories: Beauty
+category: Beauty
 tags:
 - japaneseskincare
 - hatomugiskinlotion

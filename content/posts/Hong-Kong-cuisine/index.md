@@ -1,6 +1,6 @@
 ---
 title: Hong Kong cuisine
-categories: Cuisine
+category: Cuisine
 tags:
 - hongkongfoodtrip
 - hongkongtravel

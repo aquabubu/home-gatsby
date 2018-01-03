@@ -1,6 +1,6 @@
 ---
 title: Du lịch ở Seoul - Gyeongbokgung
-categories: Travel
+category: Travel
 tags:
 - dulichhanquoc
 - gyeongbokgung

@@ -1,6 +1,6 @@
 ---
 title: Nara Deer Park in Japan
-categories: Travel
+category: Travel
 tags:
 - naradeerpark
 - japantravel

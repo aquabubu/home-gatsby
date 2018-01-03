@@ -1,6 +1,6 @@
 ---
 title: Vietnamese cuisine - In the North
-categories: Cuisine
+category: Cuisine
 tags:
 - vietnamesecuisine
 - foodinnorthernvietnam

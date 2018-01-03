@@ -1,6 +1,6 @@
 ---
 title: Review - Kem dưỡng da ốc sên The Skin House Wrinkle Snail System Cream
-categories: Beauty
+category: Beauty
 tags:
 - kemocsen
 - skincareroutine

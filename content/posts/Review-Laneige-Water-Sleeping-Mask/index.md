@@ -1,6 +1,6 @@
 ---
 title: Review - Laneige Water Sleeping Mask
-categories: Beauty
+category: Beauty
 tags:
 - laneigewatersleepingmask
 - skincareroutine

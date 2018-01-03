@@ -1,6 +1,6 @@
 ---
 title: Du lịch Hong Kong
-categories: Travel
+category: Travel
 tags:
 - dulichhongkong
 - nhungdiadiemdulichohongkong

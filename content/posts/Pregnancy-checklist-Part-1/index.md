@@ -1,6 +1,6 @@
 ---
 title: Pregnancy checklist - Part 1
-categories: Baby
+category: Baby
 tags:
 - pregnancychecklistpart1
 - thingstobuywhenpregnancy

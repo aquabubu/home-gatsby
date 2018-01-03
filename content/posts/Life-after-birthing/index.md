@@ -1,6 +1,6 @@
 ---
 title: Life after birthing
-categories: Baby
+category: Baby
 tags:
 - lifeafterbirthing
 - constipation

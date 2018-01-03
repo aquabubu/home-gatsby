@@ -1,6 +1,6 @@
 ---
 title: Gyeongbok Palace (경복궁) in Korea
-categories: Travel
+category: Travel
 tags:
 - koreatravel
 - gyeongbokgunginspring

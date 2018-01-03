@@ -1,6 +1,6 @@
 ---
 title: Hong Kong trip
-categories: Travel
+category: Travel
 tags:
 - hongkongtravel
 - placestogoinhongkong

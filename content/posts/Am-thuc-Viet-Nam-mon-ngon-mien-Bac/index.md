@@ -1,6 +1,6 @@
 ---
 title: Ẩm thực Việt Nam - món ngon miền Bắc
-categories: Cuisine
+category: Cuisine
 tags:
 - amthucmienbac
 - monngonmienbac

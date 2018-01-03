@@ -1,6 +1,6 @@
 ---
 title: What to do during pregnancy?
-categories: Baby
+category: Baby
 tags:
 - pregnancy
 - whattodowhenpregnant

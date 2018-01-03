@@ -1,6 +1,6 @@
 ---
 title: Kinh nghiệm du lịch Hong Kong
-categories: Travel
+category: Travel
 tags:
 - kinhnghiemdulichhongkong
 - chuanbigikhidihongkong

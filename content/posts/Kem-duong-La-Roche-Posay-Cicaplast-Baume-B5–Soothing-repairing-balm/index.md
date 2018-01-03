@@ -1,6 +1,6 @@
 ---
 title: Kem dưỡng - La Roche-Posay Cicaplast Baume B5 – Soothing repairing balm
-categories: Beauty
+category: Beauty
 tags:
 - larocheposay
 - cicaplastbaumeb5

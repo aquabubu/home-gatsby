@@ -1,6 +1,6 @@
 ---
 title: Ẩm thực Hàn quốc - Phần 1
-categories: Cuisine
+category: Cuisine
 tags:
 - amthuchanquoc
 - monngonhanquoc
