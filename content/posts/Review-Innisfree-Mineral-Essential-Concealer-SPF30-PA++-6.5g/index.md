@@ -9,8 +9,7 @@ tags:
 - 이니스프리
 - koreancosmetic
 - myphamhanquoc
-header:
-  teaser: assets/images/in2.png
+cover: /images/in2.png
 layout: single
 author_profile: true
 read_time: true

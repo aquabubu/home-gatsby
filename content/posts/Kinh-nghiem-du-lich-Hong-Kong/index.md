@@ -7,8 +7,7 @@ tags:
 - dulichhongkongmat baonhieutien
 - angiohongkong
 - aquabubu
-header:
-  teaser: assets/images/hk.png
+cover: /images/hk.png
 layout: single
 author_profile: true
 read_time: true

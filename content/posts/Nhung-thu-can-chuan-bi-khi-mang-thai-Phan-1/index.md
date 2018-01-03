@@ -6,8 +6,7 @@ tags:
 - dochomebau
 - vatdungcanthiet
 - aquabubu
-header:
-  teaser: assets/images/ava.png
+cover: /images/ava.png
 layout: single
 author_profile: true
 read_time: true

@@ -7,8 +7,7 @@ tags:
 - placetogoinkorea
 - dulichhanquoc
 - aquabubu
-header:
-  teaser: assets/images/gbbg.png
+cover: /images/gbbg.png
 layout: single
 author_profile: true
 read_time: true

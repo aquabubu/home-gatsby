@@ -9,8 +9,7 @@ tags:
 - normalvaginadelivery
 - travellinginpregnancy
 - aquabubu
-header:
-  teaser: assets/images/baby2.gif
+cover: /images/baby2.gif
 layout: single
 author_profile: true
 read_time: true

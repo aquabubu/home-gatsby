@@ -6,8 +6,7 @@ tags:
 - maskngulaneige
 - chamsocda
 - aquabubu
-header:
-  teaser: assets/images/ln.png
+cover: /images/ln.png
 layout: single
 author_profile: true
 read_time: true

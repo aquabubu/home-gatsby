@@ -2,8 +2,7 @@
 title: Jebudo - A tidal island in Korea
 category: null
 tags: null
-header:
-  teaser: assets/images/logo.png
+cover: /images/logo.png
 layout: single
 author_profile: true
 read_time: true

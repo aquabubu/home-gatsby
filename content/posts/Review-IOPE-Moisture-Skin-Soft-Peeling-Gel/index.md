@@ -8,8 +8,7 @@ tags:
 - taydachet
 - koreancosmetic
 - myphamhanquoc
-header:
-  teaser: assets/images/iopepeel.png
+cover: /images/iopepeel.png
 layout: single
 author_profile: true
 read_time: true

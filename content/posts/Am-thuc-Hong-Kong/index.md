@@ -6,8 +6,7 @@ tags:
 - monngonhongkong
 - thienduonganuonghongkong
 - aquabubu
-header:
-  teaser: assets/images/hk2.png
+cover: /images/hk2.png
 layout: single
 author_profile: true
 read_time: true

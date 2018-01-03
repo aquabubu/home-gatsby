@@ -8,8 +8,7 @@ tags:
 - taobonsaukhisinh
 - conentamsaukhisinh
 - aquabubu
-header:
-  teaser: assets/images/lifeafterbirth.png
+cover: /images/lifeafterbirth.png
 layout: single
 author_profile: true
 read_time: true

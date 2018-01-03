@@ -6,8 +6,7 @@ tags:
 - congviennaranhatban
 - naradeerpark
 - aquabubu
-header:
-  teaser: assets/images/nara.png
+cover: /images/nara.png
 layout: single
 author_profile: true
 read_time: true

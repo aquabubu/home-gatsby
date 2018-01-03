@@ -6,8 +6,7 @@ tags:
 - muagikhimangthai
 - dochobeyeu
 - aquabubu
-header:
-  teaser: assets/images/babybg.png
+cover: /images/babybg.png
 layout: single
 author_profile: true
 read_time: true

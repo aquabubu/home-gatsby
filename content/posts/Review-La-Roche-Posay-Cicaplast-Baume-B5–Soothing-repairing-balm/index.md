@@ -10,8 +10,7 @@ tags:
 - skincare
 - 라로슈포제
 - 스킨케어
-header:
-  teaser: assets/images/laroche.png
+cover: /images/laroche.png
 layout: single
 author_profile: true
 read_time: true

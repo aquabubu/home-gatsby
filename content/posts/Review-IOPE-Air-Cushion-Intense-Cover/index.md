@@ -7,8 +7,7 @@ tags:
 - beauty
 - basemakeup
 - aquabubu
-header:
-  teaser: assets/images/iopecushion.png
+cover: /images/iopecushion.png
 layout: single
 author_profile: true
 read_time: true

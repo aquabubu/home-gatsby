@@ -10,8 +10,7 @@ tags:
 - aquabubu
 - dulichhanquoc
 - 여행
-header:
-  teaser: assets/images/evlbg.png
+cover: /images/evlbg.png
 layout: single
 author_profile: true
 read_time: true

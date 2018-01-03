@@ -7,8 +7,7 @@ tags:
 - nuoccanbanghatomugi
 - aquabubu
 - myphamduongda
-header:
-  teaser: assets/images/hato.png
+cover: /images/hato.png
 layout: single
 author_profile: true
 read_time: true

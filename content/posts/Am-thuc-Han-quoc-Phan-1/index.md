@@ -6,8 +6,7 @@ tags:
 - monngonhanquoc
 - angikhidulichdenhanquoc
 - aquabubu
-header:
-  teaser: assets/images/kcuisine.png
+cover: /images/kcuisine.png
 layout: single
 author_profile: true
 read_time: true

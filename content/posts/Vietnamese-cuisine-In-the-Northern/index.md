@@ -8,8 +8,7 @@ tags:
 - monngonmienbac
 - bunchaobama
 - aquabubu
-header:
-  teaser: assets/images/northcuisine.png
+cover: /images/northcuisine.png
 layout: single
 author_profile: true
 read_time: true

@@ -7,8 +7,7 @@ tags:
 - denthofushimiinaritaisha
 - didauonhatban
 - aquabubu
-header:
-  teaser: assets/images/taisha.png
+cover: /images/taisha.png
 layout: single
 author_profile: true
 read_time: true

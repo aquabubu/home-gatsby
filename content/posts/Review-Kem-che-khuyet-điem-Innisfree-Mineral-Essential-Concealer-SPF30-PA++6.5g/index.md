@@ -7,8 +7,7 @@ tags:
 - chekhuyetdiem
 - basemakeup
 - aquabubu
-header:
-  teaser: assets/images/in2.png
+cover: /images/in2.png
 layout: single
 author_profile: true
 read_time: true

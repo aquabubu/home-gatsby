@@ -8,8 +8,7 @@ tags:
 - watphobangkok
 - 방콕태국여행
 - dulichbangkok
-header:
-  teaser: assets/images/bg-2.png
+cover: /images/bg-2.png
 layout: single
 author_profile: true
 read_time: true

@@ -8,8 +8,7 @@ tags:
 - moisturizer
 - kemocsentheskinhouse
 - aquabubu
-header:
-  teaser: assets/images/snail.png
+cover: /images/snail.png
 layout: single
 author_profile: true
 read_time: true

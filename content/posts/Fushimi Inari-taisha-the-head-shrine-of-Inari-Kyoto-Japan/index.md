@@ -10,8 +10,7 @@ tags:
 - dulichnhatban
 - 후시미이나리타이샤
 - 일본여행
-header:
-  teaser: assets/images/taisha.png
+cover: /images/taisha.png
 layout: single
 author_profile: true
 read_time: true

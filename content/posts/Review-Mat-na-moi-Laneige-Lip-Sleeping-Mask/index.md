@@ -7,8 +7,7 @@ tags:
 - matnamoihuongvani
 - duongmoi
 - aquabubu
-header:
-  teaser: assets/images/lipmask.png
+cover: /images/lipmask.png
 layout: single
 author_profile: true
 read_time: true

@@ -8,8 +8,7 @@ tags:
 - hongkongoceanpark
 - aquabubu
 - didauohongkong
-header:
-  teaser: assets/images/hk1.png
+cover: /images/hk1.png
 layout: single
 author_profile: true
 read_time: true

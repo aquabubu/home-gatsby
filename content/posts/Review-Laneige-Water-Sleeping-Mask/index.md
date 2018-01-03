@@ -8,8 +8,7 @@ tags:
 - matnangulaneige
 - duongdabandem
 - sleepingmask
-header:
-  teaser: assets/images/ln.png
+cover: /images/ln.png
 layout: single
 author_profile: true
 read_time: true

@@ -7,8 +7,7 @@ tags:
 - 나라사슴공원
 - 일본여행
 - aquabubu
-header:
-  teaser: assets/images/nara.png
+cover: /images/nara.png
 layout: single
 author_profile: true
 read_time: true

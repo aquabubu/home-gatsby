@@ -6,8 +6,7 @@ tags:
 - chonoitailingchan
 - chuabinhminh
 - aquabubu
-header:
-  teaser: assets/images/bg-1.png
+cover: /images/bg-1.png
 layout: single
 author_profile: true
 read_time: true

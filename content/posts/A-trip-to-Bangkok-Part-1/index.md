@@ -7,8 +7,7 @@ tags:
 - thailandtravel
 - 방콕
 - 태국
-header:
-  teaser: assets/images/bg-1.png
+cover: /images/bg-1.png
 layout: single
 author_profile: true
 read_time: true

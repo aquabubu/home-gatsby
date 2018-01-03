@@ -8,8 +8,7 @@ tags:
 - innisfree
 - tinhchatduonginnisfree
 - aquabubu
-header:
-  teaser: assets/images/in1.png
+cover: /images/in1.png
 layout: single
 author_profile: true
 read_time: true
