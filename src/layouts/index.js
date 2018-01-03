@@ -20,7 +20,6 @@ const MainLayout = ({ location, children }) => {
     { name: "Travel", path: "/travel/" },
     { name: "Beauty", path: "/beauty/" },
     { name: "Baby", path: "/baby/" },
-    { name: "Test All Posts", path: "/blog/", exact: false, icon: "newspaper" }    
   ];
   const pathname = location.pathname;
   
