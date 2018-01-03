@@ -1,10 +1,12 @@
 import React from "react";
 import { connect } from "react-redux";
 import { Menu, Icon, Sidebar } from "semantic-ui-react";
+import { toggleSidebar } from "../../store";
 
-const SidebarMenu = ({ Link, pathname, items, visible }) => {
+const SidebarMenu = ({ Link, pathname, items, visible, dispatch }) => {
   const isActive = (item) => (item.exact) ? pathname === item.path : pathname.startsWith(item.path);
   const activeItem = items.find((item) => isActive(item)) || {};
+  
   return (
     <Sidebar 
       as={Menu} 
@@ -18,10 +20,11 @@ const SidebarMenu = ({ Link, pathname, items, visible }) => {
       {items.map((item) => {
         return (
           <Menu.Item 
-            as={Link} 
+            as={Link}
             to={item.path}
             key={item.path}
-            active={isActive(item)} 
+            active={isActive(item)}
+            onClick={() => dispatch(toggleSidebar())}
           >
             <Icon name={item.icon} />
             {item.name}

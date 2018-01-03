@@ -1,7 +1,8 @@
-import React from "react";
+import React, { Component } from "react";
 import Helmet from "react-helmet";
 import Card from "react-md/lib/Cards";
 import CardText from "react-md/lib/Cards/CardText";
+import config from "../../data/SiteConfig";
 import UserInfo from "../components/UserInfo/UserInfo";
 import Disqus from "../components/Disqus/Disqus";
 import PostTags from "../components/PostTags/PostTags";
@@ -10,11 +11,10 @@ import PostInfo from "../components/PostInfo/PostInfo";
 import SocialLinks from "../components/SocialLinks/SocialLinks";
 import PostSuggestions from "../components/PostSuggestions/PostSuggestions";
 import SEO from "../components/SEO/SEO";
-import config from "../../data/SiteConfig";
 import "./b16-tomorrow-dark.css";
 import "./post.scss";
 
-export default class PostTemplate extends React.Component {
+class PostTemplate extends Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -40,8 +40,8 @@ export default class PostTemplate extends React.Component {
   }
 
   render() {
-    const { mobile } = this.state;
-    const { slug } = this.props.pathContext;
+    const mobile= this.state.mobile;
+    const slug = this.props.pathContext.slug;
     const expanded = !mobile;
     const postOverlapClass = mobile ? "post-overlap-mobile" : "post-overlap";
     const postNode = this.props.data.markdownRemark;
@@ -52,6 +52,7 @@ export default class PostTemplate extends React.Component {
     if (!post.category_id) {
       post.category_id = config.postDefaultCategoryID;
     }
+
     return (
       <div className="post-page md-grid md-grid--no-spacing">
         <Helmet>
@@ -92,9 +93,11 @@ export default class PostTemplate extends React.Component {
   }
 }
 
+export default PostTemplate
+
 /* eslint no-undef: "off" */
 export const pageQuery = graphql`
-  query BlogPostBySlug($slug: String!) {
+  query PostPageBySlug($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
       timeToRead
