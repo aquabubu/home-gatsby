@@ -1,16 +1,14 @@
 ---
-title: "Big Test"
+title: "Sample Post"
 cover: "https://unsplash.it/400/300/?random?BigTest"
-category: "moar"
-date: "01/03/2018"
-slug: "Big-Sample_Test"
+date: "2018/01/03"
+category: sample-post
 tags:
-    - test
-    - huge
+  - sample
+  - markdown-cheatsheet
 ---
 
 # NOTE: This "post" is based on [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and is meant to test styling of Markdown generated documents.
-
 
 This is intended as a quick reference and showcase. For more complete info, see [John Gruber's original spec](http://daringfireball.net/projects/markdown/) and the [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/).
 
@@ -407,4 +405,48 @@ Or, in pure Markdown, but losing the image sizing and border:
 
 ```no-highlight
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+```
+
+# Eram mora tuas in inter ferens caterva
+
+## Ait oculos
+
+Lorem markdownum. Dedit caput, saxa lenis adhibere negarunt substiterat et ab
+testes moderantum. Somno curas obscurum, et *regna spectare* quaeque tot arte
+Minyeia. Labens Actaeis potentior et **in visa Arcadiae** adfusaque et voto. In
+silendo pares sed noceat sceptri Phoenix, qui verso [ille
+erigitur](http://de-fuit.io/populorum.php): iacet confessus ibi lacusque.
+
+> Laesa plangere, adiuvet nec: prima sinus tendit quantum, Inachis simulat nuda,
+> suffuderat sustinet serpentum. Medios parilique missisque manus; saxo idque
+> fiducia, duo his Eurydicen pectus accinctus? Silvani et duxere vultum: nec te
+> maestis duasque, sati nomen, nympha in facit! Vultibus flavaque. Pirithoi
+> infantia [hamadryadas erat dei](http://priamoque.com/exhibuit.html) parente
+> iuvenali, suum caput haud foedera nocti transferre.
+
+1. Clamant donec
+2. Posuitque et relicto parent
+3. Mediis est Siculo eveniet de dictis
+4. Ripae formaque devexaque pecudes domum vidistis proles
+5. Dumque moenia amnes coniugium dumque in saxa
+
+```js
+    subdirectory.video_backlink_jquery = plug_d.upSku.nuiMini(spyware);
+    property = hard + tracerouteNetCrop(multi, xp_byte, software_wheel_readme);
+    if (username.prebinding(kbps)) {
+        fifo_expansion_ppga += io_memory_fi(analyst_copyright(protocolZifPpc,
+                -3));
+        website += webRibbon;
+    }
+```
+
+```java
+    if (hsf(-3) > artMetalMeme.yottabytePrimary(circuit, 1)) {
+        saas.backbone += netmaskUtf;
+    } else {
+        engineNybble.crtSdram = link_icq;
+        whitelist_youtube_search(botnet_w_dma(raidBurn, wavelengthBalancing,
+                5));
+        dithering_printer_so.file(toggle_right);
+    }
 ```

@@ -10,13 +10,8 @@ export default class CategoryTemplate extends React.Component {
     return (
       <div className="category-container">
         <Helmet>
-          <title>{`Posts in category "${category}" | ${
-            config.siteTitle
-          }`}</title>
-          <link
-            rel="canonical"
-            href={`${config.siteUrl}/categories/${category}`}
-          />
+          <title>{`Posts in category "${category}" | ${config.siteTitle}`}</title>
+          <link rel="canonical" href={`${config.siteUrl}/${category}`} />
         </Helmet>
         <PostListing postEdges={postEdges} />
       </div>
@@ -42,9 +37,10 @@ export const pageQuery = graphql`
           timeToRead
           frontmatter {
             title
-            tags
             cover
             date
+            category
+            tags            
           }
         }
       }

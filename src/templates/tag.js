@@ -11,7 +11,7 @@ const TagTemplate = (props) => {
     <div className="tag-container">
       <Helmet>
         <title>{`Posts tagged as "${tag}" | ${config.siteTitle}`}</title>
-        <link rel="canonical" href={`${config.siteUrl}/tags/${tag}`} />
+        <link rel="canonical" href={`${config.siteUrl}/${tag}`} />
       </Helmet>
       <PostListing postEdges={postEdges} />
     </div>
@@ -38,9 +38,10 @@ export const pageQuery = graphql`
           timeToRead
           frontmatter {
             title
-            tags
             cover
             date
+            category
+            tags
           }
         }
       }

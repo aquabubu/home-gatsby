@@ -44,12 +44,7 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
   if (node.internal.type === "MarkdownRemark") {
     const fileNode = getNode(node.parent);
     const parsedFilePath = path.parse(fileNode.relativePath);
-    if (
-      Object.prototype.hasOwnProperty.call(node, "frontmatter") &&
-      Object.prototype.hasOwnProperty.call(node.frontmatter, "title")
-    ) {
-      slug = `/${_.kebabCase(node.frontmatter.title)}`;
-    } else if (parsedFilePath.name !== "index" && parsedFilePath.dir !== "") {
+    if (parsedFilePath.name !== "index" && parsedFilePath.dir !== "") {
       slug = `/${parsedFilePath.dir}/${parsedFilePath.name}/`;
     } else if (parsedFilePath.dir === "") {
       slug = `/${parsedFilePath.name}/`;
@@ -90,8 +85,8 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
               edges {
                 node {
                   frontmatter {
-                    tags
                     category
+                    tags                    
                   }
                   fields {
                     slug
@@ -108,21 +103,21 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
           reject(result.errors);
         }
 
+        const categorySet = new Set();        
         const tagSet = new Set();
-        const categorySet = new Set();
         result.data.allMarkdownRemark.edges.forEach(edge => {
+          if (edge.node.frontmatter.category) {
+            categorySet.add(edge.node.frontmatter.category);
+          }
+
           if (edge.node.frontmatter.tags) {
             edge.node.frontmatter.tags.forEach(tag => {
               tagSet.add(tag);
             });
           }
 
-          if (edge.node.frontmatter.category) {
-            categorySet.add(edge.node.frontmatter.category);
-          }
-
           createPage({
-            path: edge.node.fields.slug,
+            path: `/${edge.node.frontmatter.category}${edge.node.fields.slug}`,
             component: postPage,
             context: {
               slug: edge.node.fields.slug
@@ -130,24 +125,24 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
           });
         });
 
-        const tagList = Array.from(tagSet);
-        tagList.forEach(tag => {
+        const categoryList = Array.from(categorySet);
+        categoryList.forEach(category => {
           createPage({
-            path: `/tags/${_.kebabCase(tag)}/`,
-            component: tagPage,
+            path: `/${_.kebabCase(category)}/`,
+            component: categoryPage,
             context: {
-              tag
+              category
             }
           });
         });
 
-        const categoryList = Array.from(categorySet);
-        categoryList.forEach(category => {
+        const tagList = Array.from(tagSet);
+        tagList.forEach(tag => {
           createPage({
-            path: `/categories/${_.kebabCase(category)}/`,
-            component: categoryPage,
+            path: `/${_.kebabCase(tag)}/`,
+            component: tagPage,
             context: {
-              category
+              tag
             }
           });
         });
