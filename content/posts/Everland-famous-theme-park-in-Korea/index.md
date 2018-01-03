@@ -1,7 +1,6 @@
 ---
 title: Everland - famous theme park in Korea
-category:
-- Travel
+category: Travel
 tags:
 - everland
 - themepark

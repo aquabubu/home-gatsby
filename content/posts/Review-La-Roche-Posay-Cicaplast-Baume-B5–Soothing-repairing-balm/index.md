@@ -1,8 +1,6 @@
 ---
 title: Review - La Roche-Posay Cicaplast Baume B5 – Soothing repairing balm
-category:
-- Beauty
-- Travel
+category: Beauty
 tags:
 - larocheposay
 - cicaplastbaumeb5

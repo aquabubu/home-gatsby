@@ -1,7 +1,8 @@
 ---
 title: Review - Laneige Lip Sleeping Mask
-category: null
-tags: null
+category: Beauty
+tags: 
+  - aquabubu
 cover: /images/lipmask.png
 layout: single
 author_profile: true
