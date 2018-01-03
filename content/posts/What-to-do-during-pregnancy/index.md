@@ -1,7 +1,7 @@
 ---
 title: What to do during pregnancy?
-date: 2017/03/15
 cover: /images/baby2.gif
+date: 2017/03/15
 category: Baby
 tags:
   - premature-birth
