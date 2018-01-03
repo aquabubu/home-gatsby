@@ -21,7 +21,7 @@ Kem đựng trong một hũ nhựa màu nâu sẫm với nắp vàng. Không có
 {: style="text-align: justify;"}
 
 <figure style="width: 550px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/snail-1.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/snail-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ Chất kem màu trắng khá dày và rất dính tay, rất khó để lấy l�
 {: style="text-align: justify;"}
 
 <figure style="width: 550px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/snail-2.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/snail-2.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ Các bạn xem thành phần ở trang <a href="http://www.cosdna.com/eng/cosmet
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/snail-3.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/snail-3.png" alt="">
   <figcaption></figcaption>
 </figure>
 

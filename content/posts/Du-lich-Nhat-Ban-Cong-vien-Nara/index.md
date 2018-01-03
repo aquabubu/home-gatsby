@@ -14,7 +14,7 @@ Trong bài viết này, mình sẽ giới thiệu về **<span style="color:gree
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/nara-1.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/nara-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ Trong bài viết này, mình sẽ giới thiệu về **<span style="color:gree
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/nara-2.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/nara-2.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ Xung quanh công viên, có rất nhiều quầy bánh **Nara-senbei** - đây l
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/nara-3.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/nara-3.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Có rất nhiều <span style="color:royalblue">**địa điểm tham quan** </s
  {: style="text-align: justify;"}
  
  <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/nara-4.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/nara-4.png" alt="">
   <figcaption></figcaption>
 </figure>
  
@@ -62,7 +62,7 @@ Công viên Nara cách ga Kintetsu Nara 5 phút đi bộ hoặc cách trạm JR 
  {: style="text-align: justify;"}
  
  <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/nara-5.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/nara-5.png" alt="">
   <figcaption></figcaption>
 </figure>
 

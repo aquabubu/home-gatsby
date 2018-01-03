@@ -15,7 +15,7 @@ Chị em nào đã và đang theo đuổi các bước dưỡng da hằng 
 {: style="text-align: justify;"}
 
 <figure style="width: 400px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/innissoybean-1.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/innissoybean-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ Tinh chất này loại bỏ tạp chất trên da cho làn da mềm mại hơn,
 {: style="text-align: justify;"}
 
 <figure style="width: 300px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/innissoybean-2.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/innissoybean-2.png" alt="">
   <figcaption style="font-size: 17px" align="center"> <span style="color:olive"> Thiết kế rất tiện khi dùng </span> </figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ Các yếu tố lên men tự nhiên™ từ đậu nành lên men làm trẻ h�
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/innissoybean-3.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/innissoybean-3.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ Sau khi rửa mặt và sử dụng toner, lấy tinh chất dưỡng ra miê
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/innissoybean-4.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/innissoybean-4.png" alt="">
   <figcaption></figcaption>
 </figure>
 

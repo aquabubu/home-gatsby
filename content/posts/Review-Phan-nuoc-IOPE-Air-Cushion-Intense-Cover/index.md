@@ -17,7 +17,7 @@ Không thể phủ nhận rằng trang điểm sẽ làm cho chị em chúng mì
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/iopecushion-1.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/iopecushion-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ Không thấy thành phần tiếng Anh nhưng và các bạn có thể xem thê
  {: style="text-align: justify;"}
  
  <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/iopecushion-2.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/iopecushion-2.png" alt="">
   <figcaption> </figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ Phấn nước dạng lỏng
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/iopecushion-3.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/iopecushion-3.png" alt="">
   <figcaption> </figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ Mình thường dưỡng da trước, xong bôi kem chống nắng, rồi đến
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/iopecushion-4.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/iopecushion-4.png" alt="">
   <figcaption> </figcaption>
 </figure>
 

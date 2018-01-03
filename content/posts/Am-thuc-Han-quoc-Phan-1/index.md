@@ -18,16 +18,16 @@ Khi đi du lịch đến Hàn Quốc, các bạn sẽ không chỉ nhìn thấy
 Hàn quốc trước đây đã từng là một đất nước nông nghiệp, từ thời cổ đại cho đến bây giờ, lúa đã được canh tác và gạo sử dụng như là thực phẩm chủ yếu (cũng giống nước mình). Người Hàn quốc rất thích trộn gạo với các loại hạt ngũ cốc khác và họ thực sự có nhiều loại món ăn chính với cơm.
 {: style="text-align: justify;"}
 
-<img align="right" style="width:250px; padding: 10px" src="/assets/images/kimbap.png"> **Kimbap (김밥, seaweed rice)** – Cơm cuộn rong biển, cơm với nhiều loại rau được cắt thành sợi làm nhân bên trong. Ngoài các món rau, kimbab cũng khá đa dạng khi còn dùng trứng, thịt, cá ngừ... làm nhân. Món này rất rất rất thông dụng và dễ làm, được bán ở trong các cửa hàng tiện lợi luôn. Người Hàn thường mang theo món này để ăn khi đi dã ngoại, leo núi.
+<img align="right" style="width:250px; padding: 10px" src="/images/kimbap.png"> **Kimbap (김밥, seaweed rice)** – Cơm cuộn rong biển, cơm với nhiều loại rau được cắt thành sợi làm nhân bên trong. Ngoài các món rau, kimbab cũng khá đa dạng khi còn dùng trứng, thịt, cá ngừ... làm nhân. Món này rất rất rất thông dụng và dễ làm, được bán ở trong các cửa hàng tiện lợi luôn. Người Hàn thường mang theo món này để ăn khi đi dã ngoại, leo núi.
 {: style="text-align: justify;"}
 
-<img align="left" style="width:250px; padding: 10px" src="/assets/images/bibimbab.png">**Bibimbap (비빔밥, mixed rice)** - rau cải, thịt, nấm, trứng, gia vị, tương ớt được xếp trên bát cơm. Trộn đều cơm và các thành phần trước khi ăn nên được gọi là cơm trộn. Món này ăn ngon, nhưng tương cay nên khi cho tương cần chú ý. Món này nhiều rau và rất ít khi có thịt nhé.
+<img align="left" style="width:250px; padding: 10px" src="/images/bibimbab.png">**Bibimbap (비빔밥, mixed rice)** - rau cải, thịt, nấm, trứng, gia vị, tương ớt được xếp trên bát cơm. Trộn đều cơm và các thành phần trước khi ăn nên được gọi là cơm trộn. Món này ăn ngon, nhưng tương cay nên khi cho tương cần chú ý. Món này nhiều rau và rất ít khi có thịt nhé.
 {: style="text-align: justify;"}
 
-<img align="right" style="width:250px; padding: 10px" src="/assets/images/bokkeumbab.png">**Bokkeumbap (볶음밥, fried rice)** – cơm chiên với nhiều loại rau cắt nhỏ hoặc thịt. Có nhiều loại bokkeumbab, tùy thuộc vào các thành phần chính là hải sản, thịt bò hay pho mát... Mình mà ăn thì thường ăn loại thịt bò hoặc hải sản.
+<img align="right" style="width:250px; padding: 10px" src="/images/bokkeumbab.png">**Bokkeumbap (볶음밥, fried rice)** – cơm chiên với nhiều loại rau cắt nhỏ hoặc thịt. Có nhiều loại bokkeumbab, tùy thuộc vào các thành phần chính là hải sản, thịt bò hay pho mát... Mình mà ăn thì thường ăn loại thịt bò hoặc hải sản.
 {: style="text-align: justify;"}
 
-<img align="left" style="width:250px; padding: 10px" src="/assets/images/deopbab.png"> **Deopbap (덮밥, topped rice)** – cơm với đồ ăn được xếp lên trên. Thật ra món này khá giống với món cơm trộn, nhưng ít thành phần hơn. Có loại ăn với đồ sống nữa (thịt, cá sống).
+<img align="left" style="width:250px; padding: 10px" src="/images/deopbab.png"> **Deopbap (덮밥, topped rice)** – cơm với đồ ăn được xếp lên trên. Thật ra món này khá giống với món cơm trộn, nhưng ít thành phần hơn. Có loại ăn với đồ sống nữa (thịt, cá sống).
 {: style="text-align: justify;"}
 
 ## <span style="color:olive">  Các món mì (면류) </span>
@@ -37,25 +37,25 @@ Hàn quốc trước đây đã từng là một đất nước nông nghiệ
 
 <span style="color:dodgerblue"> **Guksu (국수)** </span>
 
-<img align="left" style="width:150px; padding: 10px" src="/assets/images/kkaguksu.png"> **Kalguksu (칼국수)** - sợi mì được làm từ bột mì, được làm ngay tại chỗ, mì được bỏ trong một bát lớn với nước dùng làm từ hải sản và các thành phần khác. 
+<img align="left" style="width:150px; padding: 10px" src="/images/kkaguksu.png"> **Kalguksu (칼국수)** - sợi mì được làm từ bột mì, được làm ngay tại chỗ, mì được bỏ trong một bát lớn với nước dùng làm từ hải sản và các thành phần khác. 
 {: style="text-align: justify;"}
 
-<img align="right" style="width:250px; padding: 10px" src="/assets/images/bibimguksu.png"> **Bibimguksu (비빔국수)** - sợi mì mỏng, làm từ bột mì, ăn kèm với nhiều loại rau cắt sợi như dưa leo, kim chi, lá vừng... và nửa quả trứng luộc, trước khi ăn thì trộn vơi tương ớt chuyên dùng cho mì trộn. Món này khi ăn vị cay và chua từ tương ớt rất rõ ràng, ăn ngon nhưng mà không có thịt.
+<img align="right" style="width:250px; padding: 10px" src="/images/bibimguksu.png"> **Bibimguksu (비빔국수)** - sợi mì mỏng, làm từ bột mì, ăn kèm với nhiều loại rau cắt sợi như dưa leo, kim chi, lá vừng... và nửa quả trứng luộc, trước khi ăn thì trộn vơi tương ớt chuyên dùng cho mì trộn. Món này khi ăn vị cay và chua từ tương ớt rất rõ ràng, ăn ngon nhưng mà không có thịt.
 {: style="text-align: justify;"}
 
-<img align="left" style="width:250px; padding: 1px" src="/assets/images/kongguksu.png"> **Kongguksu (콩국수)** - sợi mì cũng làm từ bột mì bỏ trong một bát nước dùng làm từ sữa đậu nành. Kongguksu là một món ăn mùa hè phổ biến, trong nước dùng có cho thêm nhiều viên đá nhỏ để giữ lạnh. Món này ăn mát, khá thơm nhưng hơi béo, ít rau và không có thịt.
+<img align="left" style="width:250px; padding: 1px" src="/images/kongguksu.png"> **Kongguksu (콩국수)** - sợi mì cũng làm từ bột mì bỏ trong một bát nước dùng làm từ sữa đậu nành. Kongguksu là một món ăn mùa hè phổ biến, trong nước dùng có cho thêm nhiều viên đá nhỏ để giữ lạnh. Món này ăn mát, khá thơm nhưng hơi béo, ít rau và không có thịt.
 {: style="text-align: justify;"}
 	
-<img align="right" style="width:250px; padding: 10px" src="/assets/images/japjae.png"> <span style="color:mediumpurple"> **Japchae (잡채)** </span> - Sợi mì làm từ khoai lang (mì cellophane) sau đó xào với bò cắt lắt mỏng và rau (hẹ, nấm, cà rốt). Ăn món này ngon, nhưng mình thấy hơi mỡ màng.
+<img align="right" style="width:250px; padding: 10px" src="/images/japjae.png"> <span style="color:mediumpurple"> **Japchae (잡채)** </span> - Sợi mì làm từ khoai lang (mì cellophane) sau đó xào với bò cắt lắt mỏng và rau (hẹ, nấm, cà rốt). Ăn món này ngon, nhưng mình thấy hơi mỡ màng.
 {: style="text-align: justify;"}
 
 <span style="color:red"> **Naengmyeon (냉면)** </span> - Sợi mì mỏng màu xám làm từ bột kiều mạch, có loại nước hoặc khô. Món mì lạnh này chỉ có vào mùa hè thôi nhé.
 {: style="text-align: justify;"}
 
-<img align="left" style="width:250px; padding: 10px" src="/assets/images/nengmyeon-1.png"> **Mul naengmyeon (물냉면)** - đây chính là **mì lạnh nước**.  Mì được đặt trong một bát nước dùng lạnh nấu từ thịt bò hoặc dongchimi (một loại kimchi sẽ được nhắc đến ở dưới). Món này ăn ngon, mát nhưng cũng không có thịt. :laughing:
+<img align="left" style="width:250px; padding: 10px" src="/images/nengmyeon-1.png"> **Mul naengmyeon (물냉면)** - đây chính là **mì lạnh nước**.  Mì được đặt trong một bát nước dùng lạnh nấu từ thịt bò hoặc dongchimi (một loại kimchi sẽ được nhắc đến ở dưới). Món này ăn ngon, mát nhưng cũng không có thịt. :laughing:
 {: style="text-align: justify;"}
 
-<img align="left" style="width:250px; padding: 10px" src="/assets/images/nengmyeon-2.png"> **Bibim naengmyeon (비빔냉면 )** - đây là món mì lạnh trộn.  Tô mì trộn khô không có nước dùng nhưng có rau cắt sợi như dưa leo, củ cải, có khi là lê nữa, thêm nửa quả trứng luộc và có một chén nước dùng lạnh để riêng. Món này ăn với tương ớt gọi là chogochujang (là nước sốt ớt ngọt làm từ ớt, dấm và đường).
+<img align="left" style="width:250px; padding: 10px" src="/images/nengmyeon-2.png"> **Bibim naengmyeon (비빔냉면 )** - đây là món mì lạnh trộn.  Tô mì trộn khô không có nước dùng nhưng có rau cắt sợi như dưa leo, củ cải, có khi là lê nữa, thêm nửa quả trứng luộc và có một chén nước dùng lạnh để riêng. Món này ăn với tương ớt gọi là chogochujang (là nước sốt ớt ngọt làm từ ớt, dấm và đường).
 {: style="text-align: justify;"}
 	
 ## <span style="color:deeppink"> Các món canh súp  (국 & 찌개) </span>
@@ -66,11 +66,11 @@ Trong tiếng Hàn, các món xanh, súp được phục vụ như là món ăn 
 Trong khi đó, **Jjigae** là một món canh hầm đặc hơn guk và tang. Nó tương tự như món hầm kiểu Tây. Có nhiều loại tùy thuộc vào món ăn được chế biến từ thịt, hải sản, đậu phụ, đậu nành hay kimchi. Các món jjigae được đặt trong một thố kim loại dày với nước dùng nấu từ gochujang, doenjang, ganjang hay saeujeot, và ăn nóng. Ngay khi món ăn được mang ra thì nước dùng vẫn đang sôi, thố kim loại giữ nhiệt rất tốt.
 {: style="text-align: justify;"}
 
-<img align="right" style="width:300px; padding: 10px" src="/assets/images/bowl.png"> Người Hàn luôn luôn ăn súp hoặc canh hầm cùng với một chén cơm gọi  là gonggibab (공기밥). Ở Hàn quốc, họ thường sử dụng bát, đũa và muỗng được làm bằng kim loại.
+<img align="right" style="width:300px; padding: 10px" src="/images/bowl.png"> Người Hàn luôn luôn ăn súp hoặc canh hầm cùng với một chén cơm gọi  là gonggibab (공기밥). Ở Hàn quốc, họ thường sử dụng bát, đũa và muỗng được làm bằng kim loại.
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gukjjigae.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/gukjjigae.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ Có rất nhiều loại kimchi với hương vị khác nhau, cách làm khác 
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/kimchi.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/kimchi.png" alt="">
   <figcaption></figcaption>
 </figure>
 

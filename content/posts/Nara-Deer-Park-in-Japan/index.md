@@ -14,7 +14,7 @@ I’m gonna review about the **<span style="color:green"> Nara Deer Park </span>
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/nara-1.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/nara-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ The **<span style="color:crimson"> special hallmark of Nara Park </span>** is th
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/nara-2.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/nara-2.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ Around the park, you can see many stands selling **Nara-senbei cake** - the favo
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/nara-3.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/nara-3.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ There are many <span style="color:royalblue">**attractions** </span> near the d
  {: style="text-align: justify;"}
  
  <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/nara-4.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/nara-4.png" alt="">
   <figcaption></figcaption>
 </figure>
  
@@ -59,7 +59,7 @@ Nara Park is a 5 min walk from Kintetsu Nara Station or about 20 min walk from 
  {: style="text-align: justify;"}
  
  <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/nara-5.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/nara-5.png" alt="">
   <figcaption></figcaption>
 </figure>
 

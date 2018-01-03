@@ -17,7 +17,7 @@ Hồi xưa cứ tự tin là không cần trang điểm mà da vẫn đẹp, mà
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/concealer-1.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/concealer-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ Mình toàn canh đợt giảm giá của hãng và liên hệ với người b�
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/concealer-2.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/concealer-2.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -51,13 +51,13 @@ Thật sự thì mình không biết trang điểm và cũng lười nên để 
 
 **Dưỡng da -> Kem chống nắng -> Phấn nước -> Che khuyết điểm**
 <figure style="width: 400px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/concealer-3.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/concealer-3.png" alt="">
   <figcaption></figcaption>
 </figure>
 
 **Trước và sau khi xài nè**
 <figure style="width: 700px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/concealer-4.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/concealer-4.png" alt="">
   <figcaption></figcaption>
 </figure>
 

@@ -16,7 +16,7 @@ If you are chasing the perfect skincare routine like most Korean girls, then one
 {: style="text-align: justify;"}
 
 <figure style="width: 400px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/innissoybean-1.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/innissoybean-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ This essence removes impurities for smoother skin, provides your skin with elast
 {: style="text-align: justify;"}
 
 <figure style="width: 300px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/innissoybean-2.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/innissoybean-2.png" alt="">
   <figcaption style="font-size: 17px" align="center"> <span style="color:olive"> The design is very convenient to use </span> </figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ The natural fermentation factor™ from fermented soybeans rejuvenates skin to r
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/innissoybean-3.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/innissoybean-3.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ After washing your face, soak a cotton pad (you can use your hand if lazy) with 
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/innissoybean-4.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/innissoybean-4.png" alt="">
   <figcaption></figcaption>
 </figure>
 

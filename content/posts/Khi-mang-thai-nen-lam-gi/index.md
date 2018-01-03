@@ -45,7 +45,7 @@ Người mẹ: quan trọng nhất là tránh làm chấn thương vùng kín. T
 ###  Bổ sung axit folic
 
 <figure style="width: 350px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/baby4.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/baby4.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ Thiếu axit folic dẫn đến chứng thiếu máu, do thiếu vitamin B12. H�
 {: style="text-align: justify;"}
 
 <figure style="width: 400px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/acidfolic.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/acidfolic.png" alt="">
   <figcaption> Những thực phẩm giàu acid folic ( healthjade.com) </figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Không hiểu sao các bà mẹ ở VN rất hay mua sữa bầu để uống, v
 ### Tư thế ngủ
 
 <figure style="width: 350px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/baby3.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/baby3.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -109,7 +109,7 @@ Nếu đi chơi thì vẫn thắt seat bell nhé để tránh chấn thương, t
 {: style="text-align: justify;"}
 
 <figure style="width: 450px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/baby1.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/baby1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -126,7 +126,7 @@ Nếu đi chơi thì vẫn thắt seat bell nhé để tránh chấn thương, t
 {: style="text-align: justify;"}
 
 <figure style="width: 300px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/biooil.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/biooil.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -135,7 +135,7 @@ Nếu đi chơi thì vẫn thắt seat bell nhé để tránh chấn thương, t
 
 ## <span style="color:mediumvioletred"> Tam cá nguyệt thứ ba </span>
  <figure style="width: 450px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/baby2.gif" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/baby2.gif" alt="">
   <figcaption></figcaption>
 </figure>
 

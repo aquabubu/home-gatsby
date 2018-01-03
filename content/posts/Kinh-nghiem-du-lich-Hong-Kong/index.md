@@ -11,7 +11,7 @@ tags:
 ---
 
 <figure style="width: 400px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hongkong.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong.png" alt="">
   <figcaption> </figcaption>
 </figure>
 

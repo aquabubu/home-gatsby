@@ -15,7 +15,7 @@ Dưỡng da là cả một quá trình rất quan trọng và đòi hỏi nhiề
 {: style="text-align: justify;"}
 
 <figure style="width: 200px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/iopepeeling-1.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/iopepeeling-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ Mình sử dụng nó hai lần mỗi tuần. Sau khi tẩy da chết, da của 
 ## Khi mình dùng nè
 
 <figure style="width: 700px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/iopepeeling-2.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/iopepeeling-2.png" alt="">
   <figcaption></figcaption>
 </figure>
 

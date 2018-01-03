@@ -16,7 +16,7 @@ This is  <a href="http://www.everland.com/web/multi/english/everland/main.html" 
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/everland-1.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/everland-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -25,15 +25,15 @@ It’s primarily a place for food, souvenirs, and pictures. The cheerful music i
 {: style="text-align: justify;"}
 
 <figure  class="half">
-   <img style="width: 235px" src="/assets/images/everland-2.png">
-   <img style="width: 368px" src="/assets/images/everland-3.png">
+   <img style="width: 235px" src="/images/everland-2.png">
+   <img style="width: 368px" src="/images/everland-3.png">
    <figcaption></figcaption>
 </figure>
 
 The cable car was also good. Slow speed helps you enjoy the scene!
 {: style="text-align: justify;"}
 <figure style="width: 300px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/everland-4.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/everland-4.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ This zone is based on the theme of 500 years of American history, from the time 
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/everland-5.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/everland-5.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ Magic land is an area with buildings and rides, mostly for kids. There is a plac
 {: style="text-align: justify;"}
 
 <figure style="width: 350px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/everland-6.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/everland-6.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -61,16 +61,16 @@ Wonderful flowers in a seasonal garden such as tulips, roses are in bloom throug
 
 <div style="text-align: center">
   <div style="display: inline-block; padding:5px">
-    <img src="/assets/images/everland-7.png" width="220px">
+    <img src="/images/everland-7.png" width="220px">
 	 </div>
 	
 	<div style="display: inline-block; padding:5px">
-    <img src="/assets/images/everland-8.png" width="225px">
+    <img src="/images/everland-8.png" width="225px">
 	  </div>
 </div>
 
 <figure  class="align-center">
-    <img style="width: 300px" class="align-center" src="{{ site.url }}{{ site.baseurl }}/assets/images/everland-10.png" alt="">
+    <img style="width: 300px" class="align-center" src="{{ site.url }}{{ site.baseurl }}/images/everland-10.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -78,17 +78,17 @@ Wonderful flowers in a seasonal garden such as tulips, roses are in bloom throug
 
 <div style="text-align: center">
   <div style="display: inline-block; padding:10px">
-    <img src="/assets/images/everland-12.png" width="170px">
+    <img src="/images/everland-12.png" width="170px">
 		<div style="font-size: 20px" class="caption"> Seal </div>
   </div>
 	
   <div style="display: inline-block; padding:10px">
-    <img src="/assets/images/everland-13.png" width="150px">
+    <img src="/images/everland-13.png" width="150px">
     <div style="font-size: 20px" class="caption"> Camel </div>
   </div>
 	
 	<div style="display: inline-block; padding:10px">
-    <img src="/assets/images/everland-14.png" width="131px">
+    <img src="/images/everland-14.png" width="131px">
     <div style="font-size: 20px" class="caption"> Monkey </div>
    </div>
 </div>
@@ -96,25 +96,25 @@ Wonderful flowers in a seasonal garden such as tulips, roses are in bloom throug
 This is my most favorite zone in Everland theme park. ZooTopia is an animal-themed portion including a petting zoo, pony rides, and animal shows. You can see polar bears, sea lions, penguins, bears, tigers, and primates in a tiny zoo as well.
 {: style="text-align: justify;"}
 
-<img align="left" style="width: 150px; padding: 10px" src="/assets/images/everland-11.png"> **Safari Bus**, **Lost Valley**, and **Amazone Express** are the most exciting attractions in this zone that you MUST NOT miss them.
+<img align="left" style="width: 150px; padding: 10px" src="/images/everland-11.png"> **Safari Bus**, **Lost Valley**, and **Amazone Express** are the most exciting attractions in this zone that you MUST NOT miss them.
 {: style="text-align: justify;"}
 
-<img align="right" style="width: 150px; padding: 10px" src="/assets/images/everland-15.png"> The Safari Bus ride shows animals such as ligers (a hybrid of lion and tiger) and bears in a contained habitat while the visitors stay inside the bus. Amazon Express is a raft ride, where most visitors get a cool splash of water along the 580-meter long water path. And for the Lost Valley that you will move from water to land, it has approximately 150 unique animal species roam freely.
+<img align="right" style="width: 150px; padding: 10px" src="/images/everland-15.png"> The Safari Bus ride shows animals such as ligers (a hybrid of lion and tiger) and bears in a contained habitat while the visitors stay inside the bus. Amazon Express is a raft ride, where most visitors get a cool splash of water along the 580-meter long water path. And for the Lost Valley that you will move from water to land, it has approximately 150 unique animal species roam freely.
 {: style="text-align: justify;"}
 
 <div style="text-align: center">
   <div style="display: inline-block; padding:10px">
-    <img src="/assets/images/everland-16.png" width="170px">
+    <img src="/images/everland-16.png" width="170px">
     <div style="font-size: 20px"  class="caption"> Giraffe </div>
   </div>
 	
   <div style="display: inline-block; padding:10px">
-    <img src="/assets/images/everland-17.png" width="171px">
+    <img src="/images/everland-17.png" width="171px">
     <div style="font-size: 20px"  class="caption">Liger</div>
   </div>
 	
 	<div style="display: inline-block; padding:10px">
-    <img src="/assets/images/everland-18.png" width="173px">
+    <img src="/images/everland-18.png" width="173px">
     <div style="font-size: 20px"  class="caption"> Lion </div>
    </div>
 </div>

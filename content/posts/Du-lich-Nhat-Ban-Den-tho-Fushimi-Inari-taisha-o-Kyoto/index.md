@@ -13,7 +13,7 @@ tags:
 ---
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/taisha-1.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/taisha-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ Ngôi đền nổi tiếng với con đường trải dài hàng ngàn <span sty
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/taisha-2.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/taisha-2.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -35,7 +35,7 @@ Nhật Bản vào thời cổ đại, một số truyện cổ cho rằng loài 
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/taisha-3.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/taisha-3.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ Trước khi rời khỏi đây, bạn có thể đi bộ đến con đường �
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/taisha-4.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/taisha-4.png" alt="">
   <figcaption></figcaption>
 </figure>
 

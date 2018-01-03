@@ -17,7 +17,7 @@ Having a flawless skin is a desire of every woman in this world, including me! S
 {: style="text-align: justify;"}
 
 <figure style="width: 200px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/iopepeeling-1.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/iopepeeling-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ I use it twice per week, and you know, after exfoliation, your skin will be very
 ## How it works
 
 <figure style="width: 700px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/iopepeeling-2.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/iopepeeling-2.png" alt="">
   <figcaption></figcaption>
 </figure>
 

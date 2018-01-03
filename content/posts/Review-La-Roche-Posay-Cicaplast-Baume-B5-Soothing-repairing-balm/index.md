@@ -16,7 +16,7 @@ Whenever the winter comes, my skin always feels dry and I even get many dry patc
 {: style="text-align: justify;"}
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/larocheposay-1.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/larocheposay-1.jpg" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ I’ve tried this cream not only on my face but also my elbows, knees, as well 
 {: style="text-align: justify;"}
 
 <figure style="width: 300px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/larocheposay-2.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/larocheposay-2.png" alt="">
   <figcaption></figcaption>
 </figure>
 

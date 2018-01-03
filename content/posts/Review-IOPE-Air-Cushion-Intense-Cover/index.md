@@ -17,7 +17,7 @@ It can’t be denied that wearing makeup gives us a beautiful out-looking and ma
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/iopecushion-1.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/iopecushion-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ I couldn't find English ingredients but you can take a look in cosdna  <a href="
  {: style="text-align: justify;"}
  
  <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/iopecushion-2.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/iopecushion-2.png" alt="">
   <figcaption> </figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ Liquid texture
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/iopecushion-3.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/iopecushion-3.png" alt="">
   <figcaption> </figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ I usually do the skincare steps first, then sunblock and this cushion. Finally, 
 **My experiences with this cushion**
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/iopecushion-4.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/iopecushion-4.png" alt="">
   <figcaption> </figcaption>
 </figure>
 

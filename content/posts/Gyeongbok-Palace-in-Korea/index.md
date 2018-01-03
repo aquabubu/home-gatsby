@@ -14,7 +14,7 @@ If you wanna go to South Korea (especially hanging out around Seoul) then you ca
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gung-1.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/gung-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -26,24 +26,24 @@ Luckily, I went there in Spring so there was cherry blossom and the weather was 
 
 <div style="text-align: center">
   <div style="display: inline-block; padding:5px">
-    <img src="/assets/images/gung-2.png" width="250px">
+    <img src="/images/gung-2.png" width="250px">
 		<figcaption style="font-size: 15px" align="center"> <span style="color:olive"> King Sejong Statue </span> </figcaption>
 	 </div>
 	
 	<div style="display: inline-block; padding:5px">
-    <img src="/assets/images/gung-3.png" width="350px">
+    <img src="/images/gung-3.png" width="350px">
 		<figcaption style="font-size: 15px" align="center"> <span style="color:deepskyblue"> Gwanghwamun Gate </span> </figcaption>
 	  </div>
 </div>
 
 <div style="text-align: center">
   <div style="display: inline-block; padding:5px">
-    <img src="/assets/images/gung-7.png" width="300px">
+    <img src="/images/gung-7.png" width="300px">
 		<figcaption style="font-size: 15px" align="center"> <span style="color:green"> The second inner gate </span> </figcaption>
 	 </div>
 	
 	<div style="display: inline-block; padding:5px">
-    <img src="/assets/images/gung-13.png" width="300px">
+    <img src="/images/gung-13.png" width="300px">
 		<figcaption style="font-size: 15px" align="center"> <span style="color:red"> The inside of Geunjeongjeon Hall </span> </figcaption>
 	  </div>
 </div>
@@ -55,12 +55,12 @@ Luckily, I went there in Spring so there was cherry blossom and the weather was 
 {: style="text-align: justify;"}
 <div style="text-align: center">
   <div style="display: inline-block; padding:1px">
-    <img src="/assets/images/gung-4.png" width="300px">
+    <img src="/images/gung-4.png" width="300px">
 		<figcaption style="font-size: 15px" align="center"> <span style="color:deepskyblue"> Gyeonghoeru Pavilion  </span> </figcaption>
 	 </div>
 	
 	<div style="display: inline-block; padding:5px">
-    <img src="/assets/images/gung-5.png" width="300px">
+    <img src="/images/gung-5.png" width="300px">
 		<figcaption style="font-size: 15px" align="center"> <span style="color:hotpink"> Hyangwonjeong Pond </span> </figcaption>
 	  </div>
 </div>
@@ -72,7 +72,7 @@ When you are at the palace, you can also visit the **National Palace Museum of K
 {: style="text-align: justify;"}
 
 <figure style="width: 550px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gung-9.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/gung-9.png" alt="">
   <figcaption> </figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ I also tried the King’s clothes there though I had to stand in the long line w
 {: style="text-align: justify;"}
 
 <figure style="width: 450px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/gung-8.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/gung-8.png" alt="">
   <figcaption> </figcaption>
 </figure>
 
@@ -114,17 +114,17 @@ I was in Suwon so I used subway line 1 and then transfer to line 3 to get there 
 
 <div style="align-center">
   <div style="display: inline-block; padding:5px">
-    <img src="/assets/images/gung-11.png" width="190px">
+    <img src="/images/gung-11.png" width="190px">
 		<figcaption> </figcaption>
 	 </div>
 	
 	  <div style="display: inline-block; padding:5px">
-    <img src="/assets/images/gung-10.png" width="190px">
+    <img src="/images/gung-10.png" width="190px">
 		<figcaption> </figcaption>
 	 </div>
 	 
 	<div style="display: inline-block; padding:15px">
-    <img src="/assets/images/gung-12.png" width="190px">
+    <img src="/images/gung-12.png" width="190px">
 		<figcaption> </figcaption>
 	  </div>
 </div>

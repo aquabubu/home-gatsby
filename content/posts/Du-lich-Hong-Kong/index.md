@@ -17,7 +17,7 @@ Sau khi máy bay hạ cánh và hoàn thành các thủ tục, mình đã đi lo
 {: style="text-align: justify;"}
 
 <figure style="width: 550px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hongkong-1.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ Mình mua 2 thẻ Otopus có nhãn Train Express Ticket ở quầy thông tin tr
 ## <font color="#ED031D">D</font><font color="#8606B3">I</font><font color="#05A3D9">S</font><font color="#A6FC9C">N</font><font color="#DD103A">E</font><font color="#86136A">Y</font><font color="#3FBCC6">L</font><font color="#3818EC">A</font><font color="#7EE374">N</font><font color="#CE9CF8">D</font>
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hongkong-2.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-2.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ Nan Lian Garden là khu vườn công cộng cũng được xây dựng theo pho
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hongkong-3.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-3.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -118,7 +118,7 @@ Ngoài ra còn có xem bói và nhiều thứ hay ho để xem, trong đền có
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hongkong-4.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-4.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -150,7 +150,7 @@ Từ trạm MTR Central, tìm trạm xe buýt 15C ngay phía trước City Hall,
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hongkong-5.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-5.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -166,7 +166,7 @@ Tại **Peak Tram terminus**, mình đi xe buýt để trở lại Star Ferry (
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hongkong-6.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-6.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -181,7 +181,7 @@ Từ ga MTR Tung Chung, mình bắt xe buýt 11 để đi đến Tai O (mỗi 
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hongkong-7.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-7.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -189,7 +189,7 @@ Mình cũng đi chợ Tai O ở gần đấy và thưởng thức món ăn 
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hongkong-8.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-8.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -199,7 +199,7 @@ Khi quay về mình cũng bắt xe buýt 11 về lại trạm MTR Tung Chung
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hongkong-9.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-9.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -220,7 +220,7 @@ Chợ Temple khá nổi tiếng với người dân địa phương vì có m�
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hongkong-10.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-10.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -238,7 +238,7 @@ Mua vé rẻ tại <a href="https://www.klook.com/activity/23-ocean-park-hong-k
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hongkong-11.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-11.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -246,7 +246,7 @@ Mua vé rẻ tại <a href="https://www.klook.com/activity/23-ocean-park-hong-k
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hongkong-12.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-12.png" alt="">
   <figcaption></figcaption>
 </figure>
 

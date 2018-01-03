@@ -16,7 +16,7 @@ Dù mình biết đã có rất nhiều chị em viết review về em mặt 
 {: style="text-align: justify;"}
 
 <figure style="width: 400px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/laneige-1.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/laneige-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ Em mặt nạ ngủ này có kết cấu mềm nhẹ, làm dịu mát da
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/laneige-2.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/laneige-2.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ Mình đã thử dùng em này hằng ngày nhưng thấy không hiệu 
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/laneige-3.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/laneige-3.png" alt="">
   <figcaption></figcaption>
 </figure>
 

@@ -17,7 +17,7 @@ tags:
 ---
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/taisha-1.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/taisha-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ It is home to the famed tunnel of thousands of <span style="color:red"> <b> red 
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/taisha-2.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/taisha-2.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ In ancient Japan, some myths said that foxes are capable of using magic. That’
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/taisha-3.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/taisha-3.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ Before leaving, you can take a walk to the small food street next to the shrine,
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/taisha-4.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/taisha-4.png" alt="">
   <figcaption></figcaption>
 </figure>
 

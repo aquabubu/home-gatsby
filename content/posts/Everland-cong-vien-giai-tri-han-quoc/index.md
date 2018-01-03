@@ -15,7 +15,7 @@ Nếu bạn muốn đi du lịch Hàn Quốc và đang tìm một nơi để gi�
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/everland-1.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/everland-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -25,15 +25,15 @@ Nếu bạn muốn đi du lịch Hàn Quốc và đang tìm một nơi để gi�
 {: style="text-align: justify;"}
 
 <figure  class="half">
-   <img style="width: 235px" src="/assets/images/everland-2.png">
-   <img style="width: 368px" src="/assets/images/everland-3.png">
+   <img style="width: 235px" src="/images/everland-2.png">
+   <img style="width: 368px" src="/images/everland-3.png">
    <figcaption></figcaption>
 </figure>
 
 Đi cáp treo cũng thích vì tốc độ chậm giúp bạn thưởng thức phong cảnh!
 {: style="text-align: justify;"}
 <figure style="width: 300px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/everland-4.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/everland-4.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ Khu vực này được làm theo chủ đề 500 năm lịch sử nước Mỹ,
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/everland-5.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/everland-5.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ Khu vực này được làm theo chủ đề 500 năm lịch sử nước Mỹ,
 {: style="text-align: justify;"}
 
 <figure style="width: 350px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/everland-6.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/everland-6.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -64,16 +64,16 @@ Những khu vườn hoa tuyệt theo mùa như hoa tulip, hoa hồng nở rộ s
 
 <div style="text-align: center">
   <div style="display: inline-block; padding:5px">
-    <img src="/assets/images/everland-7.png" width="220px">
+    <img src="/images/everland-7.png" width="220px">
 	 </div>
 	
 	<div style="display: inline-block; padding:5px">
-    <img src="/assets/images/everland-8.png" width="225px">
+    <img src="/images/everland-8.png" width="225px">
 	  </div>
 </div>
 
 <figure  class="align-center">
-    <img style="width: 300px" class="align-center" src="{{ site.url }}{{ site.baseurl }}/assets/images/everland-10.png" alt="">
+    <img style="width: 300px" class="align-center" src="{{ site.url }}{{ site.baseurl }}/images/everland-10.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -81,17 +81,17 @@ Những khu vườn hoa tuyệt theo mùa như hoa tulip, hoa hồng nở rộ s
 
 <div style="text-align: center">
   <div style="display: inline-block; padding:10px">
-    <img src="/assets/images/everland-12.png" width="170px">
+    <img src="/images/everland-12.png" width="170px">
 		<div style="font-size: 20px" class="caption"> Hải cẩu </div>
   </div>
 	
   <div style="display: inline-block; padding:10px">
-    <img src="/assets/images/everland-13.png" width="150px">
+    <img src="/images/everland-13.png" width="150px">
     <div style="font-size: 20px" class="caption"> Lạc đà </div>
   </div>
 	
 	<div style="display: inline-block; padding:10px">
-    <img src="/assets/images/everland-14.png" width="131px">
+    <img src="/images/everland-14.png" width="131px">
     <div style="font-size: 20px" class="caption"> Khỉ </div>
    </div>
 </div>
@@ -99,25 +99,25 @@ Những khu vườn hoa tuyệt theo mùa như hoa tulip, hoa hồng nở rộ s
 Đây là khu yêu thích nhất của mình trong công viên giải trí Everland. Vườn bách thú bao gồm một sở thú với nhiều loại động vật từ khắp nơi trên thế giới và các chương trình, trò chơi liên quan đến chúng.
 {: style="text-align: justify;"}
 
-<img align="left" style="width: 150px; padding: 10px" src="/assets/images/everland-11.png"> **Safari Bus**, **Lost Valley**, và **Amazone Express** là những trò thú vị nhất mà bạn không thể bỏ qua được ở khu này.
+<img align="left" style="width: 150px; padding: 10px" src="/images/everland-11.png"> **Safari Bus**, **Lost Valley**, và **Amazone Express** là những trò thú vị nhất mà bạn không thể bỏ qua được ở khu này.
 {: style="text-align: justify;"}
 
-<img align="right" style="width: 150px; padding: 10px" src="/assets/images/everland-15.png"> Chuyến xe Safari Bus sẽ giúp chúng ta quan sát được loài ligers (lai giữa sư tử và hổ) và những con gấu sống trong một khu vực khép kín và du khách sẽ thấy từ trong xe buýt. Amazon Express là một chuyến đi bằng bè, hầu như các bạn sẽ bị bắn nước lên người khi đi dọc theo con đường nước dài 580 mét, nhưng đi vui lắm. Và đối với Lost Valley, bạn sẽ di chuyển bằng phương tiện thuyền + xe buýt kết hợp để đi được trên hai địa hình nước và đất, có khoảng 150 loài động vật độc đáo đi tự do trong khu này.
+<img align="right" style="width: 150px; padding: 10px" src="/images/everland-15.png"> Chuyến xe Safari Bus sẽ giúp chúng ta quan sát được loài ligers (lai giữa sư tử và hổ) và những con gấu sống trong một khu vực khép kín và du khách sẽ thấy từ trong xe buýt. Amazon Express là một chuyến đi bằng bè, hầu như các bạn sẽ bị bắn nước lên người khi đi dọc theo con đường nước dài 580 mét, nhưng đi vui lắm. Và đối với Lost Valley, bạn sẽ di chuyển bằng phương tiện thuyền + xe buýt kết hợp để đi được trên hai địa hình nước và đất, có khoảng 150 loài động vật độc đáo đi tự do trong khu này.
 {: style="text-align: justify;"}
 
 <div style="text-align: center">
   <div style="display: inline-block; padding:10px">
-    <img src="/assets/images/everland-16.png" width="170px">
+    <img src="/images/everland-16.png" width="170px">
     <div style="font-size: 20px"  class="caption"> Hươu cao cổ </div>
   </div>
 	
   <div style="display: inline-block; padding:10px">
-    <img src="/assets/images/everland-17.png" width="171px">
+    <img src="/images/everland-17.png" width="171px">
     <div style="font-size: 20px"  class="caption">Liger</div>
   </div>
 	
 	<div style="display: inline-block; padding:10px">
-    <img src="/assets/images/everland-18.png" width="173px">
+    <img src="/images/everland-18.png" width="173px">
     <div style="font-size: 20px"  class="caption"> Sư tử </div>
    </div>
 </div>

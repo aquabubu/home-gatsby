@@ -28,7 +28,7 @@ The Central Pier providing a kind of water transportation service called The Cha
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bangkok-1.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/bangkok-1.png" alt="">
   <figcaption style="font-size: 17px" align="center"> <span style="color:deepskyblue"> The scenes from two sides seeing on a motor boat </span> </figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ Taling Chan Floating Market is not too big and has many Thai people so the tradi
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bangkok-2.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/bangkok-2.png" alt="">
   <figcaption> </figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Thai crispy pancake looks like Vietnamese pancakes but the taste is totally dife
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bangkok-3.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/bangkok-3.png" alt="">
   <figcaption> </figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ If you wear shorts, short skirts and tank top, you must hire a long cloth to cov
 {: style="text-align: justify;"}
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bangkok-4.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/bangkok-4.png" alt="">
   <figcaption> </figcaption>
 </figure>
 

@@ -12,7 +12,7 @@ tags:
 ---
 
 <figure style="width: 400px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/lipmask-1.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/lipmask-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ Trong hộp giấy, hũ kem được đóng gói trong bình thủy tinh có n�
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/lipmask-2.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/lipmask-2.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ Em mặt nạ môi này thật là tuyệt vời. Khi sử dụng nó vào ban �
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/lipmask-3.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/lipmask-3.png" alt="">
   <figcaption></figcaption>
 </figure>
 

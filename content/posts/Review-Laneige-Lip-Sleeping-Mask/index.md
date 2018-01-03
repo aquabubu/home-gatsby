@@ -12,7 +12,7 @@ tags:
 ---
 
 <figure style="width: 400px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/lipmask-1.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/lipmask-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ In a paper box, the product is packed in a glass jar with a plastic lid for easy
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/lipmask-2.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/lipmask-2.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ This lip mask is perfect for me. When using it at night, it goes smoothly on lip
 {: style="text-align: justify;"}
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/lipmask-3.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/lipmask-3.png" alt="">
   <figcaption></figcaption>
 </figure>
 

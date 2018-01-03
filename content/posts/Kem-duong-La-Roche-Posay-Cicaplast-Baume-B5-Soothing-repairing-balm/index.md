@@ -15,7 +15,7 @@ Cứ khi nào mùa đông đến là da mặt của mình khô ơi là khô,
 {: style="text-align: justify;"}
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/larocheposay-1.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/larocheposay-1.jpg" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ Ngoài khuôn mặt ra thì mình dùng kem với cả vùng khuỷu tay 
 {: style="text-align: justify;"}
 
 <figure style="width: 300px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/larocheposay-2.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/larocheposay-2.png" alt="">
   <figcaption></figcaption>
 </figure>
 

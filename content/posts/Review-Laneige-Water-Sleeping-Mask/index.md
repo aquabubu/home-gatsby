@@ -16,7 +16,7 @@ Today I’m gonna review about the famous Water Sleeping Mask of Laneige. I know
 {: style="text-align: justify;"}
 
 <figure style="width: 400px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/laneige-1.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/laneige-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ Sleeping mask texture is usually soft as gel, cool your skin and absorbs fast. A
 {: style="text-align: justify;"}
 
 <figure style="width: 600px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/laneige-2.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/laneige-2.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ Some people say that you can use it daily but since it contains a lot of nutrien
 
 ## How it works
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/laneige-3.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/laneige-3.png" alt="">
   <figcaption></figcaption>
 </figure>
 

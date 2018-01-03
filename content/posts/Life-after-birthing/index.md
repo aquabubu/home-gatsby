@@ -18,7 +18,7 @@ Actually, after birthing, I was more stressed than when I was pregnant. I am wor
 
 ## <span style="color:dodgerblue"> Constipation - Most common problem </span>
 
-<img align="left" style="width: 150px; padding: 10px" src="/assets/images/taobon.png"> It is a delicate matter after birth that most mothers encounter, especially with those who have a normal delivery and episiotomy. So, it is advisable to eat plenty of vegetables, drink plenty of water, and eat easy-to-digest foods. I often ate a seaweed soup (Koreans eat seaweed soup cause it helps their breastfeeding milk). Besides, I also ate a quick meal like pumpkin porridge or carrot porridge after dinner.
+<img align="left" style="width: 150px; padding: 10px" src="/images/taobon.png"> It is a delicate matter after birth that most mothers encounter, especially with those who have a normal delivery and episiotomy. So, it is advisable to eat plenty of vegetables, drink plenty of water, and eat easy-to-digest foods. I often ate a seaweed soup (Koreans eat seaweed soup cause it helps their breastfeeding milk). Besides, I also ate a quick meal like pumpkin porridge or carrot porridge after dinner.
 {: style="text-align: justify;"}
 
 ## <span style="color:orange">  Breast milk or formula milk?  </span>
@@ -26,7 +26,7 @@ Actually, after birthing, I was more stressed than when I was pregnant. I am wor
 It takes 1-2 days that you can breastfeed your baby after birth. Notice that the first milk is called colostrum that's full of antibodies and immunoglobulins, which not only help protect newborns as they come into our world of bacteria and viruses but also has a laxative effect that helps them expel the tarry first stools called meconium. Therefore, it is necessary to feed your baby this colostrum. Breastfeeding mothers also have to pay attention to their diet, do not eat sour or hot, spicy food.
 {: style="text-align: justify;"}
 
-<img align="left" style="width: 170px; padding: 10px" src="/assets/images/formulamilk.png">I didn't have much breast milk so I feed my baby with both breast milk and formula milk. However, in the first 6 months, breastfeeding is very good for the baby, and you should breastfeed your baby at least one year. After 6 months, you can feed your baby a little bit of formula milk gradually and begin the process of solid feeding. I was lucky because my baby was very healthy. During 9 months, he grew healthy and didn't have any illness.
+<img align="left" style="width: 170px; padding: 10px" src="/images/formulamilk.png">I didn't have much breast milk so I feed my baby with both breast milk and formula milk. However, in the first 6 months, breastfeeding is very good for the baby, and you should breastfeed your baby at least one year. After 6 months, you can feed your baby a little bit of formula milk gradually and begin the process of solid feeding. I was lucky because my baby was very healthy. During 9 months, he grew healthy and didn't have any illness.
 {: style="text-align: justify;"}
 
 ## <span style="color:seagreen">  Which formula milk is good for the baby? </span>  
@@ -34,13 +34,13 @@ It takes 1-2 days that you can breastfeed your baby after birth. Notice that the
 I can't say for sure which is good and which is bad since there are many types of formula milk on the market. However, I can review on three types of Korean formula milk used to my baby:
 {: style="text-align: justify;"}
 
-<img align="left" style="width: 150px; padding: 10px" src="/assets/images/xo.png"> **NAMYANG Imperial XO**: My baby was fed by this milk in the hospital when he was born, so I think this milk is fine. But it's quite sweet, unlike breast milk. NAMYANG I Am Mother and ILDONG FOODIS Goat Milk is better and more expensive. So when finishing the 400g of XO (free from the hospital), I switched to I Am Mother.
+<img align="left" style="width: 150px; padding: 10px" src="/images/xo.png"> **NAMYANG Imperial XO**: My baby was fed by this milk in the hospital when he was born, so I think this milk is fine. But it's quite sweet, unlike breast milk. NAMYANG I Am Mother and ILDONG FOODIS Goat Milk is better and more expensive. So when finishing the 400g of XO (free from the hospital), I switched to I Am Mother.
 {: style="text-align: justify;"}
 
-<img align="right" style="width: 170px; padding: 10px" src="/assets/images/iam.png">**NAMYANG I Am Mother**: Same company with XO but higher quality, taste like breast milk. This milk is easy to drink and have a high nutritional index. One thing I like about this milk is that it has a version for newborn to 100 days. There are many formula milk brands divided into every 6 months period and I don't like that. This milk is more expensive than XO but much better.
+<img align="right" style="width: 170px; padding: 10px" src="/images/iam.png">**NAMYANG I Am Mother**: Same company with XO but higher quality, taste like breast milk. This milk is easy to drink and have a high nutritional index. One thing I like about this milk is that it has a version for newborn to 100 days. There are many formula milk brands divided into every 6 months period and I don't like that. This milk is more expensive than XO but much better.
 {: style="text-align: justify;"}
 
-<img align="left" style="width: 170px; padding: 10px" src="/assets/images/goat.png">**ILDONG FOODIS Goat Milk**: This milk is slightly more expensive than I Am Mother. After my baby reached his 4 months-old, I switched to this milk because it not only has high nutritional content but also very good for the digestive system of the baby. Since using this goat milk, my baby pooed easily every day. After 6 months-old, I start the solid feeding for my baby gradually and there's still no sign of constipation. Every day he poos evenly.
+<img align="left" style="width: 170px; padding: 10px" src="/images/goat.png">**ILDONG FOODIS Goat Milk**: This milk is slightly more expensive than I Am Mother. After my baby reached his 4 months-old, I switched to this milk because it not only has high nutritional content but also very good for the digestive system of the baby. Since using this goat milk, my baby pooed easily every day. After 6 months-old, I start the solid feeding for my baby gradually and there's still no sign of constipation. Every day he poos evenly.
 {: style="text-align: justify;"}
 
 ## <span style="color:indigo"> How to store milk correctly? </span>
@@ -56,12 +56,12 @@ And one thing to keep in mind is that always warm up the milk before feeding you
 
 ## <span style="color:teal"> Breastfeeding or Bottle feeding? </span>
 
-<img align="right" style="width: 180px; padding: 10px" src="/assets/images/ti.png"> In my opinion, you should feed your baby in both ways, so you can save your time and be active in your work. You can put breast milk into bottle and feed your baby. 
+<img align="right" style="width: 180px; padding: 10px" src="/images/ti.png"> In my opinion, you should feed your baby in both ways, so you can save your time and be active in your work. You can put breast milk into bottle and feed your baby. 
 {: style="text-align: justify;"}
 
 ## <span style="color:crimson"> Baby sleeping time </span>
 
-<img align="left" style="width: 275px; padding: 10px" src="/assets/images/babysleeping.png">Along with the feeding issue, the baby's sleep also makes many moms worry. In the first month, most babies have a lot of short sleep about 2-3 hours and just wake up to drink milk or change diaper only. Usually, when little baby crying, it's due to these four main problems: needing to change the diaper, feeling hungry, feeling too hot or too cold and crying because he/she likes it.
+<img align="left" style="width: 275px; padding: 10px" src="/images/babysleeping.png">Along with the feeding issue, the baby's sleep also makes many moms worry. In the first month, most babies have a lot of short sleep about 2-3 hours and just wake up to drink milk or change diaper only. Usually, when little baby crying, it's due to these four main problems: needing to change the diaper, feeling hungry, feeling too hot or too cold and crying because he/she likes it.
 {: style="text-align: justify;"}
 
 So as soon as he/she wakes up and cries, you should check the diaper first, even if the baby doesn't cry, after 2-3 hours, diaper should be changed to comfort your baby. Then after feeding the baby, you should swaddle he/she tightly and put the baby back to sleep. If the baby crying because he/she like it, you can try to cuddle, sing a lullaby, breastfeed your baby. If the baby's temperature is normal, and everything above is done but still crying, then...I don't know. There are many methods for baby sleep training as Cry it out, No tears ... I tried but I just can't see my baby cried like that so I stopped it. And now, I discovered another method: lie next to my baby and breastfeed him to sleep. I think if you lie next to your baby, he/she will sleep better and deeper.
