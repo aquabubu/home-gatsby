@@ -6,7 +6,6 @@ category: Beauty
 tags:
   - japanese-skin-care
   - hatomugi-skin-lotion
-  - beauty
   - skin-care-routine
   - nuoc-can-bang-da
 ---

@@ -6,7 +6,6 @@ category: Baby
 tags:
   - premature-birth
   - normal-vagina-delivery
-  - travel
   - pregnancy
 ---
 

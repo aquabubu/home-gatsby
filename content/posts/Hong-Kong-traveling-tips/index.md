@@ -5,7 +5,6 @@ date: 2015/05/15
 category: Travel
 tags:
   - hong-kong-tips
-  - travel
   - travel-exspense
   - kinh-nghiem
   - hong-kong

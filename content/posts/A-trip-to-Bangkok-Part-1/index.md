@@ -4,7 +4,6 @@ cover: /images/bg-1.png
 date: 2014/09/10
 category: Travel
 tags:
-  - travel
   - bangkok
   - thailand
   - 방콕

@@ -6,7 +6,6 @@ category: Travel
 tags:
   - nara-deer-park
   - japan
-  - travel
   - 나라사슴공원
   - 일본여행
 ---

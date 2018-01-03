@@ -16,10 +16,10 @@ const MainLayout = ({ location, children }) => {
   const menuItems = [
     { name: "Home", path: "/", exact: true, icon: "home", inverted: true },
     { name: "About", path: "/about/", exact: true, icon: "info circle" },
-    { name: "Cuisine", path: "/cuisine/" },
-    { name: "Travel", path: "/travel/" },
-    { name: "Beauty", path: "/beauty/" },
-    { name: "Baby", path: "/baby/" },
+    { name: "Travel", path: "/travel/", exact: false, icon: "travel" },
+    { name: "Cuisine", path: "/cuisine/", exact: false, icon: "food" },
+    { name: "Beauty", path: "/beauty/", exact: false, icon: "heart" },
+    { name: "Baby", path: "/baby/", exact: false, icon: "child" },    
   ];
   const pathname = location.pathname;
   
