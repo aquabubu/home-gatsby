@@ -1,19 +1,13 @@
 ---
 title: Những thứ cần chuẩn bị khi mang thai – Phần 2
+cover: /images/babybg.png
+date: 2017/12/19
 category: Baby
 tags:
-- nhugnthucanchuanbikhimangthai
-- muagikhimangthai
-- dochobeyeu
-- aquabubu
-cover: /images/babybg.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - mang-thai
+  - me-bau
+  - vat-dung-can-thiet
+  - be-yeu
 ---
 
 ## Đồ cho bé yêu

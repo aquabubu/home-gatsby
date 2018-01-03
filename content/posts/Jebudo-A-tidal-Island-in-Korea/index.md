@@ -1,16 +1,12 @@
 ---
 title: Jebudo - A tidal island in Korea
+cover: /images/logo.png
+date: 2014/07/20
 category: Travel
 tags:
   - korea
-cover: /images/logo.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - jebudo-island
+  - travel
 ---
 
 In Korea, there are tidal islands that you can reach by car or bus when the tides are low. Such islands are also called **the miracle of Moses** in Korea (perhaps they are inspired by the story of Moses splitting the seawater so that the Jewish delegation can cross the sea), and Jebu Island (Jebudo - 제부도) is one of them.

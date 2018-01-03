@@ -1,21 +1,15 @@
 ---
 title: Review - Laneige Water Sleeping Mask
+cover: /images/ln.png
+date: 2015/06/27
 category: Beauty
 tags:
-- laneigewatersleepingmask
-- skincareroutine
-- aquabubu
-- matnangulaneige
-- duongdabandem
-- sleepingmask
-cover: /images/ln.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - laneige
+  - sleeping-mask
+  - skincare-routine
+  - mat-na-ngu
+  - duong-da
+  - sleeping-mask
 ---
 
 Today I’m gonna review about the famous Water Sleeping Mask of Laneige. I know there are already so many reviews about this mask but I really love it that I want to make my own review. The **Laneige Water Sleeping Mask** is a light blue plastic box with a small spatula to scoop up enough amount to use.

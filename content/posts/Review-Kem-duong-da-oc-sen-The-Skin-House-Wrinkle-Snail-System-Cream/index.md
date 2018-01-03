@@ -1,19 +1,12 @@
 ---
 title: Review - Kem dưỡng da ốc sên The Skin House Wrinkle Snail System Cream
+cover: /images/snail.png
+date: 2017/04/19
 category: Beauty
 tags:
-- kemocsen
-- skincareroutine
-- kemduongda
-- aquabubu
-cover: /images/snail.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - kemocsen
+  - skin-care-routine
+  - kem-duong-da
 ---
 
 **Chất nhầy ốc sên** đã thu hút được sự quan tâm của nhiều công ty mỹ phẩm tại Hàn quốc vì thành phần kỳ diệu này nổi tiếng với đặc tính chống lão hóa, đặc biệt hữu ích trong việc làm lành vết sẹo trên da và là chất giữ ẩm tốt.

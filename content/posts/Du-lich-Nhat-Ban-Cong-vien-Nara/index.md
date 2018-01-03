@@ -1,19 +1,13 @@
 ---
 title: Du lịch Nhật Bản - Công viên Nara
+cover: /images/nara.png
+date: 2016/10/12
 category: Travel
 tags:
-- dulichnhatban
-- congviennaranhatban
-- naradeerpark
-- aquabubu
-cover: /images/nara.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - du-lich
+  - nhat-ban
+  - cong-vien-nara
+  - nara-deer-park
 ---
 
 Trong bài viết này, mình sẽ giới thiệu về **<span style="color:green"> Công viên Nara </span>**, đó là một công viên rộng lớn với những chú hươu tự do đi lại - một trong những nơi mình đã ghé qua trong chuyến đi đến Nhật Bản.

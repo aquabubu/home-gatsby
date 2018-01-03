@@ -1,21 +1,15 @@
 ---
 title: Review - The Skin House Wrinkle Snail System Cream
+cover: /images/snail.png
+date: 2017/09/17
 category: Beauty
 tags:
-- theskinhousewrinklesnailsystemcream
-- koreansnailcream
-- skincare
-- moisturizer
-- kemocsentheskinhouse
-- aquabubu
-cover: /images/snail.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - wrinkle-snail-system-cream
+  - snail-cream
+  - skin-care
+  - moisturizer
+  - kemocsen
+  - skin-house
 ---
 
 **Snail mucus** caught the attention of many skincare companies in Korea as this odd ingredient is famous for its skin-repairing and anti-aging properties, particularly useful in healing the skin post-breakout, and a good humectant.

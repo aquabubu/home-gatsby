@@ -1,19 +1,14 @@
 ---
 title: Du lịch Bangkok - Phần 1
+cover: /images/bg-1.png
+date: 2014/09/10
 category: Travel
 tags:
-- dulichbangkok
-- chonoitailingchan
-- chuabinhminh
-- aquabubu
-cover: /images/bg-1.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - du-lich
+  - bangkok
+  - cho-noi-tailingchan
+  - wat-pho
+  - thai-lan
 ---
 
 Trong bài viết này, mình xin phép chia sẻ một số thông tin về chuyến đi của mình tới **Bangkok** - Thái Lan. Hy vọng nó sẽ hữu ích cho những bạn đang có kế hoạch đi du lịch ở đó.

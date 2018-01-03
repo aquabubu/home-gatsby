@@ -1,20 +1,14 @@
 ---
 title: Hong Kong traveling tips
+cover: /images/hk.png
+date: 2015/05/15
 category: Travel
 tags:
-- hongkongtravelingtips
-- hongkongtravel
-- aquabubu
-- travelexspense
-- kinhnghiemdulichhongkong
-cover: /images/hk.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - hong-kong-tips
+  - travel
+  - travel-exspense
+  - kinh-nghiem
+  - hong-kong
 ---
 
 <figure style="width: 400px" class="align-center">

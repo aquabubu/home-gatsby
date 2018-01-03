@@ -1,21 +1,16 @@
 ---
 title: Review - IOPE Moisture Skin Soft Peeling Gel
+cover: /images/iopepeel.png
+date: 2017/04/21
 category: Beauty
 tags:
-- skincare
-- aquabubu
-- iopepeelinggel
-- taydachet
-- koreancosmetic
-- myphamhanquoc
-cover: /images/iopepeel.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - skin-care
+  - iope-peeling-gel
+  - tay-da-chet
+  - korean
+  - cosmetic
+  - my-pham
+  - han-quoc
 ---
 
 Having a flawless skin is a desire of every woman in this world, including me! So, skincare routine is very important and requires many complicated steps. And one of them is exfoliation. It not only cleans out clogged pores but also peels off dead skin cells. When you remove this dull layer on your face, your skin will be brighter. Therefore, today I’m gonna introduce you to the IOPE Moisture Skin Soft Peeling Gel 100ml. I got it online from IOPE website at a discounted price around 19,600krw (~$20) but they are also sold in Aritaum stores or some online markets. The original price is 28,000krw. I always wait for the sale to buy it.

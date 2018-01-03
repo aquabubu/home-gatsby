@@ -1,21 +1,13 @@
 ---
 title: Du lịch Hong Kong
+cover: /images/hk1.png
+date: 2014/05/17
 category: Travel
 tags:
-- dulichhongkong
-- nhungdiadiemdulichohongkong
-- hongkongdisneyland
-- hongkongoceanpark
-- aquabubu
-- didauohongkong
-cover: /images/hk1.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - du-lich
+  - hong-kong
+  - disneyland
+  - oceanpark
 ---
 
 Trong bài viết này, mình sẽ giới thiệu các điểm tham quan ở Hồng Kông mà mình đã đến nhé!

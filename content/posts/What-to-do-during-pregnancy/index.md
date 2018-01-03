@@ -1,22 +1,13 @@
 ---
 title: What to do during pregnancy?
+date: 2017/03/15
+cover: /images/baby2.gif
 category: Baby
 tags:
-- pregnancy
-- whattodowhenpregnant
-- allaboutmypregnancy
-- avoidprematurebirth
-- normalvaginadelivery
-- travellinginpregnancy
-- aquabubu
-cover: /images/baby2.gif
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - premature-birth
+  - normal-vagina-delivery
+  - travel
+  - pregnancy
 ---
 
 After checking the quick test and having good news, what will you do? - Of course you need some advice or information from your mother, friends or google things for sure.

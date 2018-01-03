@@ -1,21 +1,15 @@
 ---
 title: Hong Kong cuisine
+cover: /images/hk2.png
+date: 2015/05/20
 category: Cuisine
 tags:
-- hongkongfoodtrip
-- hongkongtravel
-- whattoeatinhongkong
-- aquabubu
-- 홍콩음식
-- amthuchongkong
-cover: /images/hk2.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - hongkong-food-trip
+  - hongkong-cuisine
+  - food-paradise
+  - 홍콩음식
+  - am-thuc
+  - hongkong
 ---
 
 The diversity of food is one of the most memorable things in Hong Kong due to its past as a British colony and long history of being an international port of commerce. There is an unlimited variety of food from the roadside stalls to the most upscale restaurants. And, after being here, I can understand why it is called "Gourmet Paradise" and "World's Fair of Food". Now, let's see what is special about their food. Therefore, I will introduce some restaurants and foods that I enjoyed during my trip to Hong Kong and give some comments on them.

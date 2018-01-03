@@ -1,7 +1,7 @@
 ---
 title: Ẩm thực Hàn quốc - Phần 1
 cover: /images/kcuisine.png
-date: 2018/01/03
+date: 2014/03/17
 category: Cuisine
 tags:
   - han-quoc

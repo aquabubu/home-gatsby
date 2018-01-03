@@ -1,20 +1,14 @@
 ---
 title: Khi mang thai nên làm gì?
+cover: /images/baby2.gif
+date: 2017/03/15
 category: Baby
 tags:
-- lamgikhimangthai
-- caccauhoithuonggapkhimangthai
-- cacgiaidoanmangthai
-- didulichkhimangthai
-- sinhthuonghaysinhmo
-cover: /images/baby2.gif
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - mang-thai
+  - cac-giai-doan-mang-thai
+  - du-lich-mang-thai
+  - sinh-thuong
+  - sinh-mo
 ---
 
 Sau khi dùng que thử thai và có được tin tốt, các mẹ sẽ làm gì nhỉ? - Tất nhiên là cần một số lời khuyên hoặc thông tin từ mẹ, bạn bè hoặc tìm kiếm những thông tin trên mạng để chắc chắn.

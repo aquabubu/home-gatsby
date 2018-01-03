@@ -1,20 +1,14 @@
 ---
 title: Review - Mặt nạ môi Laneige Lip Sleeping Mask
+cover: /images/lipmask.png
+date: 2016/12/01
 category: Beauty
 tags:
-- laneigelipsleepingmask
-- matnangumoilaneige
-- matnamoihuongvani
-- duongmoi
-- aquabubu
-cover: /images/lipmask.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - lips-sleeping-mask
+  - mat-na-ngu
+  - laneige
+  - mat-na-moi
+  - duong-moi
 ---
 
 <figure style="width: 400px" class="align-center">

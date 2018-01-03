@@ -1,21 +1,15 @@
 ---
 title: Du lịch Bangkok - Phần 2
+cover: /images/bg-2.png
+date: 2014/09/15
 category: Travel
 tags:
-- dulichbangkok
-- watpho
-- grandpalace
-- madametussauds
-- thailandoceanpark
-- aquabubu
-cover: /images/bg-2.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - du-lich
+  - bangkok
+  - wat-pho
+  - grand-palace
+  - madametussauds
+  - thailand-oceanpark
 ---
 
 Bài viết này sẽ giới thiệu tiếp về các địa điểm du lịch ở Bangkok. Trong <a href="http://aquabubu.com/blog/travel/Du-lich-Bangkok-Phan-1/" target="_blank">phần 1</a>, mình đã giới thiệu về một vài nơi và dừng lại ở Chùa Bình Minh, và từ chỗ này, mình đã đến Wat Pho và Cung điện hoàng gia (Grand Palace).

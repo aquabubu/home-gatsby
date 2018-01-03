@@ -1,19 +1,15 @@
 ---
 title: Review - Mặt nạ ngủ Laneige Water Sleeping Mask
+cover: /images/ln.png
+date: 2015/06/27
 category: Beauty
 tags:
-- matnangulaneigewatersleepingmask
-- maskngulaneige
-- chamsocda
-- aquabubu
-cover: /images/ln.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - mat-na-ngu
+  - laneige
+  - sleeping-mask
+  - mask-ngu-laneige
+  - cham-soc-da
+  - duong-da
 ---
 
 Dù mình biết đã có rất nhiều chị em viết review về em mặt nạ ngủ này rồi, nhưng mà là fan ruột của ẻm nên vẫn muốn viết riêng một bài ca ngợi nữa. Mặt nạ ngủ **Laneige Water Sleeping Mask 80ml** được đựng trong một hũ nhựa màu xanh nhạt rất đơn giản nhưng hũ nhựa dày cầm chắc tay lắm.

@@ -1,20 +1,15 @@
 ---
 title: Du lịch Nhật Bản - Đền thờ Fushimi Inari-taisha (伏見稲荷大社) ở Kyoto
+cover: /images/taisha.png
+date: 2016/10/17
 category: Travel
 tags:
-- dulichnhatban
-- dulichkyoto
-- denthofushimiinaritaisha
-- didauonhatban
-- aquabubu
-cover: /images/taisha.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - du-lich
+  - nhat-ban
+  - kyoto
+  - dentho
+  - fushimi
+  - inari-taisha
 ---
 
 <figure style="width: 650px" class="align-center">

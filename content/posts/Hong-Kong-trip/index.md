@@ -1,20 +1,14 @@
 ---
 title: Hong Kong trip
+cover: /images/hk1.png
+date: 2015/05/17
 category: Travel
 tags:
-- hongkongtravel
-- placestogoinhongkong
-- hongkongdisneyland
-- aquabubu
-- 홍콩여행
-cover: /images/hk1.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - hongkong-travel
+  - places
+  - hongkong
+  - hongkong-disneyland
+  - 홍콩여행
 ---
 
 In this post, I will introduce the attractions that I've visited during my trip in Hong Kong.

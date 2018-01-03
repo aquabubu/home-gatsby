@@ -1,21 +1,13 @@
 ---
 title: Pregnancy checklist - Part 1
+cover: /images/ava.png
+date: 2017/12/17
 category: Baby
 tags:
-- pregnancychecklistpart1
-- thingstobuywhenpregnancy
-- bottlewarmer
-- sterilizer
-- thermometer
-- aquabubu
-cover: /images/ava.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - pregnancy
+  - bottle-warmer
+  - sterilizer
+  - thermometer
 ---
 
 The mother-to-be needs to prepare a lot of things, not only her psychological but also many needed items. So, I'm gonna list some things that were prepared during my pregnancy as I find them quite necessary.

@@ -1,20 +1,15 @@
 ---
 title: Review - Nước cân bằng da Hatomugi Skin Lotion
+cover: /images/hato.png
+date: 2017/05/15
 category: Beauty
 tags:
-- tonerhatomugi
-- hatomugiskinlotion
-- nuoccanbanghatomugi
-- aquabubu
-- myphamduongda
-cover: /images/hato.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - toner-hatomugi
+  - hatomugi
+  - skin-lotion
+  - nuoc-can-bang-hatomugi
+  - my-pham
+  - duong-da
 ---
 
 Gần đây, khi tìm mua loại nước cân bằng da mới (toner), mình đã tìm lotion hạt dĩ ý (chính là hạt bobo đấy ạ) của Nhật **Hatomugi Skin Lotion** (ở Nhật gọi là lotion dưỡng da thay cho toner). Em này làm mình ngạc nhiên hết sức vì thể tích khủng mà giá rất lại rất rẻ 500ml/8.500krw. Các blogger ca ngợi em này nhiều lắm, bảo là Hatomugi là một trong những loại toner tốt nhất và được hầu hết các phụ nữ Nhật Bản yêu thích.

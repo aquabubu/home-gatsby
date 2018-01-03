@@ -1,19 +1,14 @@
 ---
 title: Du lịch ở Seoul - Gyeongbokgung
+cover: /images/gbbg.png
+date: 2014/03/15
 category: Travel
 tags:
-- dulichhanquoc
-- gyeongbokgung
-- placetogoinseoul
-- aquabubu
-cover: /images/gbbg.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - du-lich
+  - han-quoc
+  - gyeongbokgung
+  - place-to-go
+  - seoul
 ---
 
 Nếu bạn muốn đi du lịch ở Hàn Quốc (đặc biệt là đi chơi quanh Seoul) thì bạn không thể bỏ lỡ nơi này: **Gyeongbokgung** - một cung điện hoàng gia của triều đại Joseon và là một trong những địa điểm nổi tiếng nhất ở Seoul (còn được gọi là Cung Cảnh Phúc).

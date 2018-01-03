@@ -1,21 +1,15 @@
 ---
 title: Vietnamese cuisine - In the North
+cover: /images/northcuisine.png
+date: 2017/05/05
 category: Cuisine
 tags:
-- vietnamesecuisine
-- foodinnorthernvietnam
-- vietnamesenortherncuisine
-- monngonmienbac
-- bunchaobama
-- aquabubu
-cover: /images/northcuisine.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - vietnamese-cuisine
+  - food
+  - northern
+  - mon-ngon
+  - mien-bac
+  - bun-cha-obama
 ---
 
 Vietnam is originally an agricultural country belonging to the tropical monsoon region, and the territory of Vietnam is divided into three distinct regions: North, Central and South. It is the differences of geography, culture, ethnic group and climatic characteristics that define the specific characteristics of regional cuisine, contributing to the rich and varieties of Vietnamese cuisine. A characteristic that helps to distinguish Vietnam cuisine is people prefer delicious food to the nutritious food. So, their food is mainly focused on mixing the seasoning spices in order to cook delicious dishes.

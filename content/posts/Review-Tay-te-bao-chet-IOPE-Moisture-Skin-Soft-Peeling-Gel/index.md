@@ -1,19 +1,14 @@
 ---
 title: Review - Tẩy tế bào chết IOPE Moisture Skin Soft Peeling Gel
+cover: /images/iopepeel.png
+date: 2017/04/21
 category: Beauty
 tags:
-- TaytebaochetIOPEMoistureSkinSoftPeelingGel
-- myphamhan
-- duongdahangngay
-- aquabubu
-cover: /images/iopepeel.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - tay-te-bao-chet
+  - ipoe-moisture-skin-soft-peeling-gel
+  - my-pham
+  - han-quoc
+  - duong-da-hang-ngay
 ---
 
 Dưỡng da là cả một quá trình rất quan trọng và đòi hỏi nhiều bước dưỡng. Và một trong số đó là tẩy tế bào chết (nôm na là tẩy da chết), nó không chỉ làm sạch các lỗ chân lông mà còn lấy đi các tế bào da chết trên mặt bạn. Khi bạn loại bỏ lớp da cũ thì làn da của bạn sẽ sáng hơn, các vết thâm sẽ mờ nhanh hơn và hấp thu dưỡng chất tốt hơn. Vì vậy, hôm nay mình sẽ review cho bạn sản phẩm tẩy tế bào chết IOPE Moisture Skin Soft Peeling Gel 100ml. Mình toàn đợi đến dịp sale của hãng để mua cho rẻ thôi.

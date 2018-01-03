@@ -1,7 +1,7 @@
 ---
 title: Ẩm thực Việt Nam - món ngon miền Bắc
 cover: /images/northcuisine.png
-date: 2018/01/03
+date: 2017/05/05
 category: Cuisine
 tags:
   - am-thuc

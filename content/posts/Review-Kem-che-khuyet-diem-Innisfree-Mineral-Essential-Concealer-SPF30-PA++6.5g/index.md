@@ -1,20 +1,14 @@
 ---
 title: Review - Kem che khuyết điểm Innisfree Mineral Essential Concealer SPF30 PA++
   6.5g
+cover: /images/in2.png
+date: 2016/05/05
 category: Beauty
 tags:
-- Innisfree Mineral Essential Concealer SPF30 PA++ 6.5g
-- chekhuyetdiem
-- basemakeup
-- aquabubu
-cover: /images/in2.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+	- innisfree
+	- che-khuyet-diem
+	- base-makeup
+  - concealer
 ---
 
 Có một làn da hoàn hảo là ước mơ của nhiều phụ nữ trong thế giới này, tất nhiên cũng bao gồm cả mình nữa! Tuy nhiên, gần đây bị rối loạn nội tiết tố hay sao mà mặt mình nổi rất nhiều mụn, và sau khi hết mụn thì vẫn còn cả một đống vết thâm trên mặt nữa. Thật là thiếu tự tin và hụt hẫng khi nhìn vào gương mà :sob: :sob: :sob:

@@ -1,20 +1,13 @@
 ---
 title: Kinh nghiệm du lịch Hong Kong
+cover: /images/hk.png
+date: 2015/05/15
 category: Travel
 tags:
-- kinhnghiemdulichhongkong
-- chuanbigikhidihongkong
-- dulichhongkongmat baonhieutien
-- angiohongkong
-- aquabubu
-cover: /images/hk.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - kinh-nghiem
+  - hongkong-tips
+  - chi-phi
+  - an-uong
 ---
 
 <figure style="width: 400px" class="align-center">

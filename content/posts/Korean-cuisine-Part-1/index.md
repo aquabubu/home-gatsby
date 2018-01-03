@@ -1,20 +1,12 @@
 ---
 title: Korean cuisine - Part 1
+cover: /images/kcuisine.png
+date: 2014/03/17
 category: Cuisine
 tags:
-- koreancuisine
-- koreanfood
-- foodtotryinkorea
-- whattoeatinkorea
-- aquabubu
-cover: /images/kcuisine.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - korean-cuisine
+  - korean-food
+  - what-to-eat
 ---
 
 When traveling to Korea, visitors will not only see outstanding sceneries and landmarks but also explore a wide range of unique and delicious Korean food. Therefore, I will introduce the Korean cuisine in this post, and show you some delicious dishes that you should try if you plan to travel there.

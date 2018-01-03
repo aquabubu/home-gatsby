@@ -1,7 +1,7 @@
 ---
 title: Everland - famous theme park in Korea
 cover: /images/evlbg.png
-date: 2018/01/03
+date: 2014/03/31
 category: Travel
 tags:
   - everland

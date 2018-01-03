@@ -1,20 +1,14 @@
 ---
 title: Review - Tinh chất dưỡng Innisfree Soybean Energy Essence
+cover: /images/in1.png
+date: 2016/05/05
 category: Beauty
 tags:
-- tinhchatduongdaunanhinnisfree
-- InnisfreeSoybeanEnergyEssence
-- myphamhan
-- duongda
-- aquabubu
-cover: /images/in1.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - tinh-chat-duong-dau-nanh
+  - innisfree
+  - soybean-energy-essence
+  - my-pham-han
+  - duong-da
 ---
 
 Chị em nào đã và đang theo đuổi các bước dưỡng da hằng ngày theo kiểu Hàn thì một bước quan trọng không thể bỏ lỡ là tinh chất dưỡng (essence). Mình cũng đang chăm sóc da theo kiểu Hàn nên viết ngay một bài review về tinh chất dưỡng Innisfree Soybean Energy Essence 150ml.

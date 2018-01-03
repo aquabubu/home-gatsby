@@ -1,21 +1,13 @@
 ---
 title: Những câu hỏi và vấn đề thường gặp sau khi sinh
+cover: /images/lifeafterbirth.png
+date: 2017/12/15
 category: Baby
 tags:
-- nhungcauhoivavandethuonggapsaukhisinh
-- suamehaysuacongthuc
-- giacngucuabe
-- taobonsaukhisinh
-- conentamsaukhisinh
-- aquabubu
-cover: /images/lifeafterbirth.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - sua-me
+  - sua-cong-thuc
+  - giac-ngu
+  - sau-sinh
 ---
 
 Thật sự thì sau khi sinh mình còn căng thẳng hơn lúc mang bầu các mẹ ạ. Mình hay lo lắng và trở nên nóng tính, hay lớn tiếng với mọi người trong gia đình nữa mà như vậy thì không tốt chút nào cả. Vì vậy mình sẽ nói đến một vài vấn đề sau khi sinh, hi vọng nó sẽ giúp các mẹ đỡ căng thẳng và lo lắng sau khi bé yêu chào đời. 

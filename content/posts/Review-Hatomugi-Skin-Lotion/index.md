@@ -1,21 +1,14 @@
 ---
 title: Review - Hatomugi Skin Lotion
+cover: /images/hato.png
+date: 2017/05/15
 category: Beauty
 tags:
-- japaneseskincare
-- hatomugiskinlotion
-- beauty
-- skincareroutine
-- nuoccanbangda
-- aquabubu
-cover: /images/hato.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - japanese-skin-care
+  - hatomugi-skin-lotion
+  - beauty
+  - skin-care-routine
+  - nuoc-can-bang-da
 ---
 
 Recently I did some online shopping and found one **Japanese toner – Hatomugi Skin Lotion** (in Japan, they call skin lotion or skin conditioner instead of toner). This toner really surprised me because of its huge volume at a very cheap price 500ml/8,500krw (~$8.5). It is said that Hatomugi Skin Lotion is one of the best toners and loved by most of the Japanese women. So after using it for a while, I’m gonna review it now.

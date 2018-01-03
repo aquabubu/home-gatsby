@@ -1,20 +1,14 @@
 ---
 title: Nara Deer Park in Japan
+cover: /images/nara.png
+date: 2016/10/12
 category: Travel
 tags:
-- naradeerpark
-- japantravel
-- 나라사슴공원
-- 일본여행
-- aquabubu
-cover: /images/nara.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - nara-deer-park
+  - japan
+  - travel
+  - 나라사슴공원
+  - 일본여행
 ---
 
 I’m gonna review about the **<span style="color:green"> Nara Deer Park </span>**, which is a pleasant and spacious park with freely roaming deer – one of the places I have been on my trip to Japan.

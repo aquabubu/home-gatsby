@@ -1,21 +1,15 @@
 ---
 title: Review - La Roche-Posay Cicaplast Baume B5 – Soothing repairing balm
+cover: /images/laroche.png
+date: 2017/04/19
 category: Beauty
 tags:
-- larocheposay
-- cicaplastbaumeb5
-- moisturizer
-- skincare
-- 라로슈포제
-- 스킨케어
-cover: /images/laroche.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - la-roche-posay
+  - cicaplast-baume-b5
+  - moisturizer
+  - skin-care
+  - 라로슈포제
+  - 스킨케어
 ---
 
 Whenever the winter comes, my skin always feels dry and I even get many dry patches. I always get a headache thinking of what kind of moisturizer I should use to protect and moisture my skin. Fortunately, I was introduced to the <span style="color:deepskyblue">**Cicaplast Baume B5 of La Roche-Posay**</span> and I immediately bought a 100ml tube at Oliveyoung store, ~$30. After a long time using, now I decide to write a review about it :snowflake: :snowman: :snowflake: :snowman: (sorry, it's been a long time so I can't find the box, I probably threw it away).

@@ -1,19 +1,13 @@
 ---
 title: Công viên giải trí Everland
+cover: /images/evlbg.png
+date: 2014/03/31
 category: Travel
 tags:
-- congvienchudeeverland
-- everlandhanquoc
-- dulichhanquoc
-- aquabubu
-cover: /images/evlbg.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - theme-park
+  - everland-hanquoc
+  - du-lich
+  - han-quoc
 ---
 
 Nếu bạn muốn đi du lịch Hàn Quốc và đang tìm một nơi để giải trí - một nơi sôi động, vui nhộn và đủ lớn cho cả ngày vui chơi, hãy ghé qua Everland. Đây là một  <span style="color:PaleVioletRed">**công viên chủ đề lớn nhất của Hàn Quốc** </span>, được điều hành bởi tập đoàn SAMSUNG và xây dựng tại Everland Resort ở thành phố Yongin. Ngoài những địa điểm thu hút chính, **Everland** còn có một **sở thú** và một **công viên nước** gọi là **Caribbean Bay**. Mình không tự tin về eo ọt để mặc bikini nên không có hứng thú với cái công viên nước đó nhé. :laughing: Mình sẽ giới thiệu chi tiết về công viên giải trí Everland với **5 khu vực khác nhau**: Hội chợ toàn cầu, Phiêu lưu kiểu Mỹ, Vùng đất ma thuật, Phiêu lưu kiểu Âu, và Vườn bách thú.

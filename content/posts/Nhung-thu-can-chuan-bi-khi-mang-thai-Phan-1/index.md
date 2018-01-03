@@ -1,19 +1,12 @@
 ---
 title: Những thứ cần chuẩn bị khi mang thai - Phần 1
+cover: /images/ava.png
+date: 2017/12/17
 category: Baby
 tags:
-- nhungthucanchuanbikhimangthai
-- dochomebau
-- vatdungcanthiet
-- aquabubu
-cover: /images/ava.png
-layout: single
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
-toc: true
+  - mang-thai
+  - me-bau
+  - vat-dung-can-thiet
 ---
 
 Khi mang thai các mẹ cần chuẩn bị rất nhiều thứ, không chỉ cần chuẩn bị về tâm lí mà còn phải mua nhiều vật dụng cần thiết sau này. Vì thế, mình sẽ liệt kê một số thứ mình đã chuẩn bị khi mang thai và mình thấy chúng khá là cần thiết. 
