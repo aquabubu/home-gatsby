@@ -1,5 +1,5 @@
 ---
-title: Du lịch ở Seoul - Gyeongbokgung
+title: Du lịch Hàn quốc - Gyeongbokgung
 cover: /images/gbbg.png
 date: 2014/03/15
 category: Travel

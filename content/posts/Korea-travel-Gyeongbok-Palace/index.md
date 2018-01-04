@@ -1,5 +1,5 @@
 ---
-title: Gyeongbok Palace (경복궁) in Korea
+title: Korea travel - Gyeongbok Palace (경복궁)
 cover: /images/gbbg.png
 date: 2014/03/15
 category: Travel

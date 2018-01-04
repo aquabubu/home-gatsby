@@ -1,5 +1,5 @@
 ---
-title: Công viên giải trí Everland
+title: Du lịch Hàn quốc - Công viên giải trí Everland
 cover: /images/evlbg.png
 date: 2014/03/31
 category: Travel

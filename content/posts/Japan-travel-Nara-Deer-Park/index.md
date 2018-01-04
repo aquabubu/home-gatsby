@@ -1,5 +1,5 @@
 ---
-title: Nara Deer Park in Japan
+title: Japan travel - Nara Deer Park
 cover: /images/nara.png
 date: 2016/10/12
 category: Travel

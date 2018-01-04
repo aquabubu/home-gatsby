@@ -1,5 +1,5 @@
 ---
-title: A trip to Bangkok - Part 1
+title: Bangkok trip - Part 1
 cover: /images/bg-1.png
 date: 2014/09/10
 category: Travel
@@ -27,7 +27,7 @@ We also went to the famous red light street but we were not allowed to shoot. Th
 The Central Pier providing a kind of water transportation service called The Chao Phraya Tourist Boat, where many high quantity colorful boats travel from pier to pier without worrying about purchasing extra boat tickets or getting lost. Although the docks are not so large, they have English signboards and even an English speaking guide.
 
 
-<figure style="width: 650px" class="align-center">
+<figure>
   <img src="./bangkok-1.png" alt="">
   <figcaption style="font-size: 17px" align="center"> <span style="color:deepskyblue"> The scenes from two sides seeing on a motor boat </span> </figcaption>
 </figure>
@@ -43,7 +43,7 @@ When the express boat arrived, we took a taxi to Taling Chan Floating Market, wh
 Taling Chan Floating Market is not too big and has many Thai people so the traditional specifics have still remained. Goods are also cheap, and the cuisine is so delicious and diverse. The salesmen are very mindful decorating clean, nice and orderly stalls.
 
 
-<figure style="width: 650px" class="align-center">
+<figure>
   <img src="./bangkok-2.png" alt="">
   <figcaption> </figcaption>
 </figure>
@@ -51,7 +51,7 @@ Taling Chan Floating Market is not too big and has many Thai people so the tradi
 Thai crispy pancake looks like Vietnamese pancakes but the taste is totally diferent. The yellow colored pancake that had additional cream layer was very sweet. While the light orange colored one tasted both sweet and salty, which I preferred more.
 
 
-<figure style="width: 650px" class="align-center">
+<figure>
   <img src="./bangkok-3.png" alt="">
   <figcaption> </figcaption>
 </figure>
@@ -64,7 +64,7 @@ Wat Arun is Bangkok's oldest temple. When King Thaksin decided to build his new 
 If you wear shorts, short skirts and tank top, you must hire a long cloth to cover. As the place is quite crowded, bring your own cloth to avoid time-consuming if possible.  
 
 
-<figure style="width: 650px" class="align-center">
+<figure>
   <img src="./bangkok-4.png" alt="">
   <figcaption> </figcaption>
 </figure>

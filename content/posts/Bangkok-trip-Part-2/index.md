@@ -1,5 +1,5 @@
 ---
-title: A trip to Bangkok - Part 2
+title: Bangkok trip - Part 2
 cover: /images/bg-2.png
 date: 2014/09/15
 category: Travel

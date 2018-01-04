@@ -12,7 +12,7 @@ tags:
   - inari-taisha
 ---
 
-<figure style="width: 650px" class="align-center">
+<figure>
   <img src="./taisha-1.png" alt="">
   <figcaption></figcaption>
 </figure>
