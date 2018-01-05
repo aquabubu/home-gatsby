@@ -1,6 +1,7 @@
 import React from "react";
 import { connect } from "react-redux";
-import { Container, Menu, Icon } from "semantic-ui-react";
+import Link from 'gatsby-link';
+import { Container, Menu, Icon, Input, Button, Segment, Flag } from "semantic-ui-react";
 import { toggleSidebar } from "../../store";
 
 const HeaderMenu = ({ pathname, Link, items, inverted, dispatch }) => {
@@ -22,6 +23,15 @@ const HeaderMenu = ({ pathname, Link, items, inverted, dispatch }) => {
             />
           );
         })}
+
+        <Menu.Menu position='right'>
+          <Menu.Item as={Link} to="/en">
+            <Flag name='us' />
+          </Menu.Item>
+          <Menu.Item as={Link} to="/vi">
+            <Flag name='vn' />
+          </Menu.Item>
+        </Menu.Menu>
       </Menu>
     </Container>
   );
