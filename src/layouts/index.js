@@ -15,14 +15,14 @@ import "../css/styles.css";
 import "../css/responsive.css";
 import "../css/semantic.min.css";
 
-const MainLayout = ({ location, data, children }) => {
+const MainLayout = ({ location, data, children, i18nMessages }) => {
   const menuItems = [
-    { name: "Home", path: "/", exact: true, icon: "home", inverted: true },
-    { name: "About", path: "/about/", exact: true, icon: "info circle" },
-    { name: "Travel", path: "/travel/", exact: false, icon: "travel" },
-    { name: "Cuisine", path: "/cuisine/", exact: false, icon: "food" },
-    { name: "Beauty", path: "/beauty/", exact: false, icon: "heart" },
-    { name: "Baby", path: "/baby/", exact: false, icon: "child" },    
+    { name: "Home", path: "/", icon: "home" },
+    { name: "About", path: "/about/", icon: "info circle" },
+    { name: "Travel", path: "/travel/", icon: "travel" },
+    { name: "Cuisine", path: "/cuisine/", icon: "food" },
+    { name: "Beauty", path: "/beauty/", icon: "heart" },
+    { name: "Baby", path: "/baby/", icon: "child" },    
   ];
   const pathname = location.pathname;
 
@@ -33,7 +33,10 @@ const MainLayout = ({ location, data, children }) => {
   const langsMenu = getLangs(langs, langKey, getUrlForLang(homeLink, url));
   
   return (
-    <IntlProvider locale={langKey}>
+    <IntlProvider 
+      locale={langKey} 
+      messages={i18nMessages}
+    >
       <div>
         <Sidebar.Pushable as={Segment}>
           <SidebarMenu Link={Link} pathname={pathname} items={menuItems} visible={false} />
