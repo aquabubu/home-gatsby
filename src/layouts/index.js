@@ -1,9 +1,6 @@
 import React from "react";
-import Link from "gatsby-link";
 import { Segment, Icon, Container, Sidebar } from "semantic-ui-react";
 import { getCurrentLangKey, getLangs, getUrlForLang } from 'ptz-i18n';
-import { IntlProvider } from 'react-intl';
-import 'intl';
 import config from "../../data/SiteConfig";
 import HeaderMenu from "../components/HeaderMenu/HeaderMenu";
 import SidebarMenu from "../components/SidebarMenu/SidebarMenu";
@@ -15,14 +12,14 @@ import "../css/styles.css";
 import "../css/responsive.css";
 import "../css/semantic.min.css";
 
-const MainLayout = ({ location, data, children, i18nMessages }) => {
+const MainLayout = ({ location, data, children, messages }) => {
   const menuItems = [
-    { name: "Home", path: "/", icon: "home" },
-    { name: "About", path: "/about/", icon: "info circle" },
-    { name: "Travel", path: "/travel/", icon: "travel" },
-    { name: "Cuisine", path: "/cuisine/", icon: "food" },
-    { name: "Beauty", path: "/beauty/", icon: "heart" },
-    { name: "Baby", path: "/baby/", icon: "child" },    
+    { name: "home", path: "/", icon: "home" },
+    { name: "about", path: "/about/", icon: "info circle" },
+    { name: "baby", path: "/baby/", icon: "child" },    
+    { name: "travel", path: "/travel/", icon: "travel" },
+    { name: "cuisine", path: "/cuisine/", icon: "food" },
+    { name: "beauty", path: "/beauty/", icon: "heart" },
   ];
   const pathname = location.pathname;
 
@@ -31,36 +28,37 @@ const MainLayout = ({ location, data, children, i18nMessages }) => {
   const langKey = getCurrentLangKey(langs, defaultLangKey, url);
   const homeLink = `/${langKey}/`;
   const langsMenu = getLangs(langs, langKey, getUrlForLang(homeLink, url));
-  
+
   return (
-    <IntlProvider 
-      locale={langKey} 
-      messages={i18nMessages}
-    >
-      <div>
-        <Sidebar.Pushable as={Segment}>
-          <SidebarMenu Link={Link} pathname={pathname} items={menuItems} visible={false} />
-          <Sidebar.Pusher style={{ minHeight: "100vh" }}>
-            {/* Header */}
-            {<HeaderMenu
-              Link={Link}
-              pathname={pathname}
-              items={menuItems}
-            />}
+    <div>
+      <Sidebar.Pushable as={Segment}>
+        <SidebarMenu 
+          pathname={pathname} 
+          items={menuItems} 
+          langKey={langKey} 
+          messages={messages}          
+          visible={false}
+        />
+        
+        <Sidebar.Pusher style={{ minHeight: "100vh" }}>
+          <HeaderMenu 
+            pathname={pathname} 
+            items={menuItems} 
+            langKey={langKey}
+            messages={messages}            
+            langsMenu={langsMenu}
+          />
 
-            {/* Render children pages */}
-            <div style={{ paddingBottom: 60 }}>
-              {children()}
-            </div>
+          <div style={{ paddingBottom: 60 }}>
+            {children()}
+          </div>
 
-            {/* Footer */}
-            <Segment vertical style={{ position: "absolute", bottom: 0, width: "100%" }}>
-              <Footer config={config} />
-            </Segment>
-          </Sidebar.Pusher>
-        </Sidebar.Pushable>
-      </div>
-    </IntlProvider>
+          <Segment vertical style={{ position: "absolute", bottom: 0, width: "100%" }}>
+            <Footer config={config} />
+          </Segment>
+        </Sidebar.Pusher>
+      </Sidebar.Pushable>
+    </div>
   );
 }
 
