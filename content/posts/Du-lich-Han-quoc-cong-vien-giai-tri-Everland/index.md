@@ -1,6 +1,6 @@
 ---
 title: Du lịch Hàn quốc - Công viên giải trí Everland
-cover: /images/evlbg.png
+cover: /images/everland.png
 date: 2014/03/31
 category: Travel
 tags:

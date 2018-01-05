@@ -1,6 +1,6 @@
 ---
 title: Du lịch Hong Kong
-cover: /images/hk1.png
+cover: /images/hktrip.png
 date: 2015/05/17
 category: Travel
 tags:

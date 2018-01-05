@@ -1,6 +1,6 @@
 ---
 title: Korea travel - Famous theme park Everland
-cover: /images/evlbg.png
+cover: /images/everland.png
 date: 2014/03/31
 category: Travel
 tags:

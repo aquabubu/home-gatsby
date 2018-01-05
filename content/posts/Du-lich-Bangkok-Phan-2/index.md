@@ -1,6 +1,6 @@
 ---
 title: Du lịch Bangkok - Phần 2
-cover: /images/bg-2.png
+cover: /images/bangkok2.png
 date: 2014/09/15
 category: Travel
 tags:

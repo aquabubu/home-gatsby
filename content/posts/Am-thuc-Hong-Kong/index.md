@@ -1,6 +1,6 @@
 ---
 title: Ẩm thực Hong Kong
-cover: /images/hk2.png
+cover: /images/hkcuisine.png
 date: 2015/05/20
 category: Cuisine
 tags:

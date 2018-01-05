@@ -1,6 +1,6 @@
 ---
 title: Du lịch Hàn quốc - Gyeongbokgung
-cover: /images/gbbg.png
+cover: /images/gyeongbokgung.png
 date: 2014/03/15
 category: Travel
 tags:
