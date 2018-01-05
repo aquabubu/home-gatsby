@@ -1,8 +1,8 @@
 module.exports = {
   'home': 'Trang chủ',
   'about': "Giới thiệu",
-  'baby': "Sinh sản",  
+  'baby': "Bé yêu",  
   'travel': "Du lịch",
-  'cuisine': "Ăn uống",
-  'beauty': "Sắc đẹp",
+  'cuisine': "Ẩm thực",
+  'beauty': "Làm đẹp",
 };
