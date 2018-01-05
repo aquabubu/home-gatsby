@@ -1,6 +1,7 @@
 const path = require("path");
 const _ = require("lodash");
 const webpackLodashPlugin = require("lodash-webpack-plugin");
+const { getSlugAndLang } = require("ptz-i18n");
 
 const postNodes = [];
 
@@ -40,24 +41,17 @@ function addSiblingNodes(createNodeField) {
 
 exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
   const { createNodeField } = boundActionCreators;
-  let slug;
   if (node.internal.type === "MarkdownRemark") {
-    const fileNode = getNode(node.parent);
-    const parsedFilePath = path.parse(fileNode.relativePath);
-    if (parsedFilePath.name !== "index" && parsedFilePath.dir !== "") {
-      slug = `/${parsedFilePath.dir}/${parsedFilePath.name}/`;
-    } else if (parsedFilePath.dir === "") {
-      slug = `/${parsedFilePath.name}/`;
-    } else {
-      slug = `/${parsedFilePath.dir}/`;
+    const { absolutePath } = getNode(node.parent);
+
+    const options = {
+      langKeyDefault: 'en',
+      pagesPaths: ['/content/posts/']
     }
-    if (
-      Object.prototype.hasOwnProperty.call(node, "frontmatter") &&
-      Object.prototype.hasOwnProperty.call(node.frontmatter, "slug")
-    ) {
-      slug = `/${_.kebabCase(node.frontmatter.slug)}`;
-    }
+    const { slug, langKey } = getSlugAndLang(options, absolutePath);    
+
     createNodeField({ node, name: "slug", value: slug });
+    createNodeField({ node, name: "langKey", value: langKey });
     postNodes.push(node);
   }
 };
@@ -90,6 +84,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
                   }
                   fields {
                     slug
+                    langKey
                   }
                 }
               }
