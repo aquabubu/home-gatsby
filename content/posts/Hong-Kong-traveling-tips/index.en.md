@@ -4,10 +4,15 @@ cover: /images/hk.png
 date: 2015/05/15
 category: Travel
 tags:
-  - hong-kong-tips
+  - Travel
+  - hongkong-tips
   - travel-exspense
   - kinh-nghiem
   - hong-kong
+  - chi-phi
+  - an-uong
+  - what-to-bring
+  - chuan-bi-do
 ---
 
 <figure style="width: 400px" class="align-center">
@@ -17,7 +22,7 @@ tags:
 
 ## <span style="color:brown"> Time </span>
 
-I made my trip in May (Mid-season Sale, items decreased slightly, about 30%). You can go on Jul, Aug, Dec, and Jan for the Final Sale, but I recommend to go in Dec when you can not only enjoy Christmas but also get the Final Sale, as well as having a pleasant weather. It usually rains in Jul or Aug.
+I made my trip in May (Mid-season Sale, items decreased slightly, about 30%). You can go on Jul, Aug, Dec, and Jan for the Final Sale, but I recommend to go in Dec when you can not only enjoy Christmas but also get the Final Sale, as well as having a pleasant weather. It usually rains in Jul or Aug. Check the weather before you flight to pack suitable clothes.
 
 ## <span style="color:slateblue"> Attractions </span>
 

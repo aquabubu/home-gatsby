@@ -4,6 +4,12 @@ cover: /images/hkcuisine.png
 date: 2015/05/20
 category: Cuisine
 tags:
+  - Cuisine
+  - hongkong-food-trip
+  - hongkong-cuisine
+  - food-paradise
+  - 홍콩음식
+  - am-thuc
   - hongkong
   - an-gi
   - mon-ngon

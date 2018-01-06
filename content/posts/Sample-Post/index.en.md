@@ -2,10 +2,9 @@
 title: Sample Post
 cover: https://unsplash.it/400/300/?random?BigTest
 date: 2010/01/03
-category: sample-post
+category: sample
 tags:
   - sample
-  - markdown-cheatsheet
 ---
 
 # NOTE: This "post" is based on [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and is meant to test styling of Markdown generated documents.

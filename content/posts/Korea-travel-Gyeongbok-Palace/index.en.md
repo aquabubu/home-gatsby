@@ -4,10 +4,13 @@ cover: /images/gyeongbokgung.png
 date: 2014/03/15
 category: Travel
 tags:
+  - Travel
   - korea-travel
   - gyeongbokgung
   - spring
   - seoul
+  - du-lich-han-quoc
+  - place-to-go-in-seoul
 ---
 
 If you wanna go to South Korea (especially hanging out around Seoul) then you can’t miss this place: **Gyeongbok Palace**. It was not only the main royal palace of the Joseon dynasty but also one of the most famous check-in landmarks in Seoul.

@@ -4,6 +4,14 @@ cover: /images/in2.png
 date: 2016/05/05
 category: Beauty
 tags:
+  - Beauty
+  - concealer
+  - base-makeup
+  - innisfree
+  - korean-cosmetic
+  - kem-che-khuyet-diem
+  - trang-diem
+  - my-pham-han-quoc
 ---
 
 Có một làn da hoàn hảo là ước mơ của nhiều phụ nữ trong thế giới này, tất nhiên cũng bao gồm cả mình nữa! Tuy nhiên, gần đây bị rối loạn nội tiết tố hay sao mà mặt mình nổi rất nhiều mụn, và sau khi hết mụn thì vẫn còn cả một đống vết thâm trên mặt nữa. Thật là thiếu tự tin và hụt hẫng khi nhìn vào gương mà :sob: :sob: :sob:

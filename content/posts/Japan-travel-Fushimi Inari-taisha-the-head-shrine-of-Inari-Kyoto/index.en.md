@@ -4,6 +4,7 @@ cover: /images/taisha.png
 date: 2016/10/17
 category: Travel
 tags:
+  - Travel
   - japan-travel
   - fushimi
   - inari-taisha
@@ -12,6 +13,7 @@ tags:
   - kyoto
   - du-lich
   - nhat-ban
+  - den-tho
   - 후시미이나리타이샤
   - 일본여행
 ---

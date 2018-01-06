@@ -4,6 +4,7 @@ cover: /images/lifeafterbirth.png
 date: 2017/12/15
 category: Baby
 tags:
+  - Baby
   - life-after-birthing
   - constipation
   - jaundice
@@ -11,6 +12,10 @@ tags:
   - formula-milk
   - breast-feeding
   - bottle-feeding
+  - sua-me
+  - sua-cong-thuc
+  - giac-ngu-cua-be
+  - cuoc-song-sau-sinh
 ---
 
 Actually, after birthing, I was more stressed than when I was pregnant. I am worried and become hot-tempered, or yelling at everyone in my family. That is not good at all. So I will talk about some issues after birth, hope it will help the new mothers feel less worry and stressful after the baby is born.

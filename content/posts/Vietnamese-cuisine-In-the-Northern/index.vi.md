@@ -4,12 +4,13 @@ cover: /images/northcuisine.png
 date: 2017/05/05
 category: Cuisine
 tags:
-  - am-thuc
-  - mien-bac
-  - an-gi
-  - ha-noi
-  - mon-ngon
-  - ha-thanh
+  - Cuisine
+  - vietnamese-cuisine
+  - food-in-northern
+  - mon-ngon-mien-bac
+  - bun-cha-obama
+  - what-to-eat-in-hanoi
+  - what-to-eat-in-vietnam
 ---
 
 Trong bài viết này, mình xin giới thiệu các món ăn ngon và phổ biến nhất ở miền Bắc Việt Nam. Món ăn miền Bắc có đặc điểm là vị mặn, không cay, béo hoặc ngọt như các vùng khác, chủ yếu sử dụng nước mắm pha loãng. Mặc dù đây là những món ăn đặc trưng ở miền Bắc nhưng ở vùng khác cũng được bán khá rộng rãi nhé, đặc biệt là ở Tp. Hồ Chí Minh.

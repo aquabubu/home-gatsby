@@ -4,11 +4,12 @@ cover: /images/lipmask.png
 date: 2016/12/01
 category: Beauty
 tags:
+  - Beauty
   - lips-sleeping-mask
-  - mat-na-ngu
   - laneige
   - mat-na-moi
   - duong-moi
+  - vaseline-lip-mask
 ---
 
 <figure style="width: 400px" class="align-center">

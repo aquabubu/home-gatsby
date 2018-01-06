@@ -4,10 +4,15 @@ cover: /images/hk.png
 date: 2015/05/15
 category: Travel
 tags:
-  - kinh-nghiem
+  - Travel
   - hongkong-tips
+  - travel-exspense
+  - kinh-nghiem
+  - hong-kong
   - chi-phi
   - an-uong
+  - what-to-bring
+  - chuan-bi-do
 ---
 
 <figure style="width: 400px" class="align-center">
@@ -17,7 +22,7 @@ tags:
 
 ## <span style="color:brown"> Mùa nào thích hợp để du lịch Hong Kong? </span>
 
-Mình đến Hong Kong là vào tháng 5, lúc này đang là Mid-season sale, các mặt hàng thường được giảm giá 30%. Bạn nào muốn canh dịp Final sale thì đi vào tháng 1, 7, 8 và 12 nhé. Nhưng mình nghĩ đi tháng 12 là đẹp vì lúc đó là lễ Giáng sinh, thời tiết dễ chịu nữa. Tháng 7, 8 hay có mưa lắm.
+Mình đến Hong Kong là vào tháng 5, lúc này đang là Mid-season sale, các mặt hàng thường được giảm giá 30%. Bạn nào muốn canh dịp Final sale thì đi vào tháng 1, 7, 8 và 12 nhé. Nhưng mình nghĩ đi tháng 12 là đẹp vì lúc đó là lễ Giáng sinh, thời tiết dễ chịu nữa. Tháng 7, 8 hay có mưa lắm. Trước khi đi cũng nên xem dự báo thời tiết để mang đồ thích hợp nhé.
 
 
 ## <span style="color:slateblue"> Địa điểm thu hút ở Hong Kong </span>
@@ -48,7 +53,7 @@ Mình chủ yếu đi bằng MTR. Cũng có những phương tiện đặc biệ
 Danh sách dưới đây là **khoản tiền cần chi** cho chuyến đi này. Tất nhiên, mỗi người mỗi khác, nhưng bạn có thể xem tham khảo để ước lượng cho chuyến đi của mình. Và đây là chi phí **chỉ dành cho 1 người**..
 
 
-**Vé máy bay**: cái này tùy hãng bay nên mình không đưa ra số tiền nhất định nhé.
+**Vé máy bay**: cái này tùy hãng bay nên mình không đưa ra số tiền nhất định nhé, nhưng có thể canh vé rẻ của Vietnam Airline, tầm 2tr363/người/khứ hồi (đã tính thuế & phí).
 
 **Visa**: Thông thường chi phí xin visa đi Hong Kong mất khoảng ~$55/ người
 

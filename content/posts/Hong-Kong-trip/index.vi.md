@@ -4,10 +4,15 @@ cover: /images/hktrip.png
 date: 2015/05/17
 category: Travel
 tags:
+  - Travel
+  - hongkong-travel
+  - places-to-go
+  - 홍콩여행
   - du-lich
   - hong-kong
   - disneyland
   - oceanpark
+  - attractions
 ---
 
 Trong bài viết này, mình sẽ giới thiệu các điểm tham quan ở Hồng Kông mà mình đã đến nhé!

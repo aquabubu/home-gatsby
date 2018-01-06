@@ -4,10 +4,14 @@ cover: /images/nara.png
 date: 2016/10/12
 category: Travel
 tags:
+  - Travel
   - du-lich
   - nhat-ban
   - cong-vien-nara
   - nara-deer-park
+  - japan
+  - 나라사슴공원
+  - 일본여행
 ---
 
 Trong bài viết này, mình sẽ giới thiệu về **<span style="color:green"> Công viên Nara </span>**, đó là một công viên rộng lớn với những chú hươu tự do đi lại - một trong những nơi mình đã ghé qua trong chuyến đi đến Nhật Bản.

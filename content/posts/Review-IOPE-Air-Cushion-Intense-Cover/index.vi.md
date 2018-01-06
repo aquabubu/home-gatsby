@@ -4,6 +4,14 @@ cover: /images/iopecushion.png
 date: 2017/01/09
 category: Beauty
 tags:
+  - Beauty
+  - iope
+  - air-cusion
+  - base-makeup
+  - korean-cosmetic
+  - phan-nuoc
+  - trang-diem
+  - mi-pham-han-quoc
 ---
 
 Không thể phủ nhận rằng trang điểm sẽ làm cho chị em chúng mình đẹp và cảm thấy tự tin hơn khi đi ra ngoài đường. Và ở Hàn Quốc phấn nước là bí quyết để có lớp trang điểm mỏng và tự nhiên, nổi tiếng nhất là lớp trang điểm phủ sương của các cô gái Hàn.

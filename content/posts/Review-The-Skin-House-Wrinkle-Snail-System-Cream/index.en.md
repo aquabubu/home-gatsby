@@ -4,12 +4,15 @@ cover: /images/snail.png
 date: 2017/07/04
 category: Beauty
 tags:
+  - Beauty
   - wrinkle-snail-system-cream
   - snail-cream
   - skin-care
   - moisturizer
   - kemocsen
   - skin-house
+  - kem-oc-sen
+  - duong-da
 ---
 
 **Snail mucus** caught the attention of many skincare companies in Korea as this odd ingredient is famous for its skin-repairing and anti-aging properties, particularly useful in healing the skin post-breakout, and a good humectant.

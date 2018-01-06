@@ -4,12 +4,18 @@ cover: /images/taisha.png
 date: 2016/10/17
 category: Travel
 tags:
-  - du-lich
-  - nhat-ban
-  - kyoto
-  - dentho
+  - Travel
+  - japan-travel
   - fushimi
   - inari-taisha
+  - redtorii-gates
+  - shrinesin
+  - kyoto
+  - du-lich
+  - nhat-ban
+  - den-tho
+  - 후시미이나리타이샤
+  - 일본여행
 ---
 
 <figure>

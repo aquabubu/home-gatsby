@@ -4,6 +4,7 @@ cover: /images/evlbg.png
 date: 2017/10/03
 category: Travel
 tags:
+  - Travel
   - oedo-botania
   - geoje
   - korea

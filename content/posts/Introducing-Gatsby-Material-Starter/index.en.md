@@ -2,10 +2,9 @@
 title: Introducing Gatsby Material Starter
 cover: /logos/logo-1024.png
 date: 2010/01/02
-category: sample-post
+category: sample
 tags:
   - sample
-  - gatsby-theme
 ---
 
 Not so long ago, this project got ported to v1 version of GatsbyJS.

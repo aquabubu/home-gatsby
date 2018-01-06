@@ -4,9 +4,12 @@ cover: /images/bangkok2.png
 date: 2014/09/15
 category: Travel
 tags:
-  - du-lich
+  - Travel
   - bangkok
-  - wat-pho
+  - thailand
+  - watpho
+  - 방콕태국여행
+  - du-lich
   - grand-palace
   - madametussauds
   - thailand-oceanpark

@@ -4,6 +4,14 @@ cover: /images/babybg.png
 date: 2017/12/19
 category: Baby
 tags:
+  - Baby
+  - pregnancy-checklist
+  - baby-clothes
+  - diaper
+  - baby-wet-tissue
+  - baby-lotion
+  - baby-bath-shampoo
+  - sua-tam-goi-cho-be
   - mang-thai
   - me-bau
   - vat-dung-can-thiet

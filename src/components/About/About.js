@@ -5,7 +5,7 @@ import UserLinks from "../UserLinks/UserLinks";
 import config from "../../../data/SiteConfig";
 import "./About.scss";
 
-const About = () => {
+const About = ({ children }) => {
   return (
     <div className="about-container md-grid mobile-fix">
       <Card className="md-grid md-cell--8">
@@ -16,8 +16,7 @@ const About = () => {
             alt={config.userName}
           />
           <CardText>
-            Welcome to AquaBuBu website!
-            <p className="about-text md-body-1">{config.userDescription}</p>
+            <p className="about-text md-body-1">{children}</p>
           </CardText>
           <UserLinks labeled config={config} />
         </div>

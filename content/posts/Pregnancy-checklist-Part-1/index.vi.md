@@ -4,6 +4,11 @@ cover: /images/chuanbimangthai1.png
 date: 2017/12/17
 category: Baby
 tags:
+  - Baby
+  - pregnancy-chekclist
+  - bottle-warmer
+  - sterilizer
+  - thermometer
   - mang-thai
   - me-bau
   - vat-dung-can-thiet

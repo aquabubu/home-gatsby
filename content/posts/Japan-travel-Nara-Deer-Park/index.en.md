@@ -4,6 +4,10 @@ cover: /images/nara.png
 date: 2016/10/12
 category: Travel
 tags:
+  - Travel
+  - du-lich
+  - nhat-ban
+  - cong-vien-nara
   - nara-deer-park
   - japan
   - 나라사슴공원

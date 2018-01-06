@@ -4,10 +4,14 @@ cover: /images/chuanbimangthai1.png
 date: 2017/12/17
 category: Baby
 tags:
-  - pregnancy
+  - Baby
+  - pregnancy-chekclist
   - bottle-warmer
   - sterilizer
   - thermometer
+  - mang-thai
+  - me-bau
+  - vat-dung-can-thiet
 ---
 
 The mother-to-be needs to prepare a lot of things, not only her psychological but also many needed items. So, I'm gonna list some things that were prepared during my pregnancy as I find them quite necessary.

@@ -4,11 +4,15 @@ cover: /images/hktrip.png
 date: 2015/05/17
 category: Travel
 tags:
+  - Travel
   - hongkong-travel
-  - places
-  - hongkong
-  - hongkong-disneyland
+  - places-to-go
   - 홍콩여행
+  - du-lich
+  - hong-kong
+  - disneyland
+  - oceanpark
+  - attractions
 ---
 
 In this post, I will introduce the attractions that I've visited during my trip in Hong Kong.

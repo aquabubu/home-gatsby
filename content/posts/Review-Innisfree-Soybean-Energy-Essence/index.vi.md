@@ -4,9 +4,13 @@ cover: /images/in1.png
 date: 2016/05/05
 category: Beauty
 tags:
-  - tinh-chat-duong-dau-nanh
+  - Beauty
   - innisfree
   - soybean-energy-essence
+  - korean-cosmetic
+  - skin-care
+  - innisfree
+  - tinh-chat-duong-dau-nanh
   - my-pham-han
   - duong-da
 ---

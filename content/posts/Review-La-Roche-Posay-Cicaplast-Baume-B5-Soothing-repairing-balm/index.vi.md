@@ -4,10 +4,14 @@ cover: /images/laroche.png
 date: 2017/04/19
 category: Beauty
 tags:
+  - Beauty
   - la-roche-posay
   - cicaplast-baume-b5
-  - kem-duong-am
+  - moisturizer
   - skin-care
+  - 라로슈포제
+  - 스킨케어
+  - kem-duong-am
   - cham-soc-da-kho
 ---
 

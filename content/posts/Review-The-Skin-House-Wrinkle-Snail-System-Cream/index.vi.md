@@ -4,9 +4,15 @@ cover: /images/snail.png
 date: 2017/07/04
 category: Beauty
 tags:
+  - Beauty
+  - wrinkle-snail-system-cream
+  - snail-cream
+  - skin-care
+  - moisturizer
   - kemocsen
-  - skin-care-routine
-  - kem-duong-da
+  - skin-house
+  - kem-oc-sen
+  - duong-da
 ---
 
 **Chất nhầy ốc sên** đã thu hút được sự quan tâm của nhiều công ty mỹ phẩm tại Hàn quốc vì thành phần kỳ diệu này nổi tiếng với đặc tính chống lão hóa, đặc biệt hữu ích trong việc làm lành vết sẹo trên da và là chất giữ ẩm tốt.
