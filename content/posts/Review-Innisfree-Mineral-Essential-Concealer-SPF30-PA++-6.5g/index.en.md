@@ -4,12 +4,6 @@ cover: /images/in2.png
 date: 2016/05/05
 category: Beauty
 tags:
-	- concealer
-	- innisfree
-	- base-makeup
-	- 이니스프리
-	- korean
-	- cosmetic
 ---
 
 Having a flawless skin is the dream of many women in this world including me, of course! However, I don’t know why recently I got so many pimples and after they gone, the left acne scars on my face. :sob: :sob: :sob:

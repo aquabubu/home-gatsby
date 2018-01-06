@@ -1,7 +1,7 @@
 ---
 title: Sample Post
 cover: https://unsplash.it/400/300/?random?BigTest
-date: 2018/01/03
+date: 2010/01/03
 category: sample-post
 tags:
   - sample
