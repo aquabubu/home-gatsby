@@ -32,8 +32,8 @@ export default RedirectIndex;
 
 export const pageQuery = graphql`
   query IndexQuery {    
-    site{
-      siteMetadata{
+    site {
+      siteMetadata {
         languages {
           defaultLangKey
           langs

@@ -16,6 +16,7 @@ const MainLayout = ({ location, data, children, messages }) => {
   const menuItems = [
     { name: "home", path: "/", icon: "home" },
     { name: "about", path: "/about/", icon: "info circle" },
+    { name: "blog", path: "/blog/", icon: "newspaper" },    
     { name: "baby", path: "/baby/", icon: "child" },    
     { name: "travel", path: "/travel/", icon: "travel" },
     { name: "cuisine", path: "/cuisine/", icon: "food" },

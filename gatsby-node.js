@@ -71,6 +71,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
     const postPage = path.resolve("src/templates/post.js");
     const tagPage = path.resolve("src/templates/tag.js");
     const categoryPage = path.resolve("src/templates/category.js");
+
     resolve(
       graphql(
         `
@@ -112,35 +113,36 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
           }
 
           createPage({
-            path: `/${edge.node.frontmatter.category}${edge.node.fields.slug}`,
+            path: `${edge.node.fields.slug}`,
             component: postPage,
             context: {
               slug: edge.node.fields.slug
-            }
+            },
+            layout: edge.node.fields.langKey
           });
         });
 
-        const categoryList = Array.from(categorySet);
-        categoryList.forEach(category => {
-          createPage({
-            path: `/${_.kebabCase(category)}/`,
-            component: categoryPage,
-            context: {
-              category
-            }
-          });
-        });
+        // const categoryList = Array.from(categorySet);
+        // categoryList.forEach(category => {
+        //   createPage({
+        //     path: `/${_.kebabCase(category)}/`,
+        //     component: categoryPage,
+        //     context: {
+        //       category
+        //     }
+        //   });
+        // });
 
-        const tagList = Array.from(tagSet);
-        tagList.forEach(tag => {
-          createPage({
-            path: `/${_.kebabCase(tag)}/`,
-            component: tagPage,
-            context: {
-              tag
-            }
-          });
-        });
+        // const tagList = Array.from(tagSet);
+        // tagList.forEach(tag => {
+        //   createPage({
+        //     path: `/${_.kebabCase(tag)}/`,
+        //     component: tagPage,
+        //     context: {
+        //       tag
+        //     }
+        //   });
+        // });
       })
     );
   });

@@ -11,7 +11,6 @@ const AboutPage = () => {
         <link rel="canonical" href={`${config.siteUrl}/about/`} />
       </Helmet>
       <About />
-      bbbbbbbbbbbb
     </div>
   );
 }

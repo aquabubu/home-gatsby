@@ -12,24 +12,7 @@ module.exports = {
       options: {
         langKeyForNull: 'any',
         langKeyDefault: 'en',
-        useLangKeyLayout: true,
-        markdownRemark: {
-          postPage: 'src/templates/post.js',
-          query: `
-          {
-            allMarkdownRemark {
-              edges {
-                node {
-                  fields {
-                    slug,
-                    langKey
-                  }
-                }
-              }
-            }
-          }
-          `
-        }
+        useLangKeyLayout: true
       }
     },
     // Expose `/content/${config.blogPostDir}` to graphQL layer

@@ -6,7 +6,7 @@ class PostListing extends React.Component {
     const postList = [];
     this.props.postEdges.forEach(postEdge => {
       postList.push({
-        path: `${postEdge.node.frontmatter.category}${postEdge.node.fields.slug}`,
+        path: `${postEdge.node.fields.slug}`,
         title: postEdge.node.frontmatter.title,
         cover: postEdge.node.frontmatter.cover,        
         date: postEdge.node.frontmatter.date,

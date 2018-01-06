@@ -23,10 +23,15 @@ export default BlogPage;
 
 /* eslint no-undef: "off" */
 export const pageQuery = graphql`
-  query BlogQuery {
+  query BlogEn {
     allMarkdownRemark(
       limit: 2000
       sort: { fields: [frontmatter___date], order: DESC }
+      filter: {
+        fields: {
+          langKey: { eq: "en" }
+        }
+      }
     ) {
       edges {
         node {
