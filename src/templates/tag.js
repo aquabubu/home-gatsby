@@ -5,6 +5,7 @@ import config from "../../data/SiteConfig";
 
 const TagTemplate = (props) => {
   const tag = props.pathContext.tag;
+  const langKey = props.pathContext.langKey;
   const postEdges = props.data.allMarkdownRemark.edges;
   
   return (
@@ -13,7 +14,7 @@ const TagTemplate = (props) => {
         <title>{`Posts tagged as "${tag}" | ${config.siteTitle}`}</title>
         <link rel="canonical" href={`${config.siteUrl}/${tag}`} />
       </Helmet>
-      <PostListing postEdges={postEdges} />
+      <PostListing postEdges={postEdges} langKey={langKey} />
     </div>
   );
 }

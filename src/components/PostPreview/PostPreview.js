@@ -35,7 +35,7 @@ class PostPreview extends Component {
     }
   }
   render() {
-    const { postInfo } = this.props;
+    const { postInfo, langKey } = this.props;
     const { mobile } = this.state;
     const expand = mobile;
     /* eslint no-undef: "off"*/
@@ -71,7 +71,7 @@ class PostPreview extends Component {
 
         <CardText expandable={expand}>
           {postInfo.excerpt}
-          <PostTags tags={postInfo.tags} />
+          <PostTags tags={postInfo.tags} langKey={langKey} />
         </CardText>
       </Card>
     );

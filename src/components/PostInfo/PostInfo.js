@@ -6,7 +6,7 @@ import Link from "gatsby-link";
 import _ from "lodash";
 import "./PostInfo.scss";
 
-const PostInfo = ({ postNode }) =>{
+const PostInfo = ({ postNode, langKey }) =>{
   const post = postNode.frontmatter;
 
   return (
@@ -18,7 +18,7 @@ const PostInfo = ({ postNode }) =>{
       />
       <Link
         className="category-link"
-        to={`/${_.kebabCase(post.category)}`}
+        to={`/${langKey}/${_.kebabCase(post.category)}`}
       >
         <CardTitle
           avatar={

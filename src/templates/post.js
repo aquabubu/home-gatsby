@@ -42,6 +42,7 @@ class PostTemplate extends Component {
   render() {
     const mobile= this.state.mobile;
     const slug = this.props.pathContext.slug;
+    const langKey = this.props.pathContext.langKey;
     const expanded = !mobile;
     const postOverlapClass = mobile ? "post-overlap-mobile" : "post-overlap";
     const postNode = this.props.data.markdownRemark;
@@ -67,11 +68,11 @@ class PostTemplate extends Component {
           <Card className="md-grid md-cell md-cell--12 post">
             <CardText className="post-body">
               <h1 className="md-display-2 post-header">{post.title}</h1>
-              <PostInfo postNode={postNode} />
+              <PostInfo postNode={postNode} langKey={langKey} />
               <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
             </CardText>
             <div className="post-meta">
-              <PostTags tags={post.tags} />
+              <PostTags tags={post.tags} langKey={langKey} />
               <SocialLinks
                 postPath={slug}
                 postNode={postNode}

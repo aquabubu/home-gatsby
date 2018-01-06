@@ -4,7 +4,7 @@ import Link from "gatsby-link";
 import Chip from "react-md/lib/Chips";
 import "./PostTags.scss";
 
-const PostTags = ({ tags }) => {
+const PostTags = ({ tags, langKey }) => {
   return (
     <div className="post-tag-container">
       {tags &&
@@ -12,7 +12,7 @@ const PostTags = ({ tags }) => {
           <Link
             key={tag}
             style={{ textDecoration: "none" }}
-            to={`/${_.kebabCase(tag)}`}
+            to={`/${langKey}/${_.kebabCase(tag)}`}
           >
             <Chip label={tag} className="post-preview-tags" />
           </Link>
