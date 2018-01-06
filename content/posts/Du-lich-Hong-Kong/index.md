@@ -16,8 +16,8 @@ Trong bài viết này, mình sẽ giới thiệu các điểm tham quan ở H�
 Sau khi máy bay hạ cánh và hoàn thành các thủ tục, mình đã đi loanh quanh khu vực hạn chế bên trong sân bay vì có rất nhiều cửa hàng. Một khi bạn đi ra khỏi khu vực này thì không vào lại được đâu. Sau đó, mình ra chỗ bản đồ, nên lấy hểt tất cả bản đồ nhé (đặc biệt là bản đồ Hong Kong và bản đồ MTR), chúng được đặt ngay gần quầy phục vụ khách hàng.
 
 
-<figure style="width: 550px" class="align-center">
-  <img src="./hongkong-1.png" alt="">
+<figure>
+  <img style="text-align: center" src="./hongkong-1.png">
   <figcaption></figcaption>
 </figure>
 
@@ -26,8 +26,8 @@ Mình mua 2 thẻ Otopus có nhãn Train Express Ticket ở quầy thông tin tr
 
 ## <font color="#ED031D">D</font><font color="#8606B3">I</font><font color="#05A3D9">S</font><font color="#A6FC9C">N</font><font color="#DD103A">E</font><font color="#86136A">Y</font><font color="#3FBCC6">L</font><font color="#3818EC">A</font><font color="#7EE374">N</font><font color="#CE9CF8">D</font>
 
-<figure style="width: 650px" class="align-center">
-  <img src="./hongkong-2.png" alt="">
+<figure>
+  <img style="text-align: center" src="./hongkong-2.png">
   <figcaption></figcaption>
 </figure>
 
@@ -53,8 +53,8 @@ Khi đến trạm Diamond Hill, đi ra khỏi Exit C2, theo các bangr hiệu v�
 Nan Lian Garden là khu vườn công cộng cũng được xây dựng theo phong cách của nhà Đường. Khu vườn khá đẹp và được thiết kế tỉ mỉ, trong đó những hòn đá, hồ nước, kiến trúc cây gỗ đều được đặt theo các quy tắc và phương pháp nhất định.
 
 
-<figure style="width: 650px" class="align-center">
-  <img src="./hongkong-3.png" alt="">
+<figure>
+  <img style="text-align: center" src="./hongkong-3.png">
   <figcaption></figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ Có  một số triển lãm mở cửa lúc 10 giờ sáng và hầu hết các
 	
 	 </table>
 	 
-### <font color="#05A3D9"> Wong Tai Sin Temple </font>	 
+### <font color="#05A3D9">Wong Tai Sin Temple</font>	 
 
 Trạm MTR Wong Tai Sin, cửa ra B2, đi bộ khoảng ba phút.
 
@@ -117,8 +117,8 @@ Trạm MTR Wong Tai Sin, cửa ra B2, đi bộ khoảng ba phút.
 Ngoài ra còn có xem bói và nhiều thứ hay ho để xem, trong đền có một bức tượng Yue Lao (Nguyệt lão - thần se duyên) và mọi người có thể cầu nhân duyên bằng những sợi dây tơ hồng màu đỏ miễn phí nữa. 
 
 
-<figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-4.png" alt="">
+<figure>
+  <img style="text-align: center" src="./hongkong-4.png">
   <figcaption></figcaption>
 </figure>
 
@@ -144,13 +144,13 @@ Ngoài ra còn có xem bói và nhiều thứ hay ho để xem, trong đền có
 	
 	 </table>
 	 
-### <font color="#7EE374"> Peak Tram & Tsim Sha Tsui Clock Tower </font>
+### <font color="#7EE374">Peak Tram & Tsim Sha Tsui Clock Tower</font>
 
 Từ trạm MTR Central, tìm trạm xe buýt 15C ngay phía trước City Hall, xe buýt dừng lại ở trạm Peak Tram. Để xem thông tin Peak Tram thì vào <a href="https://www.thepeak.com.hk/en/2_1.asp" target="_blank">đây</a> nhé. Bạn có thể thưởng thức nhiều cảnh quan đẹp của Hong Kong đấy.
 
 
-<figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-5.png" alt="">
+<figure>
+  <img style="text-align: center" src="./hongkong-5.png">
   <figcaption></figcaption>
 </figure>
 
@@ -165,48 +165,48 @@ Từ trạm MTR Central, tìm trạm xe buýt 15C ngay phía trước City Hall,
 Tại **Peak Tram terminus**, mình đi xe buýt để trở lại Star Ferry (~15 phút), sau đó mua vé Star Ferry, nó sẽ vượt qua Kowloon và dừng lại kế bên Tháp đồng hồ.
 
 
-<figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-6.png" alt="">
+<figure>
+  <img style="text-align: center" src="./hongkong-6.png">
   <figcaption></figcaption>
 </figure>
 
 Nếu bạn đến tháp đồng hồ vào buổi tối, bạn có thể thưởng thức bản giao hưởng ánh sáng tuyệt vời của các tòa nhà vào lúc 8 giờ tối hàng ngày. Sau đó, bạn có thể đi bộ quanh Avenue of Stars và đi đến bảo tàng 3D.
 
 
-## <font color="#DD103A">TAI O </font> - <font color="#86136A">NGONG PING</font> - <font color="#3FBCC6"> TEMPLE MARKET </font> - <font color="#3818EC">JADE MARKET</font>
+## <font color="#DD103A">TAI O</font> - <font color="#86136A">NGONG PING</font> - <font color="#3FBCC6"> TEMPLE MARKET </font> - <font color="#3818EC">JADE MARKET</font>
 
-### <font color="#DD103A">Tai O </font>
+### <font color="#DD103A">Tai O</font>
 
 Từ ga MTR Tung Chung, mình bắt xe buýt 11 để đi đến Tai O (mỗi 20 phút/chuyến, HK$11, ~1 giờ để đến nơi). Tại Tai O, bạn có thể đi thuyền để xem cá heo hồng (HK$20) (nhưng nó hên xui lắm, thời tiết đẹp mới thấy được cá heo, hôm mình đi âm u quá nên chẳng thấy được gì). Tai O rất thanh bình và xinh đẹp với những món hải sản tươi ngon. Bản đồ cũng bằng tiếng Anh, rất thuận tiện.
 
 
-<figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-7.png" alt="">
+<figure>
+  <img style="text-align: center" src="./hongkong-7.png">
   <figcaption></figcaption>
 </figure>
 
 Mình cũng đi chợ Tai O ở gần đấy và thưởng thức món ăn ở đây. Chợ mở cửa muộn (sau 11 giờ sáng) nhưng mấy món ăn thật tuyệt vời.
 
 
-<figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-8.png" alt="">
+<figure>
+  <img style="text-align: center" src="./hongkong-8.png">
   <figcaption></figcaption>
 </figure>
 
-###  <font color="#86136A"> Ngong Ping </font>
+###  <font color="#86136A">Ngong Ping</font>
 
 Khi quay về mình cũng bắt xe buýt 11 về lại trạm MTR Tung Chung. Bên cạnh bến xe buýt là ga tàu cáp treo Tung Chung. Mình đi cáp Ruby có đáy trong suốt. Mua vé cáp treo rẻ ở <a href="https://www.klook.com/activity/45-ngong-ping-360-hong-kong/?category=2-sightseeing-hong-kong/" target="_blank">đây</a>.
 
 
-<figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-9.png" alt="">
+<figure>
+  <img style="text-align: center" src="./hongkong-9.png">
   <figcaption></figcaption>
 </figure>
 
 Mình mất hơn 2 tiếng đồng hồ để đi vòng quanh làng Ngong Ping, Tiantan Buddha, và Wisdom Path.
 
 
-### <font color="#3FBCC6"> Temple Market </font> & <font color="#3818EC">Jade Market </font>
+### <font color="#3FBCC6">Temple Market</font> & <font color="#3818EC">Jade Market</font>
 
 Chợ Temple khá nổi tiếng với người dân địa phương vì có một ngôi đền lớn ở đây và con đường bên cạnh nó toàn là các quầy coi bói hoặc xem chỉ tay. Trong dịp lễ hội, con đường này sẽ có cuộc diễu hành của các vị thần, rất hoành tráng. Chợ đêm này bắt đầu đông đúc từ khoảng 6 giờ chiều, bán nhiều loại quà lưu niệm và thậm chí cả đồ chơi 18+ nữa.
 
@@ -219,15 +219,15 @@ Chợ Temple khá nổi tiếng với người dân địa phương vì có m�
   * Tại trạm MTR Jordan, ra cửa A. Quẹo phải ra đường Jordan rồi lại quẹo phải lần nữa để ra đường Temple.
 
 
-<figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-10.png" alt="">
+<figure>
+  <img style="text-align: center" src="./hongkong-10.png">
   <figcaption></figcaption>
 </figure>
 
 Từ chợ Temple, đi bộ dọc theo đường Nathan đến phố Kansu, sau đó tiếp tục dọc theo đường Kansu cho tới khi bạn đến được Chợ Ngọc (Jade market). Chợ này có nhiều gian hàng bán tất cả mọi thứ từ đá xanh trang trí của Trung Quốc đến ngọc trai, đá quý và đồ cổ. Jade Market là một nơi lý tưởng để có được các món đồ trang sức tuyệt vời để mang về nhà.
 
 
-## <font color="royalblue"> OCEAN PARK </font>
+## <font color="royalblue">OCEAN PARK</font>
 
 **Địa chỉ**: Ocean Park, Aberdeen, Hong Kong
 
@@ -236,17 +236,15 @@ Từ trạm MTR Admiralty, ra cửa B ra công viên. Lên xe buýt 629 (HK$1
 
 Mua vé rẻ tại <a href="https://www.klook.com/activity/23-ocean-park-hong-kong-hong-kong/?category=3-attractions-hong-kong%2F" target="_blank">website</a> (HK$258).
 
-
-<figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-11.png" alt="">
+<figure>
+  <img style="text-align: center" src="./hongkong-11.png">
   <figcaption></figcaption>
 </figure>
 
 Ở Ocean Park thì không được phép mang thức ăn nhưng mang nước được. Công viên này lớn lắm và các show diễn rất thú vị, đặc biệt là các động vật rất đáng yêu. Có những chú chim cánh cụt, những con cáo trắng ở Nam Cực, và chim biển ở Bắc Cực (phải xem show con hải cẩu tập cơ bụng nhé, show mắc cười lắm).
 
-
-<figure style="width: 500px" class="align-center">
-  <img src="./hongkong-12.png" alt="">
+<figure>
+  <img style="text-align: center" src="./hongkong-12.png">
   <figcaption></figcaption>
 </figure>
 

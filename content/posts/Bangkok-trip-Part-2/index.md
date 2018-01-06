@@ -21,8 +21,8 @@ Let's continue to see the places in Bangkok. So, in the <a href="http://aquabubu
 The ceiling of this temple is very high, around three times higher than human height so it was cool, even without air conditioning or fan. Under the feet of the Buddha carved many small square grids. There is a sign "Please do not touch" but I found that every people touched it, especially the Thai because they believe that if touching the feet of the Buddha, they will be blessed. On one side of the corridor, there is a series of vases and people will put the penny into each vase. I heard that these vases symbolize the tribulations of life (I don't know how many of them). And for every penny they put in, they will be freed.
 
 
-<figure style="width: 650px" class="align-center">
-  <img src="./bangkok2-1.png" alt="">
+<figure>
+  <img style="text-align: center" src="./bangkok2-1.png">
   <figcaption style="font-size: 17px" align="center"> <span style="color:red"> Wat Pho with the golden Buddha statues </span> </figcaption>
 </figure>
 
@@ -32,8 +32,8 @@ It is quite close from Wat Pho to the Grand Palace, costing 500 baht (~$15) by b
 **Grand Palace** is a complex of buildings at the heart of Bangkok. It has been the residence of Kings of Siam (and later Thailand) since 1782. The present monarch currently resides at Chitralada Palace, but the Grand Palace is still used for official events.
 
 
-<figure style="width: 600px" class="align-center">
-  <img src="./bangkok2-2.png" alt="">
+<figure>
+  <img style="text-align: center" src="./bangkok2-2.png">
   <figcaption> </figcaption>
 </figure>
 
@@ -45,8 +45,8 @@ And again, if you wear shorts, short skirts and tank top, you must hire a long c
 Chatuchak is the largest market in Thailand and **one of the world’s largest weekend market**. It is opened on Sat and Sun, 9 a.m – 6 p.m. We got to this market by sky train (BTS) to Mo Chit Station and took exit No.1, then we followed the crowd until seeing a small entrance.
 
 
-<figure style="width: 550px" class="align-center">
-  <img src="./bangkok2-3.png" alt="">
+<figure>
+  <img style="text-align: center" src="./bangkok2-3.png">
   <figcaption> </figcaption>
 </figure>
 
@@ -61,16 +61,16 @@ Located on the 6th floor of **Siam Discovery Center**, there is just one thing t
 Leaving Siam Discovery to Siam Center, there is an **Ocean Park** in the basement. Ocean Park in Thailand is literally “ocean” park, that is just the animals in the sea to see.
 
 
-<figure style="width: 650px" class="align-center">
-  <img src="./bangkok2-4.png" alt="">
+<figure>
+  <img style="text-align: center" src="./bangkok2-4.png">
   <figcaption> </figcaption>
 </figure>
 
 There is a small place to **touch the starfish**. Employees will guide and help you clean your hands.
 
 
-<figure style="width: 350px" class="align-center">
-  <img src="./bangkok2-5.png" alt="">
+<figure>
+  <img style="text-align: center" src="./bangkok2-5.png">
   <figcaption> </figcaption>
 </figure>
 
@@ -79,8 +79,8 @@ There is a small place to **touch the starfish**. Employees will guide and help 
 It is an 88-story, skyscraper hotel, which is the **tallest hotel in Southeast Asia and the seventh-tallest all-hotel structure in the world**. This tallest building in Bangkok providing the beautiful view of the city with colorful lights. Luckily, I was sitting in a private two-person table right next to the glass window to enjoy the scene. The food is not delicious with usual dishes such as squid, fried potato chips... like a normal buffet. Generally, it only has the beautiful view.
 
 
-<figure style="width: 550px" class="align-center">
-  <img src="./bangkok2-6.png" alt="">
+<figure>
+  <img style="text-align: center" src="./bangkok2-6.png">
   <figcaption> </figcaption>
 </figure>
 

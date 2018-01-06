@@ -22,8 +22,8 @@ Before going to Jebu Island, you need to check the <a href="http://www.myjebudo.
 
 Now, when you get there, you can spend time to exploring this place. Of course, sightseeing, going around and taking photos is the main activities. Additionally, there are also a few of activities that you can try:
 
-<figure style="width: 500px" class="align-center">
-  <img src="./jebu2.png" alt="">
+<figure>
+  <img style="text-align: center" src="./jebu2.png">
   <figcaption></figcaption>
 </figure>
 
@@ -33,8 +33,8 @@ Now, when you get there, you can spend time to exploring this place. Of course, 
 
   * The red lighthouse in Jebu Island is normal but the way leads to it is full of flying seagulls. They are fearless and friendly so you can feed them snack and take nice pictures. 
 
-<figure style="width: 600px" class="align-center">
-  <img src="./jebu3.png" alt="">
+<figure>
+  <img style="text-align: center" src="./jebu3.png">
   <figcaption></figcaption>
 </figure>
 
@@ -45,8 +45,8 @@ Now, when you get there, you can spend time to exploring this place. Of course, 
 
 I have lunch at Jebu island. The seafood is very good, there is some grilled seashells dish (조개 구이), noodles (국수) and rice with raw fish (회덮밥). I called a grilled seashells dish (조개 구이), this dish is about 20,000 krw/person.
 
-<figure style="width: 600px" class="align-center">
-  <img src="./jebu4.png" alt="">
+<figure>
+  <img style="text-align: center" src="./jebu4.png">
   <figcaption></figcaption>
 </figure>
 

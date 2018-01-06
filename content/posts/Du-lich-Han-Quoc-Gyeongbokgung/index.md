@@ -14,8 +14,8 @@ tags:
 Nếu bạn muốn đi du lịch ở Hàn Quốc (đặc biệt là đi chơi quanh Seoul) thì bạn không thể bỏ lỡ nơi này: **Gyeongbokgung** - một cung điện hoàng gia của triều đại Joseon và là một trong những địa điểm nổi tiếng nhất ở Seoul (còn được gọi là Cung Cảnh Phúc).
 
 
-<figure style="width: 650px" class="align-center">
-  <img src="./gung-1.png" alt="">
+<figure>
+  <img style="text-align: center" src="./gung-1.png">
   <figcaption></figcaption>
 </figure>
 
@@ -73,16 +73,16 @@ May mắn là mình đã đến đó vào mùa xuân nên có hoa anh đào nở
 Khi tham quan Gyeongbokgung, bạn cũng có thể ghé qua **Bảo tàng Cung điện Quốc gia Hàn Quốc** (nằm ở phía Nam của cổng Heungnyemun), và **Bảo tàng Dân tộc Quốc gia** (ở phía đông của Hyangwonjeong).
 
 
-<figure style="width: 550px" class="align-center">
-  <img src="./gung-9.png" alt="">
+<figure>
+  <img style="text-align: center" src="./gung-9.png">
   <figcaption> </figcaption>
 </figure>
 
 Vào một số dịp nếu may mắn, người ta sẽ cho thử đồ của vua và chụp hình. Mình đã phải đứng xếp hàng khá lâu để chờ đến lượt. :sweat:
 
 
-<figure style="width: 450px" class="align-center">
-  <img src="./gung-8.png" alt="">
+<figure>
+  <img style="text-align: center" src="./gung-8.png">
   <figcaption> </figcaption>
 </figure>
 

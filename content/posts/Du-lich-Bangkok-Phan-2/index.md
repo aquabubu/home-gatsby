@@ -23,8 +23,8 @@ Bài viết này sẽ giới thiệu tiếp về các địa điểm du
 Ngọn đền này có mái rất cao, cao gấp 3 lần so với chiều cao trung bình của một người nên khá mát mẻ dù không dùng điều hòa hay quạt. Dưới chân Đức Phật chạm khắc nhiều hình vuông nhỏ. Mặc dù có bảng hiệu "Xin đừng chạm vào" nhưng thấy ai cũng ráng đụng vào một cái, đặc biệt là người Thái vì họ tin rằng nếu chạm vào chân Đức Phật, họ sẽ được ban phước. Ở một bên hành lang, có xếp một loạt cái bình khác nhau và mọi người sẽ cho đồng xu vào từng bình. Mình nghe nói rằng những chiếc bình này tượng trưng cho những hoạn nạn của cuộc sống và với mỗi đồng xu cho vào, họ sẽ được trả tự do.
 
 
-<figure style="width: 650px" class="align-center">
-  <img src="./bangkok2-1.png" alt="">
+<figure>
+  <img style="text-align: center" src="./bangkok2-1.png">
   <figcaption style="font-size: 17px" align="center"> <span style="color:red"> Wat Pho với bức tượng Phật vàng </span> </figcaption>
 </figure>
 
@@ -34,8 +34,8 @@ Từ Wat Pho đến Grand Palace thì cũng gần, nếu đi bằng thuyê�
 **Grand Palace** gồm nhiều tòa nhà nằm ở trung tâm Bangkok. Đây là nơi cư trú của các vị vua Siam kể từ năm 1782. Hiện tại, hoàng gia đang cư trú tại Cung điện Chitralada, nhưng Grand Palace vẫn được sử dụng cho các sự kiện chính thức.
 
 
-<figure style="width: 600px" class="align-center">
-  <img src="./bangkok2-2.png" alt="">
+<figure>
+  <img style="text-align: center" src="./bangkok2-2.png">
   <figcaption> </figcaption>
 </figure>
 
@@ -47,8 +47,8 @@ Cũng như ở chùa Bình Minh, khi đến Wat Pho, nếu bạn mặc qu�
 Chatuchak là chợ lớn nhất ở Thái Lan và là **một trong những khu chợ cuối tuần lớn nhất thế giới**, mở cửa vào Thứ 7 và CN, 9 giờ sáng - 6 giờ chiều. Mình đến chợ này bằng tàu (BTS), đến ga Mo Chit và đi theo cửa  ra số 1, sau đó cứ đi theo đám đông cho đến khi nhìn thấy một lối vào nhỏ.
 
 
-<figure style="width: 550px" class="align-center">
-  <img src="./bangkok2-3.png" alt="">
+<figure>
+  <img style="text-align: center" src="./bangkok2-3.png">
   <figcaption> </figcaption>
 </figure>
 
@@ -63,8 +63,8 @@ Nằm trên tầng 6 của **Siam Discovery Center**, chỉ có một điều đ
 Rời Siam Discovery đến Siam Center, có **Ocean Park** ở tầng hầm. Công viên Đại dương ở Thái Lan đúng nghĩa là "đại dương" luôn nhé vì ở đó chỉ có xem được mỗi động vật ở biển thôi.
 
 
-<figure style="width: 650px" class="align-center">
-  <img src="./bangkok2-4.png" alt="">
+<figure>
+  <img style="text-align: center" src="./bangkok2-4.png">
   <figcaption> </figcaption>
 </figure>
 
@@ -72,8 +72,8 @@ Có một nơi nhỏ cho du khách **chạm vào con sao biển** đấy, cá
 
 
 
-<figure style="width: 350px" class="align-center">
-  <img src="./bangkok2-5.png" alt="">
+<figure>
+  <img style="text-align: center" src="./bangkok2-5.png">
   <figcaption> </figcaption>
 </figure>
 
@@ -82,8 +82,8 @@ Có một nơi nhỏ cho du khách **chạm vào con sao biển** đấy, cá
 Đây là một khách sạn cao 88 tầng, là **khách sạn cao nhất ở Đông Nam Á và là công trình cao thứ bảy trên thế giới**. Toà nhà cao nhất ở Bangkok này có view rất đẹp mắt cho thành phố với những ánh đèn đầy màu sắc. Thức ăn không ngon, chỉ là các món ăn bình thường như mực, khoai tây chiên... Nói chung, chỗ này chỉ được cái có view đẹp.
 
 
-<figure style="width: 550px" class="align-center">
-  <img src="./bangkok2-6.png" alt="">
+<figure>
+  <img style="text-align: center" src="./bangkok2-6.png">
   <figcaption> </figcaption>
 </figure>
 

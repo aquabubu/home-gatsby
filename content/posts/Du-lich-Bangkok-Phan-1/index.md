@@ -27,9 +27,9 @@ Mình cũng đi đến phố đèn đỏ nổi tiếng nhưng ở đó không
 Bến Central Pier cung cấp một loại phương tiện giao thông trên sông gọi là Chao Phraya Tourist Boat, nơi có nhiều tàu chất lượng cao với nhiều màu sắc đi từ bến tàu này đến bến tàu khác mà không phải mua thêm vé và cũng không sợ bị lạc nhé. Mặc dù các bến tàu không lớn, nhưng họ có bảng hiệu bằng tiếng Anh và thậm chí có cả một hướng dẫn viên nói tiếng Anh.
 
 
-<figure style="width: 650px" class="align-center">
-  <img src="./bangkok-1.png" alt="">
-  <figcaption style="font-size: 17px" align="center"> <span style="color:deepskyblue"> Cảnh quan hai bên bờ nhìn từ Chao Phraya Express Boat </span> </figcaption>
+<figure>
+  <img style="text-align: center" src="./bangkok-1.png">
+  <figcaption style="font-size: 15px" align="center"> <span style="color:deepskyblue"> Cảnh quan hai bên bờ nhìn từ Chao Phraya Express Boat </span> </figcaption>
 </figure>
 
 Nếu bạn đến Bangkok du lịch, đừng bỏ lỡ chuyến tàu trên sông này nhé. Bạn có thể nhìn thấy Bangkok từ một góc độ hoàn toàn mới đấy! Bạn cũng có thể ghé thăm nhiều điểm tham quan như chùa Bình Minh (Wat Arun) và bức tượng Đức Phật nổi tiếng ở Wat Pho. Nhưng tôi đã quyết định đến Chợ nổi Taling Chan nổi tiếng trước tiên.
@@ -43,16 +43,16 @@ Khi tàu đến trạm, mình đi taxi đến Chợ nổi Taling Chan, cách tr
 Chợ Taling Chan không quá lớn và có rất nhiều người Thái nên những đặc trưng truyền thống vẫn còn, hàng hóa cũng rẻ, và các món ăn rất ngon và đa dạng. Các nhân viên bán hàng rất chu đáo, các gian hàng được trang trí sạch sẽ, đẹp và khá trật tự.
 
 
-<figure style="width: 650px" class="align-center">
-  <img src="./bangkok-2.png" alt="">
+<figure>
+  <img style="text-align: center" src="./bangkok-2.png">
   <figcaption> </figcaption>
 </figure>
 
 Bánh xèo Thái giòn giòn khá giống như bánh xèo Việt Nam nhưng hương vị hoàn toàn khác nhé. Bánh màu vàng có thêm lớp kem rất ngọt. Trong khi bánh màu cam nhạt có vị ngọt ngọt mặn mặn, ăn ngon và đỡ ngán hơn.
 
 
-<figure style="width: 650px" class="align-center">
-  <img src="./bangkok-3.png" alt="">
+<figure>
+  <img style="text-align: center" src="./bangkok-3.png">
   <figcaption> </figcaption>
 </figure>
 
@@ -64,8 +64,8 @@ Chùa Bình Minh là ngôi chùa lâu đời nhất của Bangkok. Khi vua Th
 Nếu bạn mặc quần hay váy ngắn thì bạn phải thuê một miếng vải dài để phủ chân đấy. Vì nơi này khá đông người nên mang theo đồ của riêng bạn để tránh mất thời gian.
 
 
-<figure style="width: 650px" class="align-center">
-  <img src="./bangkok-4.png" alt="">
+<figure>
+  <img style="text-align: center" src="./bangkok-4.png">
   <figcaption> </figcaption>
 </figure>
 

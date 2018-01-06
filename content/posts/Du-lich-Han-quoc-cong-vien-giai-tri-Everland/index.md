@@ -14,8 +14,8 @@ Nếu bạn muốn đi du lịch Hàn Quốc và đang tìm một nơi để gi�
 Đây là trang web của <a href="http://www.everland.com/web/multi/english/everland/main.html" target="_blank">Công viên Everland. </a>
 
 
-<figure style="width: 600px" class="align-center">
-  <img src="./everland-1.png" alt="">
+<figure>
+  <img style="text-align: center" src="./everland-1.png">
   <figcaption></figcaption>
 </figure>
 
@@ -25,15 +25,15 @@ Nếu bạn muốn đi du lịch Hàn Quốc và đang tìm một nơi để gi�
 
 
 <figure  class="half">
-   <img style="width: 235px" src="./everland-2.png">
-   <img style="width: 368px" src="./everland-3.png">
+   <img style="width: 10; text-align: center" src="./everland-2.png">
+   <img style="width: 10; text-align: center" src="./everland-3.png">
    <figcaption></figcaption>
 </figure>
 
 Đi cáp treo cũng thích vì tốc độ chậm giúp bạn thưởng thức phong cảnh!
 
-<figure style="width: 300px" class="align-center">
-  <img src="./everland-4.png" alt="">
+<figure>
+  <img style="text-align: center" src="./everland-4.png">
   <figcaption></figcaption>
 </figure>
 
@@ -42,8 +42,8 @@ Nếu bạn muốn đi du lịch Hàn Quốc và đang tìm một nơi để gi�
 Khu vực này được làm theo chủ đề 500 năm lịch sử nước Mỹ, kể từ thời Columbus khám phá Lục địa Hoa Kỳ tới những năm 60 khi Elvis Presley cai trị nền âm nhạc. Trong khu vực này, bạn có thể trải nghiệm nhiều trò chơi ly kỳ, mạo hiểm. (mạo hiểm không phải là phong cách của mình, nên mình chỉ xem người khác mạo hiểm thôi :sweat_smile:).
 
 
-<figure style="width: 650px" class="align-center">
-  <img src="./everland-5.png" alt="">
+<figure>
+  <img style="text-align: center"  src="./everland-5.png">
   <figcaption></figcaption>
 </figure>
 
@@ -52,8 +52,8 @@ Khu vực này được làm theo chủ đề 500 năm lịch sử nước Mỹ,
 Đất phép thuật là một khu vực có các trò chơi trong nhà và những chuyến xe, chủ yếu dành cho trẻ em. Có một nơi gọi là Làng Aesop - một vùng đất về những câu chuyện cổ tích nhỏ dễ thương dựa trên chuyện ngụ ngôn của Aesop. Cùng với các chuyến xe, có rất nhiều nhà hàng và gian hàng. Mình đã không dành nhiều thời gian chơi ở đây, nhưng trò Nhà xoay cũng vui lắm. :smile:
 
 
-<figure style="width: 350px" class="align-center">
-  <img src="./everland-6.png" alt="">
+<figure>
+  <img style="text-align: center"  src="./everland-6.png">
   <figcaption></figcaption>
 </figure>
 
@@ -72,8 +72,8 @@ Những khu vườn hoa tuyệt theo mùa như hoa tulip, hoa hồng nở rộ s
 	  </div>
 </div>
 
-<figure  class="align-center">
-    <img style="width: 300px" class="align-center" src="./everland-10.png" alt="">
+<figure >
+    <img style="width: 300px" src="./everland-10.png">
   <figcaption></figcaption>
 </figure>
 

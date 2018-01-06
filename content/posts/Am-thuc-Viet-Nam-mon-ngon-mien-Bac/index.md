@@ -17,8 +17,8 @@ Trong bài viết này, mình xin giới thiệu các món ăn ngon và phổ bi
 
 ## <span style="color:dodgerblue"> Phở </span>
 
-<figure style="width: 650px" class="align-center">
-  <img src="./pho.png" alt="">
+<figure style="text-align: center">
+  <img src="./pho.png">
   <figcaption></figcaption>
 </figure>
 
@@ -33,18 +33,18 @@ Ngoài ra, bạn có thể gọi những món trên dựa trên nước dùng v�
 Bên cạnh đó, ở thủ đô Hà Nội còn có hai loại phở khô đặc biệt là: 
 
 
-<img align="right" style="width:250px; padding: 10px" src="./phocuon.png"> **Phở cuốn** - bánh phở được tráng mỏng ra rồi cuộn với thịt bò đã nấu chín và rau thơm, có nơi dùng rau xà lách và rau mùi. Phở cuốn ăn với nước mắm tỏi ớt chua ngọt pha loãng. Người Hà thành thì ăn món này với tương ớt chua cay.
+<img align="right" style="width:20%" src="./phocuon.png"> **Phở cuốn** - bánh phở được tráng mỏng ra rồi cuộn với thịt bò đã nấu chín và rau thơm, có nơi dùng rau xà lách và rau mùi. Phở cuốn ăn với nước mắm tỏi ớt chua ngọt pha loãng. Người Hà thành thì ăn món này với tương ớt chua cay.
 
 
-<img align="left" style="width:250px; padding: 10px" src="./phochienphong.png"> **Phở chiên phồng** - bánh phở được chiên ngập dầu cho phồng lên, ăn giòn giòn, bên trên là thịt bò xào, rau và nước sốt. Món phở này cũng ngon lắm, nhưng bị cái hơi dầu mỡ.
+<img align="left" style="width:15%" src="./phochienphong.png"> **Phở chiên phồng** - bánh phở được chiên ngập dầu cho phồng lên, ăn giòn giòn, bên trên là thịt bò xào, rau và nước sốt. Món phở này cũng ngon lắm, nhưng bị cái hơi dầu mỡ.
 
 
 ## <span style="color:indianred"> Bún chả Hà Nội </span>
 Đây là món bún ăn với thịt heo nướng than và một chén nước chấm (nước mắm pha loãng chua ngọt). Bún chả là một trong những món ăn được ưa thích nhất ở miền Bắc nói chung và là một trong những đặc sản đặc trưng của Hà Nội nói riêng.
 
 
-<figure style="width: 650px" class="align-center">
-  <img src="./buncha.png" alt="">
+<figure style="text-align: center">
+  <img src="./buncha.png">
   <figcaption></figcaption>
 </figure>
 
@@ -77,8 +77,8 @@ Gạo nếp thường được ngâm trong nhiều tiếng để nở ra. Sau đ
 Xôi là một món ăn đặc trưng ở Việt Nam mà mọi người thường ăn vào buổi sáng và được bán trong chợ hoặc trên đường phố, rất dễ tìm. Dưới đây là danh sách các món xôi ngon tiêu biểu ở miền Bắc.
 
 
-<figure style="width: 650px" class="align-center">
-  <img src="./xoi.png" alt="">
+<figure style="text-align: center">
+  <img src="./xoi.png">
   <figcaption></figcaption>
 </figure>
 
@@ -110,8 +110,8 @@ Xôi là một món ăn đặc trưng ở Việt Nam mà mọi người thườn
 Các món bánh mì nổi tiếng ở miền Bắc là:
 
 
-<figure style="width: 650px" class="align-center">
-  <img src="./banhmi.png" alt="">
+<figure style="text-align: center">
+  <img src="./banhmi.png">
   <figcaption></figcaption>
 </figure>
 

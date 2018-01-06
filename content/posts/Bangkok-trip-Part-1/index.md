@@ -28,8 +28,8 @@ The Central Pier providing a kind of water transportation service called The Cha
 
 
 <figure>
-  <img src="./bangkok-1.png" alt="">
-  <figcaption style="font-size: 17px" align="center"> <span style="color:deepskyblue"> The scenes from two sides seeing on a motor boat </span> </figcaption>
+  <img src="./bangkok-1.png">
+  <figcaption style="font-size: 17px; align="center"> <span style="color:deepskyblue"> The scenes from two sides seeing on a motor boat </span> </figcaption>
 </figure>
 
 If you go to Bangkok, don't miss this water transportation. You can see Bangkok from a whole new perspective, trust me! You can also visit many attractions such as the Temple of Dawn and the great Reclining Buddha at Wat Pho. But I decided to pass by the famous Taling Chan Floating Market first.
@@ -44,7 +44,7 @@ Taling Chan Floating Market is not too big and has many Thai people so the tradi
 
 
 <figure>
-  <img src="./bangkok-2.png" alt="">
+  <img style="text-align: center" src="./bangkok-2.png">
   <figcaption> </figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Thai crispy pancake looks like Vietnamese pancakes but the taste is totally dife
 
 
 <figure>
-  <img src="./bangkok-3.png" alt="">
+  <img style="text-align: center" src="./bangkok-3.png">
   <figcaption> </figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ If you wear shorts, short skirts and tank top, you must hire a long cloth to cov
 
 
 <figure>
-  <img src="./bangkok-4.png" alt="">
+  <img style="text-align: center" src= "./bangkok-4.png">
   <figcaption> </figcaption>
 </figure>
 

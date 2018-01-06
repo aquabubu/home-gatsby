@@ -18,7 +18,7 @@ After finishing all the procedure, I was walking around the restricted area insi
 
 
 <figure style="width: 550px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-1.png" alt="">
+  <img src="./hongkong-1.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ I bought two Otopus cards labeled Train Express Ticket at the central informatio
 ## <font color="#ED031D">D</font><font color="#8606B3">I</font><font color="#05A3D9">S</font><font color="#A6FC9C">N</font><font color="#DD103A">E</font><font color="#86136A">Y</font><font color="#3FBCC6">L</font><font color="#3818EC">A</font><font color="#7EE374">N</font><font color="#CE9CF8">D</font>
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-2.png" alt="">
+  <img src="./hongkong-2.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -50,64 +50,58 @@ To go to these places, I spent a whole day and using a lot of MTR. So, my advice
 
 When arriving at Diamond Hill Station, go out of Exit C2, follow the signs and walk for around five minutes. Chi Lin Nunnery was renovated in Tang dynasty style. It is a large temple complex of elegant wooden architecture including a series of temple halls, some of which contain gold, clay and wooden statues representing divinities such as the Sakyamuni Buddha and bodhisattvas.
 
-
 Nan Lian Garden is a public park also built in the style of the Tang dynasty. Its scenic garden is meticulously landscaped in which every hill, rock, body of water, plant and timber structure has been placed according to specific rules and methods.
 
 
 <figure style="width: 650px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-3.png" alt="">
+  <img src="./hongkong-3.png" alt="">
   <figcaption></figcaption>
 </figure>
 
 Some exhibitions open at 10 a.m and most of the exhibition halls don’t allow taking photo.
 
+### <font color="#05A3D9">Wong Tai Sin Temple</font>	 
 
 <table>
   <tr>
-	<th style="text-align:center; font-size:25px;color:#CE9CF8; font-weight:bold" colspan="2"> Chi Lin Nunnery </th>
-     </tr>
-	
-    <tr>
-	<td> <b> Address </b> </td>
+	  <th style="text-align:center; font-size:25px;color:#CE9CF8; font-weight:bold" colspan="2"> Chi Lin Nunnery </th>
+  </tr>
+  <tr>
+	  <td> <b> Address </b> </td>
     <td> 5 Chi Lin Drive, Diamond Hill, Kowloon </td>
     </tr>
-	
   <tr>
-	<td> <b> Tel </b> </td>
+	  <td> <b> Tel </b> </td>
     <td> +852 3658 9366  </td>
    </tr>
-	
   <tr>
-	<td> <b> Website </b> </td>
+	  <td> <b> Website </b> </td>
     <td> <a href="http://www.chilin.org/index.html" target="_blank"> www.chilin.org </a> </td>
    </tr>
-	
-	 </table>
-	 
+</table>
+
+   
+### <font color="#05A3D9">Wong Tai Sin Temple</font>	 
 	 
 <table>
   <tr>
-	<th style="text-align:center; font-size:25px;color:#3818EC; font-weight:bold" colspan="2"> Nan Lian Garden </th>
-     </tr>
-	
-    <tr>
-	<td> <b> Address </b> </td>
-    <td> 60 Fung Tak Road, Diamond Hill, Kowloon </td>
-    </tr>
-	
+	  <th style="text-align:center; font-size:25px;color:#3818EC; font-weight:bold" colspan="2"> Nan Lian Garden </th>
+  </tr>
   <tr>
-	<td> <b> Tel </b> </td>
+	  <td> <b> Address </b> </td>
+    <td> 60 Fung Tak Road, Diamond Hill, Kowloon </td>
+  </tr>
+  <tr>
+	  <td> <b> Tel </b> </td>
     <td> +852 3658 9366  </td>
    </tr>
-	
   <tr>
-	<td> <b> Website </b> </td>
+	  <td> <b> Website </b> </td>
     <td> <a href="http://www.nanliangarden.org/home.php?eng" target="_blank"> www.nanliangarden.org </a> </td>
-   </tr>
-	
-	 </table>
+  </tr>
+</table>
 	 
-### <font color="#05A3D9"> Wong Tai Sin Temple </font>	 
+### <font color="#05A3D9">Wong Tai Sin Temple</font>	 
 
 MTR Wong Tai Sin Station, Exit B2, walk for about three minutes.
 
@@ -119,7 +113,7 @@ There are also sortilege and many things to see. In the temple, there is a statu
 
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-4.png" alt="">
+  <img src="./hongkong-4.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -151,7 +145,7 @@ From MTR Central station, find the 15C bus stop right in front of City Hall, the
 
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-5.png" alt="">
+  <img src="./hongkong-5.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -167,7 +161,7 @@ At **Peak Tram terminus**, I took the bus to go back to Star Ferry (~15min). You
 
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-6.png" alt="">
+  <img src="./hongkong-6.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -182,7 +176,7 @@ From Tung Chung MTR station, I took bus 11 to go to Tai O (every 20min, HK$11, ~
 
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-7.png" alt="">
+  <img src="./hongkong-7.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -190,7 +184,7 @@ I also went to Tai O market and enjoyed the food here. The market opened late (a
 
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-8.png" alt="">
+  <img src="./hongkong-8.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -200,7 +194,7 @@ I took bus 11 again to back to Tung Chung MTR station. Next to the bus stop is T
 
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-9.png" alt="">
+  <img src="./hongkong-9.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -221,7 +215,7 @@ The Temple market is more famous to locals because there is a big temple at the 
 
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-10.png" alt="">
+  <img src="./hongkong-10.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -238,7 +232,7 @@ Cheap ticket <a href="https://www.klook.com/activity/23-ocean-park-hong-kong-hon
 
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-11.png" alt="">
+  <img src="./hongkong-11.png" alt="">
   <figcaption></figcaption>
 </figure>
 
@@ -246,7 +240,7 @@ At Ocean Park, it's not allowed to bring food but water. Ocean Park is so large
 
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/hongkong-12.png" alt="">
+  <img src="./hongkong-12.png" alt="">
   <figcaption></figcaption>
 </figure>
 
