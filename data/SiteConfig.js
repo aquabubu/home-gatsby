@@ -14,10 +14,10 @@ module.exports = {
   postDefaultCategoryID: "Tech", // Default category for posts.
   userName: "AquaBuBu", // Username to display in the author segment.
   userTwitter: "", // Optionally renders "Follow Me" in the UserInfo segment.
-  userLocation: "North Pole, Earth", // User location to display in the author segment.
+  userLocation: "Korea, Earth", // User location to display in the author segment.
   userAvatar: "/images/about.png", // User avatar to display in the author segment.
   userDescription:
-    "Yeah, I like animals better than people sometimes... Especially dogs. Dogs are the best. Every time you come home, they act like they haven't seen you in a year. And the good thing about dogs... is they got different dogs for different people.", // User description to display in the author segment.
+    "I like walking in the rain cause no one knows I'm peeing...just kidding, I don't even like rain. But I like to share my life experiences with you. Hope you enjoy this blog. Mình thích đi bộ trong mưa vì không ai biết mình đang *è ra quần...đùa thôi, mình thậm chí còn không thích mưa nữa cơ. Nhưng mình thích chia sẻ những kinh nghiệm cuộc sống của mình. Hy vọng bạn thấy blog này hữu ích!", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {

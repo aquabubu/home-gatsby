@@ -1,5 +1,5 @@
 ---
-title: Korea travel - Geoje island (거제도)
+title: Du lịch Hàn quốc - Đảo Geoje (거제도)
 cover: /images/evlbg.png
 date: 2017/10/03
 category: Travel

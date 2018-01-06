@@ -1,5 +1,5 @@
 ---
-title:  Korea travel - Tidal island Jebudo (제부도)
+title:  Du lịch Hàn quốc - Đảo Jebu (제부도)
 cover: /images/jebudo.png
 date: 2014/07/20
 category: Travel

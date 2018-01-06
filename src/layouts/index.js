@@ -46,7 +46,6 @@ const MainLayout = ({ location, data, children }) => {
             langKey={langKey}
             langsMenu={langsMenu}
           />
-
           <div style={{ paddingBottom: 60 }}>
             {children()}
           </div>

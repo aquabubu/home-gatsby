@@ -24,7 +24,7 @@ const Footer = ({ userLinks }) => {
         <div className="based-on">
           <h4>
             Powered by {" "}
-            <a href="https://github.com/aquabubu">
+            <a href="https://aquabubu.com">
               AquaBuBu
             </a>.
           </h4>
