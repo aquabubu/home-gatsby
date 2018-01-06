@@ -97,8 +97,8 @@ export default PostTemplate
 
 /* eslint no-undef: "off" */
 export const pageQuery = graphql`
-  query PostPageBySlug($slug: String!) {
-    markdownRemark(fields: { slug: { eq: $slug } }) {
+  query PostPageBySlug($path: String!) {
+    markdownRemark(fields: { slug: { eq: $path } }) {
       html
       timeToRead
       excerpt

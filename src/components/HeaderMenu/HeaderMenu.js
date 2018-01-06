@@ -4,7 +4,9 @@ import Link from 'gatsby-link';
 import { Container, Menu, Icon, Input, Button, Segment, Flag } from "semantic-ui-react";
 import { toggleSidebar } from "../../store";
 
-const HeaderMenu = ({ pathname, items, langKey, messages, langsMenu, dispatch }) => {
+const HeaderMenu = ({ pathname, items, langKey, langsMenu, dispatch }) => {
+  const messages = require(`../../../data/messages/${langKey}`);
+
   return (
     <Container>
       <Menu size="large" pointing secondary>

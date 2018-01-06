@@ -7,14 +7,42 @@ module.exports = {
   plugins: [
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sass",
+
+    // Multiple langs
     {
       resolve: 'gatsby-plugin-i18n',
       options: {
         langKeyForNull: 'any',
         langKeyDefault: 'en',
-        useLangKeyLayout: true
+        useLangKeyLayout: false,
+        markdownRemark: {
+          postPage: 'src/templates/post.js',
+          query: `
+          {
+            allMarkdownRemark {
+              edges {
+                node {
+                  fields {
+                    slug,
+                    langKey
+                  }
+                }
+              }
+            }
+          }
+          `
+        }
       }
     },
+    {
+      resolve: 'gatsby-plugin-i18n-tags',
+      options: {
+        tagPage: 'src/templates/tag.js',
+        tagsUrl: '/',
+        langKeyForNull: 'en'
+      }
+    },
+
     // Expose `/content/${config.blogPostDir}` to graphQL layer
     {
       resolve: "gatsby-source-filesystem",

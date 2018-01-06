@@ -22,11 +22,14 @@ export default TagTemplate
 
 /* eslint no-undef: "off" */
 export const pageQuery = graphql`
-  query TagPage($tag: String) {
+  query TagPage($tag: String, $langKey: String) {
     allMarkdownRemark(
       limit: 1000
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { tags: { in: [$tag] } } }
+      filter: { 
+        frontmatter: { tags: { in: [$tag] } }
+        fields: { langKey: {eq: $langKey} }
+      }
     ) {
       totalCount
       edges {

@@ -12,7 +12,7 @@ import "../css/styles.css";
 import "../css/responsive.css";
 import "../css/semantic.min.css";
 
-const MainLayout = ({ location, data, children, messages }) => {
+const MainLayout = ({ location, data, children }) => {
   const menuItems = [
     { name: "home", path: "/", icon: "home" },
     { name: "about", path: "/about/", icon: "info circle" },
@@ -37,7 +37,6 @@ const MainLayout = ({ location, data, children, messages }) => {
           pathname={pathname} 
           items={menuItems} 
           langKey={langKey} 
-          messages={messages}          
           visible={false}
         />
         
@@ -46,7 +45,6 @@ const MainLayout = ({ location, data, children, messages }) => {
             pathname={pathname} 
             items={menuItems} 
             langKey={langKey}
-            messages={messages}            
             langsMenu={langsMenu}
           />
 

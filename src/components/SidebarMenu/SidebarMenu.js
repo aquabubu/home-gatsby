@@ -4,7 +4,9 @@ import Link from 'gatsby-link';
 import { Menu, Icon, Sidebar } from "semantic-ui-react";
 import { toggleSidebar } from "../../store";
 
-const SidebarMenu = ({ pathname, items, langKey, messages, visible, dispatch }) => {
+const SidebarMenu = ({ pathname, items, langKey, visible, dispatch }) => {
+  const messages = require(`../../../data/messages/${langKey}`);
+
   return (
     <Sidebar 
       as={Menu} 
