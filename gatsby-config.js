@@ -89,7 +89,7 @@ module.exports = {
         color: "#c62828"
       }
     },
-    "gatsby-plugin-catch-links",
+    // "gatsby-plugin-catch-links",
     "gatsby-plugin-twitter",
     "gatsby-plugin-sitemap",
     // This plugin takes your configuration and generates a
@@ -127,7 +127,7 @@ module.exports = {
         setup(ref) {
           const ret = ref.query.site.siteMetadata.rssMetadata;
           ret.allMarkdownRemark = ref.query.allMarkdownRemark;
-          ret.generator = "GatsbyJS Material Starter";
+          ret.generator = "AquaBuBu";
           return ret;
         },
         query: `
