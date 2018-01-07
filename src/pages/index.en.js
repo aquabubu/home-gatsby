@@ -27,8 +27,7 @@ const HomePage = () => {
                 Baby
               </Header>
               <p>
-                Pregnancy <br /> 
-                Babysistings
+              These posts will help you - the new mom - not only have a healthy and safe pregnancy but also having some "basic concepts" when raising your baby.
               </p>
               <Link to="/en/baby/">
                 <Button content='View All' icon='right arrow' labelPosition='right' />
@@ -40,8 +39,7 @@ const HomePage = () => {
                 Travel
               </Header>
               <p>
-                Wonderful places <br />
-                Tips
+              All of my information and experiences when traveling can be found here. Enjoy!
               </p>
               <Link to="/en/travel/">
                 <Button content='View All' icon='right arrow' labelPosition='right' />
@@ -53,8 +51,7 @@ const HomePage = () => {
                 Cuisine
               </Header>
               <p>
-                Food review <br />
-                What to eat
+              Eat to live? No, to me, I live to eat. I want to enjoy all the delicious food in this whole world. 
               </p>
               <Link to="/en/cuisine/">
                 <Button content='View All' icon='right arrow' labelPosition='right' />
@@ -66,8 +63,7 @@ const HomePage = () => {
                 Beauty
               </Header>
               <p>
-                Cosmetic review <br />
-                Korea products
+              Every woman is beautiful. It just takes the right man to see it. Why don't we make every man see it from you?
               </p>
               <Link to="/en/beauty/">
                 <Button content='View All' icon='right arrow' labelPosition='right' />
