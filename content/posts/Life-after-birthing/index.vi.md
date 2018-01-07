@@ -5,7 +5,6 @@ date: 2017/12/15
 category: Baby
 tags:
   - Baby
-  - life-after-birthing
   - constipation
   - jaundice
   - breast-milk
