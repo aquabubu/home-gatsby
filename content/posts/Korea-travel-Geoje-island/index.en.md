@@ -31,6 +31,11 @@ Gujora beach is beautiful with the long sandy beach and very clean seawater unde
 
 This is a must-go place in Geoje island. The sceneries are so peaceful and wonderful except too many people here. Unfortunately, I went here on Chusoek holiday (Mid-Autumn Festival, the most feast in Korea) and the time wasn't right so many people + dark sky due to sunset. If you go there, I recommend you go earlier at around 7-8 a.m.
 
+## <span style="color:red"> Geoje Shipbuilding Marine Cultural Center (조선해양전시관) </span>
+
+If you would like to know how the Korean shipbuilding in, this might be the right place to visit. This is a typical Korean Cultural center with lots of Information. It’s quite interesting but not many things to see. This place is suitable for families that have kids since there's a pretty big ship-themed children's playroom inside that can be much more enjoyable.
+Outside the center, there is a model of Korean's famous turtle ship (거북선) that appeared in the Korean movie **The Admiral: Roaring Currents**. This movie is based on the historical battle of Myeongnyang, quite interesting movie.
+
 ## <span style="color:green"> Oedo Botania (외도 보타니아) and Haekeumkang (해금강) </span>
 
 This is the **Oedo botanical garden** on a small island. From Geoje Island, you can take a ferry ride to this island. Oedo Botania is a green plant paradise with more than 3,000 species of plants, very diverse and many strange plants. This place is worth to go. This island only has a cafe and a small souvenir shop. On the way back from Oedo Botania Garden, you will see the natural rocky island called Haekumkang. This is considered to be the second most famous landmark in Geoje and has ecological conservation value. Frankly, there are many people in the ferry want to see it so it's a bit uncomfortable.

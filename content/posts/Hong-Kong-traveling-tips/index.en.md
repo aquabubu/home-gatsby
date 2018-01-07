@@ -56,15 +56,9 @@ The list below is the **money that needed** for this trip. Of course, it's diffe
 
 **Visa**: depend on your country
 
-**Hotel**: ~HK$961 (4 nights in a 4-star hotel)
+**Hotel**: ~HK$961 (4 nights in a 4-star hotel). It's better to search hotel on booking or agoda. Recommend you to book somewhere near the MTR station so you can easily travel everywhere you want.
 
-**Disneyland**: ~HK$480
-
-**Ocean Park**: ~HK$240
-
-**Ngong Ping**: ~HK$172
-
-**3D Museum Tickets**: ~HK$155
+**Entrance tickets**: If they are available online, then go for them. You can pre-book the ticket on klook, kkday or the original website (e.g. **Disneyland** ~HK$480, **Ocean Park** ~HK$240, **Ngong Ping** ~HK$172, **3D Museum Tickets** ~HK$155)
 
 **Transportation** (MTR-bus-ferry-peak tram, airport express): ~HK$446
 
