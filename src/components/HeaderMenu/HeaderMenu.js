@@ -1,7 +1,7 @@
 import React from "react";
 import { connect } from "react-redux";
 import Link from 'gatsby-link';
-import { Container, Menu, Image, Input, Button, Segment, Flag } from "semantic-ui-react";
+import { Container, Menu, Flag } from "semantic-ui-react";
 import { toggleSidebar } from "../../store";
 
 const HeaderMenu = ({ pathname, items, langKey, langsMenu, dispatch }) => {
@@ -12,7 +12,7 @@ const HeaderMenu = ({ pathname, items, langKey, langsMenu, dispatch }) => {
       <Menu size="massive" pointing secondary>
         {/* <Menu.Item as="a" className="mobile only" icon="sidebar" onClick={() => dispatch(toggleSidebar())} /> */}
         <Menu.Item className="mobile hidden">
-          <Image src='/logos/logo-menu.png' size='mini' verticalAlign='bottom' />
+          <img src='/logos/logo-menu.png' alt="" />
         </Menu.Item>
         {items.map((item) => {
           const itemName = messages[item.name];

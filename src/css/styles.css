@@ -17,7 +17,7 @@ body {
 }
 
 .masthead.segment {
-  min-height: 700px;
+  min-height: 300px;
   padding: 1em 0;
 }
 
@@ -29,14 +29,20 @@ body {
   margin-left: 0.5em;
 }
 
+.masthead img {
+  max-width:100%;
+  max-height:100%;
+}
+
 .masthead h1.ui.header {
-  font-size: 4em;
+  margin: 0em 2em;
+  font-size: 3em;
   font-weight: normal;
 }
 
-.masthead h2 {
-  font-size: 1.7em;
+.masthead h2.ui.header {
   font-weight: normal;
+  margin-bottom: 2em;
 }
 
 .ui.vertical.stripe {

@@ -44,7 +44,7 @@ const SocialLinks = ({ postNode, postPath, mobile }) => {
 
   return (
     <div className="social-links">
-      <FacebookShareButton className="social-button" url={url} title={post.title} picture={post.cover} description={postNode.excerpt}>
+      <FacebookShareButton className="social-button" url={url} quote={postNode.excerpt}>
         <FacebookIcon round size={iconSize} />
         <FacebookShareCount url={url}>
           {count => <div className="share-count">{filter(count)}</div>}

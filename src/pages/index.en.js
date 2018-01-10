@@ -1,7 +1,7 @@
 import React from "react";
 import Helmet from "react-helmet";
 import Link from "gatsby-link";
-import { Button, Segment, Icon, Grid, Header, Image } from "semantic-ui-react";
+import { Button, Segment, Icon, Grid, Header } from "semantic-ui-react";
 import config from "../../data/SiteConfig";
 
 const HomePage = () => {
@@ -11,11 +11,11 @@ const HomePage = () => {
         <title>{config.siteTitle}</title>
         <link rel="canonical" href={`${config.siteUrl}`} />
       </Helmet>
+
       <Segment inverted vertical textAlign="center" className="masthead">
-        <Image src='/images/home-banner.png' fluid />
-        <Header as="h1">AquaBuBu</Header>
+        <img src='/images/home-banner.png' alt="" />
+        <Header as="h1">Welcome to AquaBuBu Website!</Header>
         <Header as="h2">Be Hypnotic and Paranoid</Header>
-        <Button primary size="huge">Enjoy more!</Button>
       </Segment>
 
       <Segment vertical className="stripe alternate feature">
