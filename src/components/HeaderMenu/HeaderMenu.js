@@ -10,7 +10,7 @@ const HeaderMenu = ({ pathname, items, langKey, langsMenu, dispatch }) => {
   return (
     <Container>
       <Menu size="massive" pointing secondary>
-        <Menu.Item as="a" className="mobile only" icon="sidebar" onClick={() => dispatch(toggleSidebar())} />
+        {/* <Menu.Item as="a" className="mobile only" icon="sidebar" onClick={() => dispatch(toggleSidebar())} /> */}
         <Menu.Item className="mobile hidden">
           <Image src='/logos/logo-menu.png' size='mini' verticalAlign='bottom' />
         </Menu.Item>
@@ -22,7 +22,7 @@ const HeaderMenu = ({ pathname, items, langKey, langsMenu, dispatch }) => {
           return (
             <Menu.Item
               as={Link}
-              className="mobile hidden"
+              // className="mobile hidden"
               name={itemName}
               to={itemPath}
               key={itemPath}
