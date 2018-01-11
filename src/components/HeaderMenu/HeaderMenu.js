@@ -24,6 +24,7 @@ const HeaderMenu = ({ pathname, items, langKey, langsMenu, dispatch }) => {
               as={Link}
               // className="mobile hidden"
               name={itemName}
+              content={itemName}
               to={itemPath}
               key={itemPath}
               active={isActive}
