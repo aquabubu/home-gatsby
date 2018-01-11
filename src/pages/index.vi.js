@@ -29,7 +29,7 @@ const HomePage = () => {
               <p>
               Những bài viết này sẽ giúp bạn - những người mẹ tương lai - có một thai kỳ khỏe mạnh, an toàn và có thêm thông tin về một số "khái niệm cơ bản" khi nuôi dạy bé yêu.
               </p>
-              <Link to="/en/baby/">
+              <Link to="/vi/baby/">
                 <Button content='Xem thêm' icon='right arrow' labelPosition='right' />
               </Link>
             </Grid.Column>
@@ -41,7 +41,7 @@ const HomePage = () => {
               <p>
                 Tất cả những thông tin và kinh nghiệm du lịch của mình ở đây nhé. Cùng lên kế hoạch đi chơi thôi nào!
               </p>
-              <Link to="/en/travel/">
+              <Link to="/vi/travel/">
                 <Button content='Xem thêm' icon='right arrow' labelPosition='right' />
               </Link>
             </Grid.Column>
@@ -53,7 +53,7 @@ const HomePage = () => {
               <p>
                 Ăn để sống hả? Không nhé, với mình sống là để ăn. Mình muốn thưởng thức tất cả các món ăn ngon trên thế giới này.
               </p>
-              <Link to="/en/cuisine/">
+              <Link to="/vi/cuisine/">
                 <Button content='Xem thêm' icon='right arrow' labelPosition='right' />
               </Link>
             </Grid.Column>
@@ -65,7 +65,7 @@ const HomePage = () => {
               <p>
               Tất cả phụ nữ đều đẹp nhưng phải đúng Mr. Right mới thấy được điều đó. Sao chúng ta không làm tất cả đàn ông đều thấy mình đẹp nhỉ?
               </p>
-              <Link to="/en/beauty/">
+              <Link to="/vi/beauty/">
                 <Button content='Xem thêm' icon='right arrow' labelPosition='right' />
               </Link>
             </Grid.Column>
