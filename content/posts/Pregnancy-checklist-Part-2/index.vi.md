@@ -1,6 +1,6 @@
 ---
 title: Những thứ cần chuẩn bị khi mang thai – Phần 2
-cover: /images/babybg.png
+cover: /images/chuanbimangthai2.png
 date: 2017/12/19
 category: Baby
 tags:
