@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Helmet from "react-helmet";
 import Card from "react-md/lib/Cards";
 import CardText from "react-md/lib/Cards/CardText";
+import { Header, Icon } from "semantic-ui-react";
 import config from "../../data/SiteConfig";
 import UserInfo from "../components/UserInfo/UserInfo";
 import Disqus from "../components/Disqus/Disqus";
@@ -40,15 +41,14 @@ class PostTemplate extends Component {
   }
 
   render() {
-    const mobile= this.state.mobile;
-    const slug = this.props.pathContext.slug;
-    const langKey = this.props.pathContext.langKey;
+    const mobile = this.state.mobile;
     const expanded = !mobile;
     const postOverlapClass = mobile ? "post-overlap-mobile" : "post-overlap";
+    const { path, langKey } = this.props.pathContext;
     const postNode = this.props.data.markdownRemark;
     const post = postNode.frontmatter;
     if (!post.id) {
-      post.id = slug;
+      post.id = path;
     }
     if (!post.category_id) {
       post.category_id = config.postDefaultCategoryID;
@@ -60,7 +60,7 @@ class PostTemplate extends Component {
           <title>{`${post.title} | ${config.siteTitle}`}</title>
           <link rel="canonical" href={`${config.siteUrl}${post.id}`} />
         </Helmet>
-        <SEO postPath={slug} postNode={postNode} postSEO />
+        <SEO postPath={path} postNode={postNode} postSEO />
         <PostCover postNode={postNode} mobile={mobile} />
         <div
           className={`md-grid md-cell--9 post-page-contents mobile-fix ${postOverlapClass}`}
@@ -71,19 +71,32 @@ class PostTemplate extends Component {
               <PostInfo postNode={postNode} langKey={langKey} />
               <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
             </CardText>
-            <div className="post-meta">
+            <CardText className="post-meta">
+              <Header as='h4'>
+                <Icon name='tags' />
+                <Header.Content>
+                  Tags
+                </Header.Content>
+              </Header>
               <PostTags tags={post.tags} langKey={langKey} />
+              <Header as='h4'>
+                <Icon name='share alternate' />
+                <Header.Content>
+                  Share this post
+                </Header.Content>
+              </Header>
               <SocialLinks
-                postPath={slug}
+                postPath={path}
                 postNode={postNode}
                 mobile={this.state.mobile}
               />
-            </div>
+            </CardText>
           </Card>
           <UserInfo
             className="md-grid md-cell md-cell--12"
             config={config}
             expanded={expanded}
+            langKey={langKey}
           />
           <Disqus postNode={postNode} expanded={expanded} />
         </div>

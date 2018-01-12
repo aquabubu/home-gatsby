@@ -8,7 +8,6 @@ const SocialLinks = ({ postNode, postPath, mobile }) => {
   const url = config.siteUrl + config.pathPrefix + postPath;
   const iconSize = mobile ? 36 : 48;
   const filter = count => (count > 0 ? count : "");
-
   const {
     FacebookShareButton,
     GooglePlusShareButton,
@@ -17,8 +16,6 @@ const SocialLinks = ({ postNode, postPath, mobile }) => {
     PinterestShareButton,
     RedditShareButton,
     TumblrShareButton,
-    VKShareButton,
-    OKShareButton,
   } = ShareButtons;
 
   const FacebookIcon = generateShareIcon("facebook");
@@ -28,8 +25,6 @@ const SocialLinks = ({ postNode, postPath, mobile }) => {
   const PinterestIcon = generateShareIcon('pinterest');
   const RedditIcon = generateShareIcon("reddit");    
   const TumblrIcon = generateShareIcon('tumblr');
-  const VKIcon = generateShareIcon('vk');
-  const OKIcon = generateShareIcon('ok');
 
   const {
     FacebookShareCount,
@@ -38,8 +33,6 @@ const SocialLinks = ({ postNode, postPath, mobile }) => {
     PinterestShareCount,
     RedditShareCount,
     TumblrShareCount,
-    VKShareCount,
-    OKShareCount
   } = ShareCounts;
 
   return (
@@ -89,20 +82,6 @@ const SocialLinks = ({ postNode, postPath, mobile }) => {
           {count => <div className="share-count">{filter(count)}</div>}
         </TumblrShareCount>
       </TumblrShareButton>
-
-      <VKShareButton className="social-button" url={url} title={post.title} description={postNode.excerpt} image={post.cover}>
-        <VKIcon round size={iconSize} />
-        <VKShareCount url={url}>
-          {count => <div className="share-count">{filter(count)}</div>}
-        </VKShareCount>
-      </VKShareButton>
-
-      <OKShareButton className="social-button" url={url} title={post.title} description={postNode.excerpt} image={post.cover}>
-        <OKIcon round size={iconSize} />
-        <OKShareCount url={url}>
-          {count => <div className="share-count">{filter(count)}</div>}
-        </OKShareCount>
-      </OKShareButton>
     </div>
   );
 }

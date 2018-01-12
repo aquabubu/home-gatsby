@@ -4,5 +4,5 @@ module.exports = {
   'baby': "Baby",  
   'travel': "Travel",
   'cuisine': "Cuisine",
-  'beauty': "Beauty",
+  'beauty': "Beauty"
 };

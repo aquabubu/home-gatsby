@@ -5,7 +5,7 @@ import { Menu, Icon, Sidebar } from "semantic-ui-react";
 import { toggleSidebar } from "../../store";
 
 const SidebarMenu = ({ pathname, items, langKey, visible, dispatch }) => {
-  const messages = require(`../../../data/messages/${langKey}`);
+  const menu = require(`../../../data/menu/${langKey}`);
 
   return (
     <Sidebar 
@@ -17,7 +17,7 @@ const SidebarMenu = ({ pathname, items, langKey, visible, dispatch }) => {
       vertical 
     >
       {items.map((item) => {
-        const itemName = messages[item.name];
+        const itemName = menu[item.name];
         const itemPath = `/${langKey}${item.path}`
         const isActive = pathname === itemPath;
 

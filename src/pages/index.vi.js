@@ -15,7 +15,7 @@ const HomePage = () => {
       <Segment inverted vertical textAlign="center" className="masthead">
         <img src='/images/home-banner.png' alt="" />
         <Header as="h1">Chào mừng đến với AquaBuBu Website!</Header>
-        <Header as="h2">Be Hypnotic and Paranoid</Header>
+        <Header as="h2">{config.siteDescription}</Header>
       </Segment>
 
       <Segment vertical className="stripe alternate feature">

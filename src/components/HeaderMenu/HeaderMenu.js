@@ -5,7 +5,7 @@ import { Container, Menu, Flag } from "semantic-ui-react";
 import { toggleSidebar } from "../../store";
 
 const HeaderMenu = ({ pathname, items, langKey, langsMenu, dispatch }) => {
-  const messages = require(`../../../data/messages/${langKey}`);
+  const menu = require(`../../../data/menu/${langKey}`);
 
   return (
     <Container>
@@ -15,7 +15,7 @@ const HeaderMenu = ({ pathname, items, langKey, langsMenu, dispatch }) => {
           <img src='/logos/logo-menu.png' alt="" />
         </Menu.Item>
         {items.map((item) => {
-          const itemName = messages[item.name];
+          const itemName = menu[item.name];
           const itemPath = `/${langKey}${item.path}`
           const isActive = pathname === itemPath;
 
@@ -35,7 +35,7 @@ const HeaderMenu = ({ pathname, items, langKey, langsMenu, dispatch }) => {
         <Menu.Menu position='right'>
           {langsMenu.map((item) => {
             return (
-              <Menu.Item as={Link} to={`${item.link}`}>
+              <Menu.Item as={Link} to={item.link} key={item.langKey}>
                 <Flag name={item.langKey === 'en' ? 'us' : 'vn'} />
               </Menu.Item>
             );

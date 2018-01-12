@@ -6,18 +6,16 @@ module.exports = {
   siteUrl: "https://aquabubu.com", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   fixedFooter: false, // Whether the footer component is fixed, i.e. always visible
-  siteDescription: "Be Hypnotic and Paranoid with AquaBuBu.", // Website description used for RSS feeds/meta description tag.
+  siteDescription: "Be Hypnotic and Paranoid", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "", // FB Application ID for using app insights
-  siteGATrackingID: "", // Tracking code ID for google analytics.
-  disqusShortname: "", // Disqus shortname.
+  siteGATrackingID: "UA-109856440-1", // Tracking code ID for google analytics.
+  disqusShortname: "aquabubu-com", // Disqus shortname.
   postDefaultCategoryID: "Tech", // Default category for posts.
   userName: "AquaBuBu", // Username to display in the author segment.
   userTwitter: "", // Optionally renders "Follow Me" in the UserInfo segment.
-  userLocation: "Korea, Earth", // User location to display in the author segment.
+  userLocation: "Earth", // User location to display in the author segment.
   userAvatar: "/images/about.png", // User avatar to display in the author segment.
-  userDescription:
-    "I like walking in the rain cause no one knows I'm peeing...just kidding, I don't even like rain. But I like to share my life experiences with you. Hope you enjoy this blog. Mình thích đi bộ trong mưa vì không ai biết mình đang *è ra quần...đùa thôi, mình thậm chí còn không thích mưa nữa cơ. Nhưng mình thích chia sẻ những kinh nghiệm cuộc sống của mình. Hy vọng bạn thấy blog này hữu ích!", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
