@@ -80,3 +80,5 @@ Nằm bên cạnh bờ sông, chùa Bình Minh thật sự là một trong nh
 
 
 Phần tiếp theo của chuyến du lịch Bangkok mình sẽ viết ở <a href="http://aquabubu.com/blog/travel/Du-lich-Bangkok-Phan-2/" target="_blank">đây </a>nhé.
+
+#### *Đồng tác giả: Ngọc Cát My* 

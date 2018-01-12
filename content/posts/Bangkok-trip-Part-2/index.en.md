@@ -98,3 +98,5 @@ The **Bangkok Mass Transit System**, commonly known as the BTS or the Skytra
 
 
 You'd better **check the weather in Bangkok before going there**. On a not too hot sunny day, you can have many beautiful photos. This is the end of my trip to Bangkok. Hope it can help you guys have an overall view of this capital city of Thailand if you wanna travel here.
+
+#### *Co-author: Ngoc Cat My* 

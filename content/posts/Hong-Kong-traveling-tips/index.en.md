@@ -63,3 +63,5 @@ The list below is the **money that needed** for this trip. Of course, it's diffe
 **Transportation** (MTR-bus-ferry-peak tram, airport express): ~HK$446
 
 **Eating, gifts, other spendings**: ~HK$1100
+
+#### *Co-author: Ngoc Cat My* 

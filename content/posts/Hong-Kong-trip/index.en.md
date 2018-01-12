@@ -252,3 +252,5 @@ There is one room for different types of goldfish. There are also Brazilian spid
 
 
 So, this is the end of my Hong Kong trip.  You can also take a look at my posts of  <a href="http://aquabubu.com/blog/cuisine/Hong-Kong-cuisine/" target="_blank">Hong Kong food review</a> and  <a href="http://aquabubu.com/blog/travel/Hong-Kong-traveling-tips/" target="_blank"> traveling tips</a>. Hope you'll find it helpful if you plan to go to Hong Kong.
+
+#### *Co-author: Ngoc Cat My* 

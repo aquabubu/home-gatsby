@@ -99,3 +99,5 @@ Có **2 loại xe buýt** ở Thái Lan (3-4 baht đến 6-7 baht): có và khô
 
 
 Nhớ là luôn kiểm tra thời thiết để đi chơi được thoải mái và chụp được nhiều hình đẹp nhé!
+
+#### *Đồng tác giả: Ngọc Cát My*

@@ -68,3 +68,5 @@ Danh sách dưới đây là **khoản tiền cần chi** cho chuyến đi này.
 **Ăn uống, quà cáp, chi tiêu linh tinh**: tùy vào việc mua nhiều hay ít nhé, mình dùng khoảng 3.000.000 VND
 
 **VISA**: Có 2 loại Visa HongKong, 1 loại của chính HK (màu đỏ hồng, dọc) và 1 loại của China (màu xanh, ngang). Tầm $90-120, search trên mạng chỗ làm nhé và nên làm 1 tháng trước khi bay.
+
+#### *Đồng tác giả: Ngọc Cát My*

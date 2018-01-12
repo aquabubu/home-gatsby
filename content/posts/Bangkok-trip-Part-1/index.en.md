@@ -80,3 +80,5 @@ Located next to the waterfront, Wat Arun truly becomes one of the great attracti
 
 
 This is the first part of the trip and the rest will be posted <a href="http://aquabubu.com/blog/travel/A-trip-to-Bangkok-Part-2/" target="_blank">here </a>.
+
+#### *Co-author: Ngoc Cat My* 

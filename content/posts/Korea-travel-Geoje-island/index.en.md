@@ -1,6 +1,6 @@
 ---
 title: Korea travel - Geoje island (거제도)
-cover: /images/evlbg.png
+cover: /images/geojetrip.png
 date: 2017/10/03
 category: Travel
 tags:
