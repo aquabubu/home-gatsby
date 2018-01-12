@@ -25,22 +25,52 @@ In this post, I would like to introduce my trip to Geoje Island and share some e
 
 This is a famous beach in Geoje. The beach doesn't have white sand but full of pebbles. The locals say that these pebbles are as beautiful as the black pearls but I see them so-so. In fact, the pebbles here are mostly blue or dark blue, when the waves hit them, they get wet and change to "black pebbles". But the long beach looks nice, clean and clear. My family came here to play and pick up some pebbles.
 
+<figure>
+  <img src="./geoje1.png">
+  <figcaption style="font-size: 17px; align="center"> <span style="color:deepskyblue"> </figcaption>
+</figure>
+
 Gujora beach is beautiful with the long sandy beach and very clean seawater under the blue sky. I took many beautiful photos here. :smile:
 
 ## <span style="color:deepskyblue"> Windy Hill (바람 의 언덕) </span>
+
+<figure>
+  <img src="./geoje2.png">
+  <figcaption style="font-size: 17px; align="center"> <span style="color:deepskyblue"> </figcaption>
+</figure>
 
 This is a must-go place in Geoje island. The sceneries are so peaceful and wonderful except too many people here. Unfortunately, I went here on Chusoek holiday (Mid-Autumn Festival, the most feast in Korea) and the time wasn't right so many people + dark sky due to sunset. If you go there, I recommend you go earlier at around 7-8 a.m.
 
 ## <span style="color:red"> Geoje Shipbuilding Marine Cultural Center (조선해양전시관) </span>
 
+<figure>
+  <img src="./geoje3.png">
+  <figcaption style="font-size: 17px; align="center"> <span style="color:deepskyblue"> </figcaption>
+</figure>
+
 If you would like to know how the Korean shipbuilding in, this might be the right place to visit. This is a typical Korean Cultural center with lots of Information. It’s quite interesting but not many things to see. This place is suitable for families that have kids since there's a pretty big ship-themed children's playroom inside that can be much more enjoyable.
 Outside the center, there is a model of Korean's famous turtle ship (거북선) that appeared in the Korean movie **The Admiral: Roaring Currents**. This movie is based on the historical battle of Myeongnyang, quite interesting movie.
+
+<figure>
+  <img src="./geoje3-1.png">
+  <figcaption style="font-size: 17px; align="center"> <span style="color:deepskyblue"> </figcaption>
+</figure>
 
 ## <span style="color:green"> Oedo Botania (외도 보타니아) and Haekeumkang (해금강) </span>
 
 This is the **Oedo botanical garden** on a small island. From Geoje Island, you can take a ferry ride to this island. Oedo Botania is a green plant paradise with more than 3,000 species of plants, very diverse and many strange plants. This place is worth to go. This island only has a cafe and a small souvenir shop. On the way back from Oedo Botania Garden, you will see the natural rocky island called Haekumkang. This is considered to be the second most famous landmark in Geoje and has ecological conservation value. Frankly, there are many people in the ferry want to see it so it's a bit uncomfortable.
 
+<figure>
+  <img src="./geoje4.png">
+  <figcaption style="font-size: 17px; align="center"> <span style="color:deepskyblue"> </figcaption>
+</figure>
+
 ### About Oedo
+
+<figure>
+  <img src="./geoje5.png">
+  <figcaption style="font-size: 17px; align="center"> <span style="color:deepskyblue"> </figcaption>
+</figure>
 
 When the owners Changho Lee and Hosook Choi moved there in 1973, they tried to grow tangerines and raise pigs farm - but both failed. In 1976, they thought of creating a tourist island. In a long time from 1976 to 1994, the island was converted into a botanical garden and was opened in 1995.
 
@@ -58,10 +88,25 @@ For those who are fans of the K-drama **Winter Sonata**, botanical garden Oedo B
 
 ## <span style="color:darkcyan"> Memisong (매미성) </span>
 
+<figure>
+  <img src="./geoje6.png">
+  <figcaption style="font-size: 17px; align="center"> <span style="color:deepskyblue"> </figcaption>
+</figure>
+
 Memisong is like a European castle made of stone. Its location next to the coast makes this place ideal for great photoshoots. It is said that in the old days, there was a big storm so a family was drifted to this island, then they built this castle.
+
+<figure>
+  <img src="./geoje6-1.png">
+  <figcaption style="font-size: 17px; align="center"> <span style="color:deepskyblue"> </figcaption>
+</figure>
 
 This place is just like a fairytale castle, so beautiful. But few foreign tourists know this place, mainly Korean people know. I heard in Geoje there are quite a lot of hidden nice places. I really like this place, during my trip to Geoje, I like this place most, but when I was there, it's also crowded. : laughing:
 
 ## <span style="color:orangered"> Pension </span>
+
+<figure>
+  <img src="./geoje7.png">
+  <figcaption style="font-size: 17px; align="center"> <span style="color:deepskyblue"> </figcaption>
+</figure>
 
 I came to Geoje by car so I was able to drive along the coast and visit any places and time schedule was flexible. I rent a pension in the south of the island called **Geoje Cheonnyeon Miso pension (거제 천년 의 미소 펜션)**. Right next to the pension is a small pebbles beach, quite similar to the Hakdong Mongdol beach, but smaller and not that beautiful. As the pension is in the south, I can't watch the sunrise, and it's so far from Okpo neighborhood that I couldn't go anywhere at night, just walk around the beach near my pension. If you travel there, I think it's better to choose a hotel near Okpo neighborhood.
