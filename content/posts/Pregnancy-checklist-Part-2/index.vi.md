@@ -28,7 +28,7 @@ Sắm sửa đồ cho bé yêu là việc làm yêu thích của mình.
 Bé nhà mình sinh vào cuối mùa đông bên Hàn nên cần dùng sữa dưỡng ẩm và kem mặt, nếu không là da bé khô lắm. Còn ở Việt Nam thì thời tiết tương đối nóng ẩm nên chắc các mẹ không cần mua đâu. 
 
 
-Có rất nhiều hang baby mà các mẹ có thể mua sữa tắm gội cho bé như là Aveeno, Green Finger, Dr. Ato, Double Heart… nhưng khi bé mới sinh thì các mẹ chú ý mua những hãng đáng tin cậy, lựa chọn loại an toàn cho da của bé, gần đây mình không tin tưởng Johnson lắm. Mình nghĩ nên mua loại sữa tắm gội chung, sẽ rất tiện lợi.
+Có rất nhiều hãng baby mà các mẹ có thể mua sữa tắm gội cho bé như là Aveeno, Green Finger, Dr. Ato, Double Heart… nhưng khi bé mới sinh thì các mẹ chú ý mua những hãng đáng tin cậy, lựa chọn loại an toàn cho da của bé, gần đây mình không tin tưởng Johnson lắm. Mình nghĩ nên mua loại sữa tắm gội chung, sẽ rất tiện lợi.
 
 
 <figure style="width: 300px" class="align-center">
@@ -160,9 +160,9 @@ Mình mua áo quần cho trẻ sơ sinh loại ngắn tay + dài tay. Lúc mình
 Áo liền quần thì nên mua loại cài nút khi bé dưới 3 tháng tuổi vì cổ bé còn yếu, lúc mặc sẽ khó khăn. Còn loại chui cổ thì trên 3 tháng mặc là được rồi. Lúc cho bé ra ngoài chơi mình thích mặc áo liền quần cho bé, vì ẵm bế nhiều mà mặc áo quần riêng thì hay bị bung ra lắm. Lúc bé ngủ mặc áo liền quần cũng thích vì bé không chịu đắp mền.
 
 
-### <span style="color:olivedrab"> Vớ tay + vớ chân + Nón </span>
+### <span style="color:olivedrab"> Bao tay + vớ chân + Nón </span>
 
-Vớ tay + vớ chân thì mỗi thứ mua 5-6 đôi là được rồi, các mẹ mua cùng 1 màu hết thì thay tiện lắm :smile:
+Bao tay + vớ chân thì mỗi thứ mua 5-6 đôi là được rồi, các mẹ mua cùng 1 màu hết thì thay tiện lắm :smile:
 
 
 <figure style="width: 300px" class="align-center">
