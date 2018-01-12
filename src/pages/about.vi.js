@@ -13,11 +13,11 @@ const AboutPage = () => {
       <About>
         <p>
           <h3>Aqua</h3>
-          Aqua loves traveling and exploring wonderful places, meeting people and enjoying delicious foods. She loves to share her experiences and wants to enjoy every meaningful moment of life.
+          Aqua thích đi du lịch và khám phá những nơi tuyệt vời, gặp gỡ mọi người và thưởng thức các món ăn ngon. Cô ấy muốn chia sẻ kinh nghiệm của mình với mọi người và muốn tận hưởng mọi khoảnh khắc ý nghĩa của cuộc sống.
         </p>
         <p>
           <h3>BuBu</h3>
-          BuBu is a diligent programmer. He loves traveling, playing different musical instruments, improving skills and self-development. He teaches Aqua coding this blog and hopes there will be no bug.
+          BuBu là một lập trình viên siêng năng. Anh ấy thích đi du lịch, chơi nhiều loại nhạc cụ khác nhau (dù chơi không hay^^), nâng cao và phát triển các kỹ năng. Anh ấy chỉ Aqua code trang blog này và hy vọng sẽ không phải sửa lỗi cho cô ấy.
         </p>
       </About>
     </div>
