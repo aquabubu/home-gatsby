@@ -17,7 +17,13 @@ tags:
   - black-pebble-beach
 ---
 
-Geojedo hay đảo Geoje là hòn đảo chính của thành phố Geoje, nằm trên bờ biển phía nam của tỉnh Gyeongsang Nam. Đây là đảo lớn thứ hai của Hàn Quốc, chỉ sau đảo Jeju. Đảo Geoje bao gồm nhiều đảo lớn, nhỏ với bờ biển xanh ngắt cùng nhiều điểm đến hấp dẫn trên đảo. Geoje được nối với Busan bằng cây cầu dài 8,2 km và một đường hầm thông dưới biển nên giao thông khá thuận lợi.  
+Geojedo hay đảo Geoje là hòn đảo chính của thành phố Geoje, nằm trên bờ biển phía nam của tỉnh Gyeongsang Nam. Đây là đảo lớn thứ hai của Hàn Quốc, chỉ sau đảo Jeju. Đảo Geoje bao gồm nhiều đảo lớn, nhỏ với bờ biển xanh ngắt cùng nhiều điểm đến hấp dẫn trên đảo. Geoje được nối với Busan bằng cây cầu dài 8,2 km và một đường hầm thông dưới biển nên giao thông khá thuận lợi. 
+
+<figure>
+  <img src="./geojemap.png">
+  <figcaption style="font-size: 17px; align="center"> <span style="color:deepskyblue"> </figcaption>
+</figure>
+
 Trong bài viết này, mình xin giới thiệu chuyến đi chơi ở đảo Geoje và chia sẻ kinh nghiệm của mình với những địa điểm tham quan nổi tiếng và các nhà hàng mình đã ăn ở nơi này.
 
 ## <span style="color:mediumviolet"> Bãi đá đen Hakdong Mongdol (학동몽돌해변) &  Bãi tắm Gujora (구조라해수욕장) </span> 
@@ -96,7 +102,7 @@ Memisong có kiến trúc giống như một tòa thành ở châu Âu, làm b�
   <figcaption style="font-size: 17px; align="center"> <span style="color:deepskyblue"> </figcaption>
 </figure>
 
-Chỗ này tuy đẹp nhưng lại ít có du khách nước ngoài biết đến lắm nhé, chủ yếu là người Hàn biết thôi. Mình nghe nói ở Geoje có khá nhiều địa điểm bí mật. Mình rất thích chỗ này, trong cả chuyến đi Geoje của mình thì mình thích chỗ này nhất đấy, mà xui cái lúc mình đi cũng có khá đông người. :laughing:
+Chỗ này tuy đẹp nhưng lại ít có du khách nước ngoài biết đến lắm nhé, chủ yếu là người Hàn biết thôi. Mình nghe nói ở Geoje có khá nhiều địa điểm bí mật. Mình rất thích chỗ này, trong cả chuyến đi Geoje của mình thì mình thích chỗ này nhất đấy, mà xui cái lúc mình đi cũng có khá đông người.:laughing:
 
 ## <span style="color:orangered"> Nhà nghỉ - Pension </span>
 

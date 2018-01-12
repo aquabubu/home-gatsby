@@ -19,6 +19,11 @@ tags:
 
 Geojedo or Geoje island is the main island of Geoje City, located on the southern coast of Gyeongsangnam Province. This is Korea's second largest island, after Jeju Island. Geoje Island consists of many large and small islands with the blue coast and many attractions on them. Geoje is connected to Busan by an 8.2 km long bridge and a tunnel under the sea so the traffic is quite convenient.
 
+<figure>
+  <img src="./geojemap.png">
+  <figcaption style="font-size: 17px; align="center"> <span style="color:deepskyblue"> </figcaption>
+</figure>
+
 In this post, I would like to introduce my trip to Geoje Island and share some experiences of places that I visited. For the foods and restaurants on Geojedo, please take a look here.
 
 ## <span style="color:mediumviolet"> Hakdong Mongdol Beach (학동몽돌해변) &  Gujora Beach (구조라해수욕장) </span> 
@@ -100,7 +105,7 @@ Memisong is like a European castle made of stone. Its location next to the coast
   <figcaption style="font-size: 17px; align="center"> <span style="color:deepskyblue"> </figcaption>
 </figure>
 
-This place is just like a fairytale castle, so beautiful. But few foreign tourists know this place, mainly Korean people know. I heard in Geoje there are quite a lot of hidden nice places. I really like this place, during my trip to Geoje, I like this place most, but when I was there, it's also crowded. : laughing:
+This place is just like a fairytale castle, so beautiful. But few foreign tourists know this place, mainly Korean people know. I heard in Geoje there are quite a lot of hidden nice places. I really like this place, during my trip to Geoje, I like this place most, but when I was there, it's also crowded.:laughing:
 
 ## <span style="color:orangered"> Pension </span>
 
