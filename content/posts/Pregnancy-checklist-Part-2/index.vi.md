@@ -5,17 +5,12 @@ date: 2017/12/19
 category: Baby
 tags:
   - Baby
-  - pregnancy-checklist
-  - baby-clothes
-  - diaper
-  - baby-wet-tissue
-  - baby-lotion
-  - baby-bath-shampoo
-  - sua-tam-goi-cho-be
+  - pregnant
+  - checklist
+  - what-to-do
   - mang-thai
-  - me-bau
-  - vat-dung-can-thiet
   - be-yeu
+  - chuan-bi-do
 ---
 
 ## Đồ cho bé yêu

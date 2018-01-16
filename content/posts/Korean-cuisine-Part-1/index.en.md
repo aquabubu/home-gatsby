@@ -5,18 +5,10 @@ date: 2014/03/17
 category: Cuisine
 tags:
   - Cuisine
-  - korean-cuisine
-  - korean-food
+  - korean
   - what-to-eat
-  - am-thuc-han-quoc
-  - bibimbab
-  - guksu
-  - kimchi
-  - naengmyeon
-  - bokkeumbab
-  - jjigae
-  - samgyetang
-  - ga-ham-sam
+  - am-thuc
+  - han-quoc
 ---
 
 When traveling to Korea, visitors will not only see outstanding sceneries and landmarks but also explore a wide range of unique and delicious Korean food. Therefore, I will introduce the Korean cuisine in this post, and show you some delicious dishes that you should try if you plan to travel there.

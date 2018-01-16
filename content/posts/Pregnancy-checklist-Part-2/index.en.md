@@ -5,17 +5,12 @@ date: 2017/12/19
 category: Baby
 tags:
   - Baby
-  - pregnancy-checklist
-  - baby-clothes
-  - diaper
-  - baby-wet-tissue
-  - baby-lotion
-  - baby-bath-shampoo
-  - sua-tam-goi-cho-be
+  - pregnant
+  - checklist
+  - what-to-do
   - mang-thai
-  - me-bau
-  - vat-dung-can-thiet
   - be-yeu
+  - chuan-bi-do
 ---
 
 In the last post, I have introduced you my <a href="http://aquabubu.com/blog/baby/Pregnancy-checklist-Part-1/" target="_blank">pregnacy checklist for mom</a>, And now is what you need to prepare for your beloved baby.

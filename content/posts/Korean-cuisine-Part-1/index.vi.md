@@ -5,18 +5,10 @@ date: 2014/03/17
 category: Cuisine
 tags:
   - Cuisine
-  - korean-cuisine
-  - korean-food
+  - korean
   - what-to-eat
-  - am-thuc-han-quoc
-  - bibimbab
-  - guksu
-  - kimchi
-  - naengmyeon
-  - bokkeumbab
-  - jjigae
-  - samgyetang
-  - ga-ham-sam
+  - am-thuc
+  - han-quoc
 ---
 
 Khi đi du lịch đến Hàn Quốc, các bạn sẽ không chỉ nhìn thấy những cảnh quan tuyệt vời mà còn được thưởng thức một nền ẩm thực đa dạng độc đáo của xứ sở Kimchi. Bạn nào xem phim Hàn thì sẽ thấy có rất nhiều cảnh ăn uống và những món ăn hấp dẫn xuất hiện rất kích thích vị giác. Trong bài viết này, mình sẽ giới thiệu về các món ăn ở Hàn quốc mà bạn nên thử khi đến đây.

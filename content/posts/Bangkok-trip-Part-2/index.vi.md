@@ -6,13 +6,9 @@ category: Travel
 tags:
   - Travel
   - bangkok
-  - thailand
-  - watpho
-  - 방콕태국여행
+  - place-to-go
+  - kinh-nghiem-du-lich
   - du-lich
-  - grand-palace
-  - madametussauds
-  - thailand-oceanpark
 ---
 
 Bài viết này sẽ giới thiệu tiếp về các địa điểm du lịch ở Bangkok. Trong <a href="http://aquabubu.com/blog/travel/Du-lich-Bangkok-Phan-1/" target="_blank">phần 1</a>, mình đã giới thiệu về một vài nơi và dừng lại ở Chùa Bình Minh, và từ chỗ này, mình đã đến Wat Pho và Cung điện hoàng gia (Grand Palace).

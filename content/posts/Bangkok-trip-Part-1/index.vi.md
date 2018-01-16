@@ -6,13 +6,9 @@ category: Travel
 tags:
   - Travel
   - bangkok
-  - thailand
-  - 방콕
-  - 태국
+  - place-to-go
+  - kinh-nghiem-du-lich
   - du-lich
-  - cho-noi-tailingchan
-  - wat-pho
-  - thai-lan
 ---
 
 Trong bài viết này, mình xin phép chia sẻ một số thông tin về chuyến đi của mình tới **Bangkok** - Thái Lan. Hy vọng nó sẽ hữu ích cho những bạn đang có kế hoạch đi du lịch ở đó.

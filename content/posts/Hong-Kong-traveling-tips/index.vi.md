@@ -5,14 +5,9 @@ date: 2015/05/15
 category: Travel
 tags:
   - Travel
-  - hongkong-tips
-  - travel-exspense
-  - kinh-nghiem
-  - hong-kong
-  - chi-phi
-  - an-uong
-  - what-to-bring
-  - chuan-bi-do
+  - hongkong
+  - traveling-tips
+  - kinh-nghiem-du-lich
 ---
 
 <figure style="width: 400px" class="align-center">

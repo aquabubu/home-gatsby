@@ -6,13 +6,9 @@ category: Travel
 tags:
   - Travel
   - bangkok
-  - thailand
-  - watpho
-  - 방콕태국여행
+  - place-to-go
+  - kinh-nghiem-du-lich
   - du-lich
-  - grand-palace
-  - madametussauds
-  - thailand-oceanpark
 ---
 
 Let's continue to see the places in Bangkok. So, in the <a href="http://aquabubu.com/blog/travel/A-trip-to-Bangkok-Part-1/" target="_blank">last post </a>, I talked about some places and stopped at the Wat Arun and from there, I went to Wat Pho and Grand Palace.

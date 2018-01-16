@@ -5,13 +5,11 @@ date: 2017/01/09
 category: Beauty
 tags:
   - Beauty
+  - makeup
   - iope
-  - air-cusion
-  - base-makeup
-  - korean-cosmetic
-  - phan-nuoc
+  - cosmetic
   - trang-diem
-  - mi-pham-han-quoc
+  - mi-pham
 ---
 
 It can’t be denied that wearing makeup gives us a beautiful out-looking and make us feel more confident when going out. And recently in Korea, the cushion appears as the savior for those who need the natural and thin-layer makeup. And more than that, it can give you a natural dewy makeup as many Korean celebrities.

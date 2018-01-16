@@ -5,14 +5,11 @@ date: 2016/05/05
 category: Beauty
 tags:
   - Beauty
+  - skincare
   - innisfree
-  - soybean-energy-essence
-  - korean-cosmetic
-  - skin-care
-  - innisfree
-  - tinh-chat-duong-dau-nanh
-  - my-pham-han
+  - tinh-chat-duong
   - duong-da
+  - essence
 ---
 
 If you are chasing the perfect skincare routine like most Korean girls, then one important step that you can’t miss is the essence. So what is Korean essence? Many people mistake it with the serum, so these are the differences: essences in Korea are watery, so they should be patted on your face after toner (usually called skin in Korea); thicker than serum but they both contain high concentrations of active ingredients. Anyway, today my topic is about Innisfree Soybean Energy Essence 150ml. It is sold at 35,000krw (~$35), but I got it when the brand offers 30% discount so it was just 24,500krw (~$24). I bought it at the store, but it’s also available online.

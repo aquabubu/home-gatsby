@@ -5,13 +5,10 @@ date: 2016/10/12
 category: Travel
 tags:
   - Travel
+  - japan
+  - place-to-go
   - du-lich
   - nhat-ban
-  - cong-vien-nara
-  - nara-deer-park
-  - japan
-  - 나라사슴공원
-  - 일본여행
 ---
 
 I’m gonna review about the **<span style="color:green"> Nara Deer Park </span>**, which is a pleasant and spacious park with freely roaming deer – one of the places I have been on my trip to Japan.

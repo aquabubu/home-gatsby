@@ -5,16 +5,11 @@ date: 2017/10/03
 category: Travel
 tags:
   - Travel
-  - oedo-botania
-  - geoje
-  - korea
+  - Korea
+  - place-to-go
+  - island
   - du-lich
   - han-quoc
-  - 여행
-  - windyhill
-  - memisong
-  - gujora
-  - black-pebble-beach
 ---
 
 Geojedo or Geoje island is the main island of Geoje City, located on the southern coast of Gyeongsangnam Province. This is Korea's second largest island, after Jeju Island. Geoje Island consists of many large and small islands with the blue coast and many attractions on them. Geoje is connected to Busan by an 8.2 km long bridge and a tunnel under the sea so the traffic is quite convenient.

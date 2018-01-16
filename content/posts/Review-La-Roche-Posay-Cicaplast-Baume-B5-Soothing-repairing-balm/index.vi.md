@@ -5,14 +5,10 @@ date: 2017/04/19
 category: Beauty
 tags:
   - Beauty
-  - la-roche-posay
-  - cicaplast-baume-b5
-  - moisturizer
-  - skin-care
-  - 라로슈포제
-  - 스킨케어
-  - kem-duong-am
-  - cham-soc-da-kho
+  - skincare
+  - larocheposay
+  - cream
+  - kem-duong-da
 ---
 
 Cứ khi nào mùa đông đến là da mặt của mình khô ơi là khô, không dưỡng ẩm đàng hoàng là còn bị tróc da nữa, mà da thì đang bị mụn. Rồi cứ nghĩ xem nên dùng loại dưỡng ẩm nào là nhức cả đầu, vì còn có cái tật thích xài thử nhiều loại khác nhau nữa. :sweat_smile: Sau đó, mình được bạn giới thiệu kem dưỡng <span style="color:deepskyblue">**Cicaplast Baume B5 của hãng La Roche-Posay**</span>, thế là mua ngay một tuýp 100ml tại cửa hàng Oliveyoung về. Sau một thời gian sử dụng, hôm nay mình sẽ review về nó nhé.

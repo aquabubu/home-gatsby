@@ -5,14 +5,11 @@ date: 2016/05/05
 category: Beauty
 tags:
   - Beauty
+  - skincare
   - innisfree
-  - soybean-energy-essence
-  - korean-cosmetic
-  - skin-care
-  - innisfree
-  - tinh-chat-duong-dau-nanh
-  - my-pham-han
+  - tinh-chat-duong
   - duong-da
+  - essence
 ---
 
 Chị em nào đã và đang theo đuổi các bước dưỡng da hằng ngày theo kiểu Hàn thì một bước quan trọng không thể bỏ lỡ là tinh chất dưỡng (essence). Mình cũng đang chăm sóc da theo kiểu Hàn nên viết ngay một bài review về tinh chất dưỡng Innisfree Soybean Energy Essence 150ml.

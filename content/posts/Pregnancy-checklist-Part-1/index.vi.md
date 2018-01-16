@@ -5,13 +5,12 @@ date: 2017/12/17
 category: Baby
 tags:
   - Baby
-  - pregnancy-chekclist
-  - bottle-warmer
-  - sterilizer
-  - thermometer
+  - pregnant
+  - checklist
+  - what-to-do
   - mang-thai
-  - me-bau
-  - vat-dung-can-thiet
+  - be-yeu
+  - chuan-bi-do
 ---
 
 Khi mang thai các mẹ cần chuẩn bị rất nhiều thứ, không chỉ cần chuẩn bị về tâm lí mà còn phải mua nhiều vật dụng cần thiết sau này. Vì thế, mình sẽ liệt kê một số thứ mình đã chuẩn bị khi mang thai và mình thấy chúng khá là cần thiết. 

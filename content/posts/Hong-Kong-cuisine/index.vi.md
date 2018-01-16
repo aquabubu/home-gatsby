@@ -5,16 +5,9 @@ date: 2015/05/20
 category: Cuisine
 tags:
   - Cuisine
-  - hongkong-food-trip
-  - hongkong-cuisine
-  - food-paradise
-  - 홍콩음식
-  - am-thuc
   - hongkong
-  - an-gi
-  - mon-ngon
-  - an-uong
-  - thien-duong-an-uong
+  - what-to-eat
+  - am-thuc
 ---
 
 Với mình, những món ăn đa dạng là một trong những điều đáng nhớ nhất tại Hong Kong do đất nước này từng chịu ảnh hưởng là một thuộc địa của Anh và với lịch sử lâu đời của một cổng thương mại quốc tế. Ở đây có hàng loạt các món ăn ngon, được bán ở các quầy hàng ven đường cho đến những nhà hàng cao cấp nhất. Và sau khi thưởng thức những món ăn này, không khó để hiểu tại sao Hong Kong được mệnh danh là "Thiên dường ẩm thực" và "Hội chợ ẩm thực trên thế giới". Trong bài viết này, mình xin giới thiệu một số quán ăn mình đã thử khi đi du lịch Hong Kong và đánh giá chất lượng các món ăn ở đó.

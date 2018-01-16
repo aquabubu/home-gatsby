@@ -5,14 +5,10 @@ date: 2017/03/15
 category: Baby
 tags:
   - Baby
-  - premature-birth
-  - normal-vagina-delivery
-  - what-to-do-when-pregnancy
-  - lam-gi-khi-mang-thai
-  - cac-giai-doan-mang-thai
-  - du-lich-khi-mang-thai
-  - sinh-thuong-hay-sinh-mo
-  - dinh-duong-khi-mang-thai
+  - pregnant
+  - what-to-do
+  - mang-thai
+  - be yeu
 ---
 
 Sau khi dùng que thử thai và có được tin tốt, các mẹ sẽ làm gì nhỉ? - Tất nhiên là cần một số lời khuyên hoặc thông tin từ mẹ, bạn bè hoặc tìm kiếm những thông tin trên mạng để chắc chắn.

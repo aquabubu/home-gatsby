@@ -5,13 +5,10 @@ date: 2014/03/31
 category: Travel
 tags:
   - Travel
-  - everland
-  - theme-park
-  - korea
-  - 여행
+  - Korea
+  - place-to-go
   - du-lich
   - han-quoc
-  - cong-vien-chu-de
 ---
 
 If you want to go to South Korea and find a place to entertain – a bustling, funny and big enough for a whole day playing, why don’t you take a chance on Everland. It is a <span style="color:PaleVioletRed">**Korea's largest theme park** </span>, operated by SAMSUNG cooperation and located at the Everland Resort in Yongin City. Along with its main attractions, **Everland** includes a **zoo** and **water park** known as **Caribbean Bay**, but I’m not confidence wearing bikini so I just skip the Bay . I’ll show you in details about Everland theme park which has **5 different zones**: Global Fair, American Adventure, Magic Land, European Adventure, and Zootopia.

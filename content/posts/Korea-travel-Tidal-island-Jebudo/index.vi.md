@@ -5,12 +5,11 @@ date: 2014/07/20
 category: Travel
 tags:
   - Travel
-  - korea-travel
-  - jebudo-island
-  - tidal-island
-  - 제부도
-  - dao-Jebu
-  - du-lich-han-quoc
+  - Korea
+  - place-to-go
+  - island
+  - du-lich
+  - han-quoc
 ---
 
 Đất nước Hàn quốc có những hòn đảo mà bạn có thể đến được bằng cách đi xe chứ không cần đi tàu do chúng có đường biển lộ ra khi thủy triều rút. Những hòn đảo như vậy được gọi là **kỳ tích của Moses** (có lẽ do lấy cảm hứng từ câu chuyện ông Moses tách nước biển ra làm 2 để đoàn người Do Thái có thể băng qua, sau đó nước biển nhập lại nhấn chìm truy binh Ai Cập), và đảo Jebu (Jebudo - 제부도) là một trong số chúng.

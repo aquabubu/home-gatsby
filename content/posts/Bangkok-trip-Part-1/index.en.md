@@ -6,13 +6,9 @@ category: Travel
 tags:
   - Travel
   - bangkok
-  - thailand
-  - 방콕
-  - 태국
+  - place-to-go
+  - kinh-nghiem-du-lich
   - du-lich
-  - cho-noi-tailingchan
-  - wat-pho
-  - thai-lan
 ---
 
 I'm gonna share some information about my trip to **Bangkok** - Thailand. Hope it will be helpful for those who plan to travel there.

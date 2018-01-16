@@ -5,13 +5,12 @@ date: 2017/12/17
 category: Baby
 tags:
   - Baby
-  - pregnancy-chekclist
-  - bottle-warmer
-  - sterilizer
-  - thermometer
+  - pregnant
+  - checklist
+  - what-to-do
   - mang-thai
-  - me-bau
-  - vat-dung-can-thiet
+  - be-yeu
+  - chuan-bi-do
 ---
 
 The mother-to-be needs to prepare a lot of things, not only her psychological but also many needed items. So, I'm gonna list some things that were prepared during my pregnancy as I find them quite necessary.
@@ -102,3 +101,5 @@ This is also one of the necessary things to buy. Regular check your baby's tempe
 </figure>
 
 Because after vaccination, their temperature tend to increase that they may have a fever. For babies, having a fever is always dangerous. I bought Braun's thermometer and it can be used for both babies and adults.
+
+For baby clothes and things, check <a href="http://aquabubu.com/blog/baby/Nhung-thu-can-chuan-bi-khi-mang-thai-Phan-1/" target="_blank">here</a>.

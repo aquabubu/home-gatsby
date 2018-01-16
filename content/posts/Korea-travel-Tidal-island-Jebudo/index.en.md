@@ -5,12 +5,11 @@ date: 2014/07/20
 category: Travel
 tags:
   - Travel
-  - korea-travel
-  - jebudo-island
-  - tidal-island
-  - 제부도
-  - dao-Jebu
-  - du-lich-han-quoc
+  - Korea
+  - place-to-go
+  - island
+  - du-lich
+  - han-quoc
 ---
 
 In Korea, there are tidal islands that you can reach by car or bus when the tides are low. Such islands are also called **the miracle of Moses** in Korea (perhaps they are inspired by the story of Moses splitting the seawater so that the Jewish delegation can cross the sea), and Jebu Island (Jebudo - 제부도) is one of them.

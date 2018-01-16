@@ -5,14 +5,10 @@ date: 2017/04/21
 category: Beauty
 tags:
   - Beauty
-  - skin-care
-  - iope
-  - peeling-gel
   - skincare
+  - iope
+  - peeling
   - tay-da-chet
-  - korean
-  - cosmetic
-  - my-pham-han-quoc
   - duong-da
 ---
 

@@ -5,12 +5,11 @@ date: 2015/06/27
 category: Beauty
 tags:
   - Beauty
+  - skincare
   - laneige
   - sleeping-mask
-  - skincare-routine
   - mat-na-ngu
   - duong-da
-  - my-pham-han-quoc
 ---
 
 Today I’m gonna review about the famous Water Sleeping Mask of Laneige. I know there are already so many reviews about this mask but I really love it that I want to make my own review. The **Laneige Water Sleeping Mask** is a light blue plastic box with a small spatula to scoop up enough amount to use.

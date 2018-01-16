@@ -5,14 +5,10 @@ date: 2017/03/15
 category: Baby
 tags:
   - Baby
-  - premature-birth
-  - normal-vagina-delivery
-  - what-to-do-when-pregnancy
-  - lam-gi-khi-mang-thai
-  - cac-giai-doan-mang-thai
-  - du-lich-khi-mang-thai
-  - sinh-thuong-hay-sinh-mo
-  - dinh-duong-khi-mang-thai
+  - pregnant
+  - what-to-do
+  - mang-thai
+  - be yeu
 ---
 
 After checking the quick test and having good news, what will you do? - Of course you need some advice or information from your mother, friends or google things for sure.

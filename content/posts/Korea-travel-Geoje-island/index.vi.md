@@ -5,16 +5,11 @@ date: 2017/10/03
 category: Travel
 tags:
   - Travel
-  - oedo-botania
-  - geoje
-  - korea
+  - Korea
+  - place-to-go
+  - island
   - du-lich
   - han-quoc
-  - 여행
-  - windyhill
-  - memisong
-  - gujora
-  - black-pebble-beach
 ---
 
 Geojedo hay đảo Geoje là hòn đảo chính của thành phố Geoje, nằm trên bờ biển phía nam của tỉnh Gyeongsang Nam. Đây là đảo lớn thứ hai của Hàn Quốc, chỉ sau đảo Jeju. Đảo Geoje bao gồm nhiều đảo lớn, nhỏ với bờ biển xanh ngắt cùng nhiều điểm đến hấp dẫn trên đảo. Geoje được nối với Busan bằng cây cầu dài 8,2 km và một đường hầm thông dưới biển nên giao thông khá thuận lợi. 

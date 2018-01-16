@@ -5,12 +5,10 @@ date: 2017/05/05
 category: Cuisine
 tags:
   - Cuisine
-  - vietnamese-cuisine
-  - food-in-northern
-  - mon-ngon-mien-bac
+  - vietnam
+  - what-to-eat
   - bun-cha-obama
-  - what-to-eat-in-hanoi
-  - what-to-eat-in-vietnam
+  - mon-ngon
 ---
 
 Vietnam is originally an agricultural country belonging to the tropical monsoon region, and the territory of Vietnam is divided into three distinct regions: North, Central and South. It is the differences of geography, culture, ethnic group and climatic characteristics that define the specific characteristics of regional cuisine, contributing to the rich and varieties of Vietnamese cuisine. A characteristic that helps to distinguish Vietnam cuisine is people prefer delicious food to the nutritious food. So, their food is mainly focused on mixing the seasoning spices in order to cook delicious dishes.

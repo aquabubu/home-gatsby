@@ -5,17 +5,11 @@ date: 2016/10/17
 category: Travel
 tags:
   - Travel
-  - japan-travel
-  - fushimi
-  - inari-taisha
-  - redtorii-gates
-  - shrinesin
+  - japan
+  - place-to-go
   - kyoto
   - du-lich
   - nhat-ban
-  - den-tho
-  - 후시미이나리타이샤
-  - 일본여행
 ---
 
 <figure style="width: 650px" class="align-center">

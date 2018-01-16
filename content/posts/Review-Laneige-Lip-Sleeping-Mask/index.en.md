@@ -5,11 +5,10 @@ date: 2016/12/01
 category: Beauty
 tags: 
   - Beauty
-  - lips-sleeping-mask
+  - skincare
   - laneige
-  - mat-na-moi
+  - lip-mask
   - duong-moi
-  - vaseline-lip-mask
 ---
 
 <figure style="width: 400px" class="align-center">
