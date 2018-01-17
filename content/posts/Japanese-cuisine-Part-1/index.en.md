@@ -1,6 +1,6 @@
 ---
 title: Japanese cuisine - Part 1
-cover: /images/kcuisine.png
+cover: /images/jcuisine1.png
 date: 2016/10/15
 category: Cuisine
 tags:
