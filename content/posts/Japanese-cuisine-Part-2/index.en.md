@@ -1,7 +1,7 @@
 ---
-title: Japanese cuisine - Part 1
-cover: /images/jcuisine1.png
-date: 2016/10/15
+title: Japanese cuisine - Part 2
+cover: /images/jcuisine2.png
+date: 2016/11/15
 category: Cuisine
 tags:
   - Cuisine
@@ -11,65 +11,94 @@ tags:
   - am-thuc
 ---
 
-Japanese cuisine usually emphasizes the fresh and pure taste of their food. The taste of Japanese dishes is often mild, delicious and suitable for their natural season. Due to the location surrounded by the sea, seafood and seaweed occupy a large part of the Japanese food. In addition, processed foods from soybeans are also a special point in Japanese cuisine. 
+In the <a href="http://aquabubu.com/en/Japanese-cuisine-Part-1/" target="_blank">previous post</a>, I have introduced the main food in Japan. Now, let's continue with their unique street food.^^
 
-As for the drink, the Japanese are famous for their tea blends, especially the pure green tea powder made by the Zen master - the main tea for tea ceremonies. High-grade sakamai rice alcohol called sake, derived from the rituals of the Shinto is also very popular. Besides, Japanese dishes also reflect the sophisticated aesthetic thought and craftsmanship of the cook when decorating the dishes, so that guests can see the beauty of the food container as well.
+### <span style="color:royalblue">Okonomiyaki (お好み焼き)</span>
 
-Below is the list of some tasty and special dishes in Japan that one can’t miss when being there.
+<figure style="width: 600px" class="align-center">
+  <img src="./okonomiyaki.png" alt="">
+  <figcaption></figcaption>
+</figure>
 
+Okonomiyaki is a savory pancake filled with any number of things (but usually cabbage and pork), mixed into a batter and grilled. It is topped with fish flakes, dried seaweed, mayonnaise and a Worcester-style sauce. So delicious! This one is one of my favorites in my Japan trip. 
 
-## <span style="color:navy"> Rice (Gohan - ご飯) </span>
+### <span style="color:coral">Yakitori (焼鳥)</span >
 
-Rice is the main food of the Japanese that can be used for wrapping in dry seaweed sheet or forming sushi, which is considered as Japanese specialties.
+<figure style="width: 600px" class="align-center">
+  <img src="./yakitori.png" alt="">
+  <figcaption></figcaption>
+</figure>
 
-<img align="right" style="width:250px; padding: 10px" src="./bento.png"> **Bento (弁当)** – when going out, the Japanese often make a box of rice (bento) including foods from the forest and the sea that consist of rice (or onigiri), fish (or meat), vegetables and dessert.
+This is the charcoal grilled chicken. Nearly every part of the chicken is on the menu, all grilled to perfection, seasoned with either shio (salt) or tare (a sweet soy sauce-based sauce) and served with a side of friendly banter. Taste good, but nothing’s special. However, you should try if this is your first time here.
 
-<img align="left" style="width:250px; padding: 10px" src="./donburi.png"> **Donburi (ドンブリ)** - consisting of fish, meat, vegetables or other ingredients simmered together and served over rice. It’s served with a miso soup.
+### </span><span style="color:darkturquoise">Nikuman (ニクマン)</span>
 
-<img align="right" style="width:250px; padding: 10px" src="./onigiri.png"> **Onigiri (おにぎり)** – made from white rice formed into triangular or cylindrical shapes and often wrapped in nori (seaweed).
+<img align="right" style="width:250px; padding: 10px" src="./nikuman.png"> Nikuman is the Japanese name for Chinese Baozi dumplings filled with pork. It tastes goods but I prefer the taste of dumplings in Vietnam.
 
-<img align="left" style="width:250px; padding: 10px" src="./tonkatsu.png"> **Tonkatsu (トンカツ)** – consists of a breaded, deep-fried pork cutlet. There are two main types, fillet and loin. It is often served with shredded cabbage.
+### <span style="color:red">Ikayaki (イカ焼き)</span>
 
-<img align="right" style="width:250px; padding: 10px" src="./sushi.png"> **Sushi (すし)** – this famous traditional dish is made with specially prepared rice that’s mixed with vinegar, salt, and sugar and served with raw or cooked seafood on top.
+<figure style="width: 600px" class="align-center">
+  <img src="./ikayaki.png" alt="">
+  <figcaption></figcaption>
+</figure>
 
-<img align="left" style="width:250px; padding: 10px" src="./kayu.png"> **Kayu (お粥)** - rice porridge made by slow cooking rice in lots of water. Kayu is often garnished with umeboshi and is commonly served to sick people because it is easily digestible.
+Grilled squid. The portion of squid served may be the whole body (except the entrails), rings cut from the body, or one or more tentacles, depending on the size. A good street food you should try.
 
+### <span style="color:mediumvioletred">Takoyaki (たこ焼き)</span>
 
-## <span style="color:olive"> Noodles (麺) </span>
+<img align="left" style="width:250px; padding: 10px" src="./takoyaki.png"> Takoyaki is a kind of dumpling, made from grilled puffs of seasoned batter with a small piece of octopus meat in the middle, with sauces and seasonings scattered along the top. This savory dish is very famous and even appears in other Asia countries.
 
-Noodles are one of the main parts of Japanese cuisine. They are often served chilled with dipping sauces, or in soups or hot dishes.
+### <span style="color:deeppink">Senbei (せんべい)</span>
 
-<img align="left" style="width:250px; padding: 10px" src="./ramen.png"> **Ramen (ラーメン)** - thin, wheat-based noodles made from wheat flour, salt, water, and kansui (a form of alkaline water). Ramen has a firm texture and pale yellow in color. They are served in a broth.
+<img align="right" style="width:250px; padding: 10px" src="./senbei.png"> Senbei is a traditional Japanese snack made from rice. It tastes good, and there are many kinds of Senbei in Japan. This is also a favorite food of the deer in <a href="http://aquabubu.com/en/Japan-travel-Nara-Deer-Park/" target="_blank">Nara park</a>.
 
-<img align="right" style="width:250px; padding: 10px" src="./soba.png"> **Soba (そば)** - made from buckwheat and wheat flour. The noodles are available dried or fresh and may be served with hot broth or cold with dipping sauce.
+### <span style="color:green">Oden (おでん)</span>
 
-<img align="left" style="width:250px; padding: 1px" src="./udon.png"> **Udon (うどん)** - the thickest noodles in Japanese Cuisine. Udon is white, wheat-based noodles, that are 4-6mm in width. These dishes are served chilled with a dipping sauce in the summer months, or in hot dishes and soups when the temperature gets colder.
-  
-	
-## <span style="color:deeppink"> Tempura (天ぷら) </span>
+<figure style="width: 600px" class="align-center">
+  <img src="./oden.png" alt="">
+  <figcaption></figcaption>
+</figure>
 
-<img align="right" style="width:250px; padding: 10px" src="./tempura.png"> Tempura is a classical Portuguese dish brought to and popularized by Japan, consisting of seafood, meet or vegetables coated with batter and deep fried. The resulting food has a light, but crispy texture, that may be seasoned with salt or dipped in a light sauce before eating. 
+A hot pot dish prepared with various fish cakes, daikon, boiled eggs, konyaku and kombu seaweed, slowly simmered in a soy sauce-based soup. 
 
+### <span style="color:dodgerblue"> Dorayaki (どら焼き)</span>
 
-## <span style="color:slateblue"> Unagi dishes (うなぎ料理) </span>
+<figure style="width: 600px" class="align-center">
+  <img src="./dorayaki.png" alt="">
+  <figcaption></figcaption>
+</figure>
 
-This is the Japanese eel dishes. Unagi contains rich nutrients including vitamins necessary to face the debilitating heat of summer. Moreover, it is easy to digest, and good for stomachs and intestines.
+Doraemon is my most favorite Japanese manga, and he loves this dorayaki. Therefore, nothing can stop me from trying this cute cake - а red bean pancake which consists of two small pancake-like patties made from castella wrapped around a filling of sweet Azuki red bean paste.
 
-<img align="left" style="width:250px; padding: 1px" src="./kabayaki.png"> **Kabayaki (蒲焼)** - grilled eel (without head or tail) prepared by splitting and boning, skewering, then grilling while basting a sweet unagi sauce made from soy sauce, mirin (sweetened sake), sake and sugar.
+### <span style="color:olivedrab">Mochi (餅)</span>
 
-<img align="right" style="width:250px; padding: 10px" src="./hitsu.png"> **Hitsumabushi (ひつまぶし)** - this is shredded grilled eel over rice. Hitsumabushi is usually served with condiments such as wasabi, chopped nori (seaweed) and spring onions, and dashi broth or tea.
+Japanese rice cake made of mochigome, a short-grain japonica glutinous rice. There are so many kinds of them. If you like sweety things, mochi is definitely a right choose for you.
 
+<figure style="width: 600px" class="align-center">
+  <img src="./mochi.png" alt="">
+  <figcaption></figcaption>
+</figure>
 
-## <span style="color:mediumorchid"> Nabe Dishes (鍋料理) </span>
+  * **Daifuku (大福)** - This is a soft round mochi stuffed with sweet filling, such as sweetened red bean paste or white bean paste
 
-This is the hot pot dishes in Japan, usually served in a hot pot containing vegetables such as negi (Japanese leek) and hakusai (Chinese cabbage), various mushrooms, seafood and/or meat.
+  * **Ichigo Daifuku (いちご大福)** - A version of daifuku containing a whole strawberry inside (strawberry can be replaced with other fruits).
 
-<img align="left" style="width:250px; padding: 1px" src="./shabu.png"> **Shabu Shabu (しゃぶしゃぶ)** - a very popular hot pot where pieces of thinly sliced meat, seafood, vegetables, mushrooms, and tofu, are cooked by dipping them into a hot soup. The bite-sized pieces are then dipped into a ponzu citrus or sesame sauce before being eaten.
+  * **Kusa Mochi (草餅)** - A green variety of mochi flavored with yomogi (mugwort).
 
-<img align="right" style="width:250px; padding: 10px" src="./chanko.png"> **Chanko Nabe (ちゃんこ鍋)** - this is the traditional staple diet of sumo wrestlers. There are many varieties of chanko nabe, which can be tried at the several specialty chanko nabe restaurants around Ryogoku, the sumo district in Tokyo.
+  * **Mochi ice cream (もちアイス)** - Small colorful balls made from Japanese mochi (pounded sticky rice) with an ice cream filling.
 
+  * **Oshiruko (おしるこ)** - A sweet dessert soup made with red beans and pieces of mochi.
 
-## <span style="color:red"> Sashimi (刺身) </span> 
+### </span><span style="color:plum">Chocolate Banana (チョコバナナ)</span>
 
-<img align="right" style="width:250px; padding: 10px" src="./sashimi.png"> A diverse of fish can be enjoyed raw if they are fresh and prepared correctly. They're usually served with soy sauce and wasabi.
+<img align="right" style="width:250px; padding: 10px" src="./chocolatebanana.png"> This colorful street food dessert will make you surprise with its taste and form. The banana is coated with chocolate (milk, dark or white), and is often dunked in colorful sugar strands.
+
+### <span style="color:mediumseagreen">Namagashi (生菓子)</span>
+
+<figure style="width: 600px" class="align-center">
+  <img src="./namagashi.png" alt="">
+  <figcaption></figcaption>
+</figure>
+
+Namagashi is a category of traditional Japanese dessert that includes any fresh prepared sweet that is fancy enough to present at the tea ceremony.
 

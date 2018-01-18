@@ -1,7 +1,7 @@
 ---
-title: Ẩm thực Nhật Bản - Phần 1
-cover: /images/jcuisine1.png
-date: 2016/10/15
+title: Ẩm thực Nhật Bản - Phần 2
+cover: /images/jcuisine2.png
+date: 2016/11/15
 category: Cuisine
 tags:
   - Cuisine
@@ -11,63 +11,94 @@ tags:
   - am-thuc
 ---
 
-Ẩm thực Nhật Bản thường chú trọng vào hương vị tươi mới và tinh khiết của các món ăn. Hương vị của các món ăn Nhật Bản thường thanh nhẹ và thích hợp cho sự thay đổi theo mùa ở nước họ. Do vị trí bao quanh bởi biển, các loại hải sản và rong biển chiếm một phần quan trọng trong các bữa ăn của người Nhật. Ngoài ra, thực phẩm chế biến từ đậu nành cũng là một điểm đặc trưng trong ẩm thực nước này.
+Trong <a href="http://aquabubu.com/vn/Japanese-cuisine-Part-1/" target="_blank">bài viết trước</a>, mình đã giới thiệu các món ăn chính ở Nhật. Bây giờ mình sẽ giới thiệu các món ăn vặt ngon và độc đáo của họ nhé. ^^
 
-Đối với đồ uống, người Nhật nổi tiếng với nghệ thuật pha trà (trà đạo), đặc biệt là bột trà xanh tinh khiết được làm bởi các thiền sư - là loại trà chính trong các buổi tiệc trà. Rượu gạo sakamai nồng đọ cao được gọi là sake. Bên cạnh đó, các món ăn của Nhật Bản cũng phản ánh được gu thẩm mỹ tinh xảo và sự khéo léo của người nấu trong việc trang trí các món ăn, để khách hàng có thể nhìn thấy không chỉ vẻ đẹp của  món ăn mà còn đẹp ở vật đựng món ăn đó (nghệ thuật sắp đặt đấy mn ạ:laughing:).
+### <span style="color:royalblue">Okonomiyaki (お好み焼き)</span>
 
-Dưới đây là danh sách một số món ngon và đặc trưng ở Nhật Bản mà nếu có điều kiện, bạn không nên bỏ lỡ khi đến đó.
+<figure style="width: 600px" class="align-center">
+  <img src="./okonomiyaki.png" alt="">
+  <figcaption></figcaption>
+</figure>
 
+Đây chính là món bánh xèo của ngwơif Nhật đấy. Bánh xèo với nhân chủ yếu là thịt heo và rau bắp cải, được chiên trong chảo dầu nóng. Khi ăn thì xịt tương  Worcester lên. Món này ăn ngon và là một trong những món mình thích nhất ở Nhật.
 
-## <span style="color:navy"> Món cơm (Gohan - ご飯) </span>
+### <span style="color:coral">Yakitori (焼鳥)</span >
 
-Cơm là món ăn chính của người Nhật và có thể được sử dụng để cuộn trong rong biển khô hoặc làm món sushi hay nhiều món khác. Các món cơm khá đa dạng và cũng là một nét đặc trưng riêng của đất nước mặt trời mọc này.
+<figure style="width: 600px" class="align-center">
+  <img src="./yakitori.png" alt="">
+  <figcaption></figcaption>
+</figure>
 
-<img align="right" style="width:250px; padding: 10px" src="./bento.png"> **Bento (弁当)** – khi đi ra ngoài, người Nhật thường làm một hộp cơm (bento) có những thực phẩm từ rừng và biển bao gồm cơm (hoặc onigiri-cơm nắm), cá (hoặc thịt), rau và món tráng miệng.
-<img align="left" style="width:250px; padding: 10px" src="./donburi.png"> **Donburi (ドンブリ)** - tô cơm với thức ăn (cá, thịt, rau...ddax nấu chín) để trên mặt cơm. Nó được ăn kèm với súp miso.
+Đây là món gà xiên nướng, món này ăn cũng bình thường thôi. Nhưng kiểu ở Nhật người ta ăn với sốt riêng và hay bán dọc các con đường nên dễ ăn và nhiều người biết đến.
 
-<img align="right" style="width:250px; padding: 10px" src="./onigiri.png"> **Onigiri (おにぎり)** – cơm nắm được làm từ gạo trắng rồi nắn thành hình khối tam giác hoặc hình trụ và thường được bọc trong nori (rong biển).
+### </span><span style="color:darkturquoise">Nikuman (ニクマン)</span>
 
-<img align="left" style="width:250px; padding: 10px" src="./tonkatsu.png"> **Tonkatsu (トンカツ)** – cơm với thịt heo cắt miếng chiên xù thật giòn, thường được ăn kèm với bắp cải xào.
+<img align="right" style="width:250px; padding: 10px" src="./nikuman.png"> Món này y chang bánh bao thôi. Ăn cũng ngon, nhưng mình vẫn thích bánh bao Việt Nam nhất.:smile:
 
-<img align="right" style="width:250px; padding: 10px" src="./sushi.png"> **Sushi (すし)** – món ăn truyền thống nổi tiếng này được làm bằng cách trộn một ít giấm, đường vô cơm rồi và hải sản sống hoặc chín đặt lên trên.
+### <span style="color:red">Ikayaki (イカ焼き)</span>
 
-<img align="left" style="width:250px; padding: 10px" src="./kayu.png"> **Kayu (お粥)** - món cháo nấu từ gạo ở Nhật, thường được nấu cho người bệnh ăn vì giúp tiêu hoá dễ dàng.
+<figure style="width: 600px" class="align-center">
+  <img src="./ikayaki.png" alt="">
+  <figcaption></figcaption>
+</figure>
 
+Món này là nguyên con mực (đã bỏ ruột) xiên vô que rồi nướng. Ăn vặt cũng ok lắm.
 
-## <span style="color:olive"> Món mì (麺) </span>
+### <span style="color:mediumvioletred">Takoyaki (たこ焼き)</span>
 
-Mì cũng là một trong những món ăn chính của ẩm thực Nhật Bản. Có những món mì ăn lạnh với nước chấm, hoặc ăn nóng với nước dùng.
+<img align="left" style="width:250px; padding: 10px" src="./takoyaki.png"> Takoyaki huyền thoại đây mọi người ạ. Bánh bột hình khối tròn, bên trong là 1 miếng bạch tuộc. Ở Nhật cái nhân bạch tuộc bên trong chất lượng hơn ở Việt nhé.:laughing:
 
-<img align="left" style="width:250px; padding: 10px" src="./ramen.png"> **Ramen (ラーメン)** - sợi mỳ mỏng làm từ bột mì, muối, nước, và kansui (một dạng nước kiềm). Ramen có màu vàng nhạt, thường được ăn với nước dùng.
+### <span style="color:deeppink">Senbei (せんべい)</span>
 
-<img align="right" style="width:250px; padding: 10px" src="./soba.png"> **Soba (そば)** - làm từ kiều mạch và bột mì. Có loại mì khô hoặc tươi và có thể ăn với nước dùng nóng hoặc ăn lạnh với nước chấm.
+<img align="right" style="width:250px; padding: 10px" src="./senbei.png"> Đây là món bánh gạo, ăn được. Đây là món yêu thích của mấy em hươu nai ở <a href="http://aquabubu.com/vi/Japan-travel-Nara-Deer-Park/" target="_blank">công viên Nara</a> nhé.
 
-<img align="left" style="width:250px; padding: 1px" src="./udon.png"> **Udon (うどん)** - đây là loại mì dày nhất trong trong các món mì ở Nhật. Udon có màu trắng, làm từ lúa mì, sợ mì có chiều rộng 4-6mm. Món này ăn lạnh với nước chấm trong những tháng mùa hè, hoặc ăn nóng với nước dùng khi trời lạnh.
-  
-	
-## <span style="color:deeppink"> Các món chiên bột (天ぷら) </span>
+### <span style="color:green">Oden (おでん)</span>
 
-<img align="right" style="width:250px; padding: 10px" src="./tempura.png"> Tempura là một món ăn từ Bồ Đào Nha du nhập sang Nhật Bản. Tất cả hải sản, thịt hoặc rau đều có thể phủ được bột và chiên giòn. Món này thường được ăn kèm trong các món ăn chính như cơm hoặc mì, chấm tương khi ăn. 
+<figure style="width: 600px" class="align-center">
+  <img src="./oden.png" alt="">
+  <figcaption></figcaption>
+</figure>
 
+Đây là món lẩu bánh cá. Bánh cá ở Nhật giống giống chả cá bên mình, nhưng ăn nhiều bột hơn nên mình không thích lắm. Ăn thử một lần cho biết cũng được nhé. 
 
-## <span style="color:slateblue"> Các món lươn (うなぎ料理) </span>
+### <span style="color:dodgerblue"> Dorayaki (どら焼き)</span>
 
-Đây là các món lươn của Nhật Bản. Unagi có chứa chất dinh dưỡng phong phú bao gồm vitamin cần thiết để chống lại cơn nóng bức của mùa hè. Hơn nữa, nó còn dễ tiêu hóa, tốt cho dạ dày và ruột.
+<figure style="width: 600px" class="align-center">
+  <img src="./dorayaki.png" alt="">
+  <figcaption></figcaption>
+</figure>
 
-<img align="left" style="width:250px; padding: 1px" src="./kabayaki.png"> **Kabayaki (蒲焼)** - lươn nướng (bỏ đầu hoặc đuôi) được làm sạch và sơ chế trước, sau đó nướng trong sốt unagi ngọt được làm từ nước tương, mirin (sake ngọt), sake và đường.
+Có ai là fan doraemon giống mình không nhỉ? Bánh rán huyền thoại bạn Mèo ú thích đây. Bột bánh ăn ngon nhưng mình không thích nhân đậu đỏ lắm.
 
-<img align="right" style="width:250px; padding: 10px" src="./hitsu.png"> **Hitsumabushi (ひつまぶし)** - đây là lươn nướng nướng trên cơm. Hitsumabushi thường được ăn với wasabi, nori (rong biển), hành lá, và nước dashi hay trà.
+### <span style="color:olivedrab">Mochi (餅)</span>
 
+Mochi là bánh gạo Nhật Bản. Có nhiều loại mochi lắm, hầu hết là các món ngọt. Ai thích đồ ngọt thì không thể bỏ qua đâu nhé.
 
-## <span style="color:mediumorchid"> Các món lẩu (鍋料理) </span>
+<figure style="width: 600px" class="align-center">
+  <img src="./mochi.png" alt="">
+  <figcaption></figcaption>
+</figure>
 
-Đây là món lẩu của Nhật Bản, trong một nồi lẩu có chứa rau như negi (rau thơm Nhật) và hakusai (cải thảo), nấm, hải sản và/hoặc thịt.
+  * **Daifuku (大福)** - Bánh gạo nhân sốt đậu đỏ ngọt.
 
-<img align="left" style="width:250px; padding: 1px" src="./shabu.png"> **Shabu Shabu (しゃぶしゃぶ)** - một món lẩu rất phổ biến vơi những miếng thịt, hải sản, rau, nấm, đậu hũ mỏng được nhúng vào nồi nước nóng (khá giống bò nhúng giấm ở Việt Nam). Đồ ăn có kích thước nhỏ vừa, sau khi nhúng thì chấm nước sốt rồi ăn.
+  * **Ichigo Daifuku (いちご大福)** - Một phiên bản khác của daifuku với nhân trái cây.
 
-<img align="right" style="width:250px; padding: 10px" src="./chanko.png"> **Chanko Nabe (ちゃんこ鍋)** - món lẩu này có trong chế độ ăn uống truyền thống của các đô vật sumo. Có nhiều loại lẩu chanko mà bạn có thể ăn thử tại các nhà hàng chanko nabe đặc sản trên khắp Ryogoku, một khu quận tập trung các đô vật sumo ở Tokyo.
+  * **Kusa Mochi (草餅)** - Mochi xanh có rắc bột cây ngải cứu lên trên.
 
+  * **Mochi ice cream (もちアイス)** - Mochi nhiều màu sắc với nhân kem bên trong.
 
-## <span style="color:red"> Sashimi (刺身) </span> 
+  * **Oshiruko (おしるこ)** - Món chè đậu đỏ này có cho vài miếng bánh gạo bên trong.
 
-<img align="right" style="width:250px; padding: 10px" src="./sashimi.png"> Ở Nhật, nhiều loại cá có thể ăn sống nếu chúng tươi và được chế biến đúng cách. Chúng thường được ăn với nước tương và wasabi. Món này vá sushi là nổi tiếng quá rồi nhỉ, hai cái đều là đồ sống. Điểm khác duy nhất là sushi là món cơm với đồ sống, sashimi chỉ là đồ sống thôi.
+### </span><span style="color:plum">Chocolate Banana (チョコバナナ)</span>
+
+<img align="right" style="width:250px; padding: 10px" src="./chocolatebanana.png"> Món này nhìn hay nè các bạn. Quả chuối được phủ socola (socola sữa, đen hoặc trăng), rồi rắc kẹo trang trí hạt nhiều màu sắc lên.
+
+### <span style="color:mediumseagreen">Namagashi (生菓子)</span>
+
+<figure style="width: 600px" class="align-center">
+  <img src="./namagashi.png" alt="">
+  <figcaption></figcaption>
+</figure>
+
+Namagashi là một loại món tráng miệng truyền thống của Nhật Bản với các món đồ ngọt được làm với hình dáng và màu sắc cực bắt mắt. Món này thường được phục vụ trong các buổi tiệc trà.
+
