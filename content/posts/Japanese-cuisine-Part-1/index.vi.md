@@ -71,3 +71,5 @@ Mì cũng là một trong những món ăn chính của ẩm thực Nhật Bản
 ## <span style="color:red"> Sashimi (刺身) </span> 
 
 <img align="right" style="width:250px; padding: 10px" src="./sashimi.png"> Ở Nhật, nhiều loại cá có thể ăn sống nếu chúng tươi và được chế biến đúng cách. Chúng thường được ăn với nước tương và wasabi. Món này vá sushi là nổi tiếng quá rồi nhỉ, hai cái đều là đồ sống. Điểm khác duy nhất là sushi là món cơm với đồ sống, sashimi chỉ là đồ sống thôi.
+
+Trong bài viết này, mình chỉ giới thiệu về các món ăn chính thôi. Ở Nhật còn vô số các món ăn vặt độc đáo nhưng không kém phần ngon miệng đâu nhé. Các bạn xem thêm bài món ăn vặt ở <a href="http://aquabubu.com/vi/Japanese-cuisine-Part-2/" target="_blank">đây</a> nhe.^^

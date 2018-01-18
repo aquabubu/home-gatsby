@@ -11,7 +11,7 @@ tags:
   - am-thuc
 ---
 
-Trong <a href="http://aquabubu.com/vn/Japanese-cuisine-Part-1/" target="_blank">bài viết trước</a>, mình đã giới thiệu các món ăn chính ở Nhật. Bây giờ mình sẽ giới thiệu các món ăn vặt ngon và độc đáo của họ nhé. ^^
+Trong <a href="http://aquabubu.com/vi/Japanese-cuisine-Part-1/" target="_blank">bài viết trước</a>, mình đã giới thiệu các món ăn chính ở Nhật. Bây giờ mình sẽ giới thiệu các món ăn vặt ngon và độc đáo của họ nhé. ^^
 
 ### <span style="color:royalblue">Okonomiyaki (お好み焼き)</span>
 
