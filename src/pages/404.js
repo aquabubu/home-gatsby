@@ -3,7 +3,7 @@ import React from "react";
 const ErrorPage = () => {
   // Skip build, Browsers only
   if (typeof window !== 'undefined') {
-    window.___history.replace('/en/');
+    window.___history.replace('/');
   }
 
   return (
