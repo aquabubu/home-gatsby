@@ -15,7 +15,7 @@ tags:
 
 ## Đồ cho bé yêu
 
-Sắm sửa đồ cho bé yêu là việc làm yêu thích của mình. Phần trước mình đã giới thiệu <a href="http://aquabubu.com/blog/baby/Nhung-thu-can-chuan-bi-khi-mang-thai-Phan-1/" target="_blank">những thứ mẹ bầu cần mua cho mình và các vật dụng cần thiết</a>, và sau đây là danh sách những đồ cho bé mà mình đã mua.
+Sắm sửa đồ cho bé yêu là việc làm yêu thích của mình. Phần trước mình đã giới thiệu <a href="http://aquabubu.com/vi/Pregnancy-checklist-Part-1/" target="_blank">những thứ mẹ bầu cần mua cho mình và các vật dụng cần thiết</a>, và sau đây là danh sách những đồ cho bé mà mình đã mua.
 
 
 ### <span style="color:green"> Sữa dưỡng ẩm toàn thân + Sữa tắm gội 2 trong 1 + Kem dưỡng da mặt </span>

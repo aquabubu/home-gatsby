@@ -27,11 +27,11 @@ Mình đến Hong Kong là vào tháng 5, lúc này đang là Mid-season sale, c
 Mình đã đi chơi ở những địa điểm này:Disneyland, Ocean Park, Wong Tai Sin, Chi Lin - Nan Lian Garden, Peak Tram - The Peak, Tsim Sha Tsui Clock Tower, Avenue of Stars, Tsim Sha Tsui, Tai O Fishing Village, Ngong Ping, Citigate Tung Chung Outlet, Temple Market, Jade Market, Mid-levels Escalator (thang cuốn ngoài trời dài nhất trên thế giới), HK3D Museum (lúc mình đi thì ở đó đang có triển lãm One Piece 3D).
 
 
-Bài viết chi tiết về những địa điểm này ở <a href="http://aquabubu.com/blog/travel/Hong-Kong-trip/" target="_blank">đây</a> nhé.
+Bài viết chi tiết về những địa điểm này ở <a href="http://aquabubu.com/vi/Hong-Kong-travel/" target="_blank">đây</a> nhé.
 
 ## <span style="color:tomato"> Ẩm thực Hong Kong </span>
 
-Đánh dấu quán ăn nổi tiếng trên website Hong Kong này <a href="https://www.openrice.com/en/hongkong" target="_blank">OpenRice</a>, web này có tất tần tật các thông tin về nhà hàng, món ăn, ảnh, giá tiển, thời gian mở cửa và hướng dẫn đến đó luôn nhé, khá giống foody của Việt Nam. Còn <a href="http://aquabubu.com/blog/cuisine/Hong-Kong-food-trip/" target="_blank">đây</a> là bài viết của mình về những món ăn mình đã thử khi đi Hong Kong.
+Đánh dấu quán ăn nổi tiếng trên website Hong Kong này <a href="https://www.openrice.com/en/hongkong" target="_blank">OpenRice</a>, web này có tất tần tật các thông tin về nhà hàng, món ăn, ảnh, giá tiển, thời gian mở cửa và hướng dẫn đến đó luôn nhé, khá giống foody của Việt Nam. Còn <a href="http://aquabubu.com/vi/Hong-Kong-cuisine/" target="_blank">đây</a> là bài viết của mình về những món ăn mình đã thử khi đi Hong Kong.
 
 
 Ẩm thực Hồng Kông là sự kết hợp giữa ẩm thực Trung Quốc và phương Tây, rất ngon, rất đáng nhớ. Đây là điều làm mình ấn tượng nhất khi đi du lịch nước này. Mình đã ăn ở khoảng 20 quán nổi tiếng và những nhà hàng được bình chọn bởi người dân địa phương thì rất là ngon nhé.

@@ -13,7 +13,7 @@ tags:
   - chuan-bi-do
 ---
 
-In the last post, I have introduced you my <a href="http://aquabubu.com/blog/baby/Pregnancy-checklist-Part-1/" target="_blank">pregnacy checklist for mom</a>, And now is what you need to prepare for your beloved baby.
+In the last post, I have introduced you my <a href="http://aquabubu.com/en/Pregnancy-checklist-Part-1/" target="_blank">pregnacy checklist for mom</a>, And now is what you need to prepare for your beloved baby.
 
 ### <span style="color:green"> Baby lotion + Baby bath and shampoo + Baby cream </span>
 

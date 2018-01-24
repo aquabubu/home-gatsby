@@ -11,7 +11,7 @@ tags:
   - du-lich
 ---
 
-Let's continue to see the places in Bangkok. So, in the <a href="http://aquabubu.com/blog/travel/A-trip-to-Bangkok-Part-1/" target="_blank">last post </a>, I talked about some places and stopped at the Wat Arun and from there, I went to Wat Pho and Grand Palace.
+Let's continue to see the places in Bangkok. So, in the <a href="http://aquabubu.com/en/Bangkok-trip-Part-1/" target="_blank">last post </a>, I talked about some places and stopped at the Wat Arun and from there, I went to Wat Pho and Grand Palace.
 
 
 ##  <span style="color:red">  Wat Pho & Grand Palace </span>

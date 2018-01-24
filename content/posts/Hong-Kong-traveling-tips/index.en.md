@@ -23,12 +23,11 @@ I made my trip in May (Mid-season Sale, items decreased slightly, about 30%). Yo
 
 I have visited these places: Disneyland, Ocean Park, Wong Tai Sin, Chi Lin - Nan Lian Garden, Peak Tram - The Peak, Tsim Sha Tsui Clock Tower, Avenue of Stars, Tsim Sha Tsui, Tai O Fishing Village, Ngong Ping, Citigate Tung Chung Outlet, Temple Market, Jade Market, Mid-levels Escalator (the longest outdoor escalator in the world),  HK3D Museum (at that time, there was One Piece 3D exhibition).
 
-
-See the review <a href="http://aquabubu.com/blog/travel/Hong-Kong-trip/" target="_blank">here</a>.
+See the review <a href="http://aquabubu.com/en/Hong-Kong-travel/" target="_blank">here</a>.
 
 ## <span style="color:tomato"> Food and Drink </span>
 
-There is a website in Hong Kong called <a href="https://www.openrice.com/en/hongkong" target="_blank">OpenRice</a> that has all information about the restaurants, special dishes, pictures, prices, hours, instructions to go. Or, you can take a look at my <a href="http://aquabubu.com/blog/cuisine/Hong-Kong-food-trip/" target="_blank">post</a> of Hong Kong food that I've tried.
+There is a website in Hong Kong called <a href="https://www.openrice.com/en/hongkong" target="_blank">OpenRice</a> that has all information about the restaurants, special dishes, pictures, prices, hours, instructions to go. Or, you can take a look at my <a href="http://aquabubu.com/en/Hong-Kong-cuisine/" target="_blank">post</a> of Hong Kong food that I've tried.
 
 
 Hong Kong food is a combination between Chinese & Western cuisine, extremely delicious, extremely memorable. This is what impressed me most. I enjoyed the food at about 20 local famous restaurants and those restaurants that are voted by the local people were really good. 

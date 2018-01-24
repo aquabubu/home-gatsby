@@ -75,6 +75,6 @@ If you climb up the stone stairs to the balcony, you can see the panoramic view 
 Located next to the waterfront, Wat Arun truly becomes one of the great attractions in the capital, which allows you to have a marvelous sightseeing. It is a symbol of Bangkok tourism with very special Thai-style architecture.
 
 
-This is the first part of the trip and the rest will be posted <a href="http://aquabubu.com/blog/travel/A-trip-to-Bangkok-Part-2/" target="_blank">here </a>.
+This is the first part of the trip and the rest will be posted <a href="http://aquabubu.com/en/Bangkok-trip-Part-2/" target="_blank">here </a>.
 
 #### *Co-author: Ngoc Cat My* 

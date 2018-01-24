@@ -73,5 +73,5 @@ This is the hot pot dishes in Japan, usually served in a hot pot containing vege
 
 <img align="right" style="width:250px; padding: 10px" src="./sashimi.png"> A diverse of fish can be enjoyed raw if they are fresh and prepared correctly. They're usually served with soy sauce and wasabi.
 
-In this post, I just introduce some savory main foods in Japan. However, the Japanese still have a lot of unique and delicious street foods that you can't miss. What are these street food? Let's take a look <a href="http://aquabubu.com/en/Japanese-cuisine-Part-2/" target="_blank">here</a>.
+In this post, I just introduce some savory main foods in Japan. However, the Japanese still have a lot of unique and delicious street foods that you can't miss. What are these street foods? Let's take a look <a href="http://aquabubu.com/en/Japanese-cuisine-Part-2/" target="_blank">here</a>.
 

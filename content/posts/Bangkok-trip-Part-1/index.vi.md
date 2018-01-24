@@ -75,6 +75,6 @@ Nếu leo hết cầu thang đá trên ban công, bạn có thể nhìn thấy 
 Nằm bên cạnh bờ sông, chùa Bình Minh thật sự là một trong những điểm tham quan tuyệt vời của thủ đô Bangkok. Đây là một biểu tượng của ngành du lịch Bangkok với kiến trúc kiểu Thái đặc biệt.
 
 
-Phần tiếp theo của chuyến du lịch Bangkok mình sẽ viết ở <a href="http://aquabubu.com/blog/travel/Du-lich-Bangkok-Phan-2/" target="_blank">đây </a>nhé.
+Phần tiếp theo của chuyến du lịch Bangkok mình sẽ viết ở <a href="http://aquabubu.com/vi/Bangkok-trip-Part-1/" target="_blank">đây </a>nhé.
 
 #### *Đồng tác giả: Ngọc Cát My* 

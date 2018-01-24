@@ -67,5 +67,5 @@ Công viên Nara cách ga Kintetsu Nara 5 phút đi bộ hoặc cách trạm JR 
   <figcaption></figcaption>
 </figure>
 
-Bạn sẽ đi bộ rất nhiều xung quanh công viên này, vì vậy nên mặc quần áo thoải mái và đi giày thể thao. Không giống như các đền thờ ở Hàn Quốc, hầu hết các đền thờ ở Nhật Bản đều phải mua vé vào cổng  vì vậy bạn phải trả tiền nếu bạn muốn vào các đền thờ ở trên ( nhưng giá vé cũng không mắc, chỉ khoảng 500 JPY). Các bạn có thể tham khảo bài viết về đền <a href="http://aquabubu.com/blog/travel/Du-lich-Nhat-Ban-Den-tho-Fushimi-Inari-taisha-o-Kyoto/" target="_blank">Fushimi Inari-taisha</a>, và chi tiết công viên ở <a href="https://www.youtube.com/watch?v=4ofKe0mqjDI" target="_blank">đây</a> nhé!
+Bạn sẽ đi bộ rất nhiều xung quanh công viên này, vì vậy nên mặc quần áo thoải mái và đi giày thể thao. Không giống như các đền thờ ở Hàn Quốc, hầu hết các đền thờ ở Nhật Bản đều phải mua vé vào cổng  vì vậy bạn phải trả tiền nếu bạn muốn vào các đền thờ ở trên ( nhưng giá vé cũng không mắc, chỉ khoảng 500 JPY). Các bạn có thể tham khảo bài viết về đền <a href="http://aquabubu.com/vi/Japan-travel-Fushimi-Inari-taisha-the-head-shrine-of-Inari-Kyoto/" target="_blank">Fushimi Inari-taisha</a>, và chi tiết công viên ở <a href="https://www.youtube.com/watch?v=4ofKe0mqjDI" target="_blank">đây</a> nhé!
  

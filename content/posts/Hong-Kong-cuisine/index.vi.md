@@ -185,6 +185,6 @@ Cuối cùng, là quán dim sum ngon nhất ở Hong Kong. Bạn cần phải 
   <figcaption></figcaption>
 </figure>
 
-Không có gì khó hiểu khi Hong Kong được gọi là thiên đường ăn uống, ẩm thực của họ thật tuyệt vời! Nếu mình có đi đến Hong Kong du lịch lần nữa thì chắc chắn là vì các món ăn tuyệt vời của họ. Để có thêm thông tin về Hong Kong, các bạn có thể đọc thêm bài viết về <a href="http://aquabubu.com/blog/travel/Hong-Kong-trip/" target="_blank">địa điểm du lịch</a>  và <a href="http://aquabubu.com/blog/travel/Hong-Kong-traveling-tips/" target="_blank">kinh nghiệm du lịch</a> của mình nhé!
+Không có gì khó hiểu khi Hong Kong được gọi là thiên đường ăn uống, ẩm thực của họ thật tuyệt vời! Nếu mình có đi đến Hong Kong du lịch lần nữa thì chắc chắn là vì các món ăn tuyệt vời của họ. Để có thêm thông tin về Hong Kong, các bạn có thể đọc thêm bài viết về <a href="http://aquabubu.com/vi/Hong-Kong-travel/" target="_blank">địa điểm du lịch</a>  và <a href="http://aquabubu.com/vi/Hong-Kong-traveling-tips/" target="_blank">kinh nghiệm du lịch</a> của mình nhé!
 
 #### *Đồng tác giả: Ngọc Cát My*

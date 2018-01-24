@@ -252,6 +252,6 @@ Mua vé rẻ tại <a href="https://www.klook.com/activity/23-ocean-park-hong-k
 Có một phòng dành riêng cho các thể loại cá vàng. Ngoài ra còn có nhện, gấu trúc, cáo, và thậm chí cả gián rừng nữa. Vào 8 giờ tối có show nước 3D hay lắm (giống như chương trình pháo hoa ở Disneyland ấy).
 
 
-Trên đây là những địa điểm mình đã đi ở Hong Kong, các bạn có thể xem thêm bài viết  <a href="http://aquabubu.com/blog/cuisine/Am-thuc-Hong-Kong/" target="_blank">ẩm thực Hong Kong</a> và  <a href="http://aquabubu.com/blog/travel/Kinh-nghiem-du-lich-Hong-Kong/" target="_blank">kinh nghiệm du lịch Hong Kong</a> nhé.
+Trên đây là những địa điểm mình đã đi ở Hong Kong, các bạn có thể xem thêm bài viết  <a href="http://aquabubu.com/vi/Hong-Kong-cuisine/" target="_blank">ẩm thực Hong Kong</a> và  <a href="http://aquabubu.com/vi/Hong-Kong-traveling-tips/" target="_blank">kinh nghiệm du lịch Hong Kong</a> nhé.
 
 #### *Đồng tác giả: Ngọc Cát My*

@@ -102,4 +102,4 @@ This is also one of the necessary things to buy. Regular check your baby's tempe
 
 Because after vaccination, their temperature tend to increase that they may have a fever. For babies, having a fever is always dangerous. I bought Braun's thermometer and it can be used for both babies and adults.
 
-For baby clothes and things, check <a href="http://aquabubu.com/blog/baby/Nhung-thu-can-chuan-bi-khi-mang-thai-Phan-1/" target="_blank">here</a>.
+For baby clothes and things, check <a href="http://aquabubu.com/en/Pregnancy-checklist-Part-2/" target="_blank">here</a>.
