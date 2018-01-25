@@ -1,6 +1,6 @@
 ---
 title: Review - Innisfree Micro perfect brush and Sea salt whipping cleanser
-cover: /images/brushandcleanser.png
+cover: /images/innisbrushandcleanser.png
 date: 2016/02/13
 category: Beauty
 tags:
