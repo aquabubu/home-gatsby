@@ -1,7 +1,7 @@
 ---
 title: Vietnamese cuisine - In the North
 cover: /images/northcuisine.png
-date: 2017/05/05
+date: 2016/10/31
 category: Cuisine
 tags:
   - Cuisine
