@@ -10,7 +10,7 @@ module.exports = {
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "", // FB Application ID for using app insights
   siteGATrackingID: "UA-109856440-1", // Tracking code ID for google analytics.
-  disqusShortname: "aquabubu-com", // Disqus shortname.
+  disqusShortname: "aquabubu", // Disqus shortname.
   postDefaultCategoryID: "Tech", // Default category for posts.
   userName: "AquaBuBu", // Username to display in the author segment.
   userTwitter: "", // Optionally renders "Follow Me" in the UserInfo segment.

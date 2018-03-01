@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import ReactDisqusComments from "react-disqus-comments";
+import ReactDisqusThread from "react-disqus-thread";
 import Card from "react-md/lib/Cards/Card";
 import CardTitle from "react-md/lib/Cards/CardTitle";
 import CardText from "react-md/lib/Cards/CardText";
@@ -42,7 +43,7 @@ class Disqus extends Component {
           expander={!expanded}
         />
         <CardText expandable={!expanded}>
-          <ReactDisqusComments
+          <ReactDisqusThread
             shortname={config.disqusShortname}
             identifier={post.title}
             title={post.title}
