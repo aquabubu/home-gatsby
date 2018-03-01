@@ -44,9 +44,9 @@ class Disqus extends Component {
         <CardText expandable={!expanded}>
           <ReactDisqusComments
             shortname={config.disqusShortname}
-            identifier={post.title}
+            // identifier={post.title}
             title={post.title}
-            url={url}
+            // url={url}
             // category_id={post.category_id}
             onNewComment={this.notifyAboutComment}
           />
